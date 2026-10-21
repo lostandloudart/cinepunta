@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-21T14:17:20.081Z",
+  "generatedAt": "2026-10-21T18:44:16.554Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-21T14:17:20.081Z",
+      "updatedAt": "2026-10-21T18:44:16.554Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-21T14:17:20.081Z",
+      "updatedAt": "2026-10-21T18:44:16.554Z",
       "ok": true
     }
   ],
@@ -1209,7 +1209,7 @@
           "room": "SALA 1 / 4D "
         }
       ],
-      "summary": "FESTIVAL DE TERROR Y SANGRE - Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman."
+      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman."
     },
     {
       "id": "life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7",
