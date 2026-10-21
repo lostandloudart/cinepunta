@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-21T18:44:16.554Z",
+  "generatedAt": "2026-10-21T22:23:09.498Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-21T18:44:16.554Z",
+      "updatedAt": "2026-10-21T22:23:09.498Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-21T18:44:16.554Z",
+      "updatedAt": "2026-10-21T22:23:09.498Z",
       "ok": true
     }
   ],
@@ -238,12 +238,6 @@
       "sessions": [
         {
           "date": "2026-10-21",
-          "time": "16:30",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
           "time": "19:10",
           "format": "2D Español",
           "room": "SALA 1"
@@ -265,18 +259,6 @@
           "time": "16:50",
           "format": "2D Español",
           "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "16:30",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "16:30",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D "
         },
         {
           "date": "2026-10-21",
@@ -345,12 +327,6 @@
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "17:10",
-          "format": "2D Español",
-          "room": "SALA 4"
-        },
-        {
           "date": "2026-10-22",
           "time": "17:10",
           "format": "2D Español",
@@ -388,12 +364,6 @@
         },
         {
           "date": "2026-10-28",
-          "time": "17:10",
-          "format": "2D Español",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-21",
           "time": "17:10",
           "format": "2D Español",
           "room": "SALA 4"
@@ -537,12 +507,6 @@
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "16:55",
-          "format": "2D Español",
-          "room": "SALA 3 VIP "
-        },
-        {
           "date": "2026-10-25",
           "time": "16:50",
           "format": "2D Español",
@@ -565,12 +529,6 @@
           "time": "16:50",
           "format": "2D Español",
           "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "16:55",
-          "format": "2D Español",
-          "room": "SALA 3 VIP "
         },
         {
           "date": "2026-10-25",
@@ -807,12 +765,6 @@
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "17:35",
-          "format": "2D Español",
-          "room": "SALA 2"
-        },
-        {
           "date": "2026-10-22",
           "time": "17:00",
           "format": "2D Español",
@@ -853,12 +805,6 @@
           "time": "17:00",
           "format": "2D Español",
           "room": "SALA 3 VIP "
-        },
-        {
-          "date": "2026-10-21",
-          "time": "17:35",
-          "format": "2D Español",
-          "room": "SALA 2"
         },
         {
           "date": "2026-10-22",
@@ -1458,402 +1404,6 @@
       "summary": "FESTIVAL DE TERROR Y SANGRE - Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita."
     },
     {
-      "id": "este-8b9c19d7-6b70-4ab7-9069-d844ba3a3cd0",
-      "title": "Cars 20 Aniversario",
-      "genre": "Animación",
-      "poster": "posters/este-8b9c19d7-6b70-4ab7-9069-d844ba3a3cd0.jpg",
-      "trailer": null,
-      "summary": "Estrenada en el año 2006. Mientras viajaba a California para la disputa de la carrera final de la Copa Pistón ante The King y Chick Hicks, el famoso Lightning McQueen daña accidentalmente la carretera del pequeño pueblo Radiator Springs y es sentenciado a repararlo. Lightning McQueen tiene que trabajar duro y encuentra amistad y amor en los simples lugareños, cambiando sus valores durante su estadía en el pequeño pueblo y convirtiéndose en un verdadero ganador.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "16:45",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "14:55",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "14:55",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983",
-      "title": "Street Fighter",
-      "genre": "Acción, Aventura",
-      "poster": "posters/este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983.jpg",
-      "trailer": "https://www.youtube.com/watch?v=CqzFnPkaFzI",
-      "summary": "Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-4263968a-3309-437d-9337-8f4d5ce76b9a",
-      "title": "El Corazón de la Bestia",
-      "genre": "Drama, Aventura",
-      "poster": "posters/este-4263968a-3309-437d-9337-8f4d5ce76b9a.jpg",
-      "trailer": "https://www.youtube.com/watch?v=apz2BoA11q8",
-      "summary": "Un ex soldado de las Fuerzas Especiales del Ejército y su perro de combate retirado intentan volver a la civilización tras sufrir un catastrófico accidente en las profundidades de los parajes salvajes de Alaska.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "16:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "17:15",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "17:15",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "16:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "16:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "17:15",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "17:15",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "17:15",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
-      "title": "La Isla Olvidada",
-      "genre": "Animación",
-      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
-      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
-      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "17:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "17:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "14:35",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "17:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "14:35",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "17:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "17:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "17:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "17:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
-      "title": "Verity: La Sombra de un Engaño",
-      "genre": "Drama, Suspenso",
-      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
-      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "19:05",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
-      "title": "Yo, Narciso",
-      "genre": "Comedia",
-      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
-      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
-      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "19:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
       "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
       "title": "La Casa",
       "genre": "Comedia Dramática",
@@ -2022,6 +1572,108 @@
       ]
     },
     {
+      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
+      "title": "Yo, Narciso",
+      "genre": "Comedia",
+      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
+      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
+      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-21",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
       "id": "este-0dbfdbb5-9c55-4726-a255-b153b92a9dfe",
       "title": "Escondida en Mi Cabeza",
       "genre": "Comedia",
@@ -2036,6 +1688,132 @@
           "time": "21:40",
           "format": "2D Esp",
           "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983",
+      "title": "Street Fighter",
+      "genre": "Acción, Aventura",
+      "poster": "posters/este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983.jpg",
+      "trailer": "https://www.youtube.com/watch?v=CqzFnPkaFzI",
+      "summary": "Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-21",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
+      "title": "La Isla Olvidada",
+      "genre": "Animación",
+      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
+      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "17:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "17:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "14:35",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "17:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "14:35",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "17:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "17:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "17:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "17:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
         }
       ]
     },
@@ -2102,6 +1880,60 @@
           "time": "17:00",
           "format": "2D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-4263968a-3309-437d-9337-8f4d5ce76b9a",
+      "title": "El Corazón de la Bestia",
+      "genre": "Drama, Aventura",
+      "poster": "posters/este-4263968a-3309-437d-9337-8f4d5ce76b9a.jpg",
+      "trailer": "https://www.youtube.com/watch?v=apz2BoA11q8",
+      "summary": "Un ex soldado de las Fuerzas Especiales del Ejército y su perro de combate retirado intentan volver a la civilización tras sufrir un catastrófico accidente en las profundidades de los parajes salvajes de Alaska.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "17:15",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "17:15",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "16:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "16:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "17:15",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "17:15",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "17:15",
+          "format": "2D Sub",
+          "room": "SALA 4"
         }
       ]
     },
@@ -2198,6 +2030,84 @@
           "time": "21:50",
           "format": "4D Esp",
           "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
+      "title": "Verity: La Sombra de un Engaño",
+      "genre": "Drama, Suspenso",
+      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
+      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-8b9c19d7-6b70-4ab7-9069-d844ba3a3cd0",
+      "title": "Cars 20 Aniversario",
+      "genre": "Animación",
+      "poster": "posters/este-8b9c19d7-6b70-4ab7-9069-d844ba3a3cd0.jpg",
+      "trailer": null,
+      "summary": "Estrenada en el año 2006. Mientras viajaba a California para la disputa de la carrera final de la Copa Pistón ante The King y Chick Hicks, el famoso Lightning McQueen daña accidentalmente la carretera del pequeño pueblo Radiator Springs y es sentenciado a repararlo. Lightning McQueen tiene que trabajar duro y encuentra amistad y amor en los simples lugareños, cambiando sus valores durante su estadía en el pequeño pueblo y convirtiéndose en un verdadero ganador.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "14:55",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "14:55",
+          "format": "2D Esp",
+          "room": "SALA 4"
         }
       ]
     },
