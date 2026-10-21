@@ -6,3 +6,10 @@ test('Este respeta fecha local y no convierte nombres de afiche en tráilers',()
 test('datos vencidos, inválidos o del futuro no se presentan como actuales',()=>{const now=Date.parse('2026-10-21T15:00Z');assert.equal(isFresh('2026-10-21T14:00Z',now),true);assert.equal(isFresh('2026-10-21T11:59Z',now),false);assert.equal(isFresh(null,now),false);assert.equal(isFresh('2026-10-22T15:00Z',now),false);});
 test('solo se aceptan tráilers de YouTube válidos',()=>{assert.equal(trailer('javascript:alert(1)'),null);assert.equal(trailer('https://www.youtube.com/embed/rPAHzsnQBVg?x=1'),'https://www.youtube.com/watch?v=rPAHzsnQBVg');});
 test('cambios inesperados de esquema generan errores, no cartelera inventada',()=>{assert.throws(()=>normalizeEste({}));assert.throws(()=>normalizeLife({data:[]},'punta'));});
+
+test('agenda ordena por fecha y hora, distingue cines y versiones y agrupa duplicados',async()=>{
+ const {agendaSessions}=await import('../docs/data-model.js');
+ const session={date:'2026-10-21',time:'20:00',format:'2D Esp',room:'Sala 1'};
+ const movies=[{id:'a',source:'life',title:'A',sessions:[session,{...session,room:'Sala 2'},{...session}, {...session,time:'16:30'},{...session,format:'2D Sub'},{...session,date:'2026-10-22'}]},{id:'b',source:'este',title:'B',sessions:[session]}];
+ const entries=agendaSessions(movies);assert.equal(entries.length,5);assert.equal(entries[0].time,'16:30');assert.equal(entries.at(-1).date,'2026-10-22');assert.deepEqual(entries.find(s=>s.movie.id==='a'&&s.time==='20:00'&&s.format==='2D Esp'&&s.date==='2026-10-21').rooms,['Sala 1','Sala 2']);assert.equal(movies[0].sessions.length,6);
+});

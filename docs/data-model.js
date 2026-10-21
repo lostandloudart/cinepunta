@@ -21,3 +21,15 @@ export function normalizeLife(raw,complexId) {
  return raw.data.filter(m=>(m.schedules||[]).some(s=>s.complexId===complexId)).map(m=>({id:'life-'+m.id,remoteId:m.id,title:m.name,genre:m.genre||'',poster:m.imagePath,trailer:null,source:'life',url:LIFE+'/?complex=Punta+del+Este',sessions:(m.schedules||[]).filter(s=>s.complexId===complexId&&Number.isFinite(s.startDate)).map(s=>({date:day(new Date(s.startDate)),time:new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).format(new Date(s.startDate)),format:s.filmTypeName||'',room:s.roomName||''}))}));
 }
 export function isFresh(updatedAt,now=Date.now()) {const age=now-Date.parse(updatedAt);return Number.isFinite(age)&&age>=-300000&&age<3*60*60*1000;}
+
+// Una entrada por película, cine, fecha, hora y versión. Las salas simultáneas se agrupan.
+export function agendaSessions(movies) {
+ const entries=new Map();
+ for(const movie of movies) for(const session of movie.sessions) {
+  const key=JSON.stringify([movie.id,movie.source,session.date,session.time,session.format]);
+  if(!entries.has(key)) entries.set(key,{movie,date:session.date,time:session.time,format:session.format,rooms:[]});
+  const entry=entries.get(key);
+  if(session.room&&!entry.rooms.includes(session.room))entry.rooms.push(session.room);
+ }
+ return [...entries.values()].sort((a,b)=>a.date.localeCompare(b.date)||a.time.localeCompare(b.time)||a.movie.title.localeCompare(b.movie.title,'es'));
+}

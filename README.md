@@ -28,3 +28,7 @@ python3 -m http.server 8000 --directory docs
 GitHub Pages utiliza GitHub Actions. El flujo valida las reglas de fecha y datos, actualiza la cartelera, guarda la instantánea y publica `docs/`. Permisos mínimos del flujo: `contents:write`, `pages:write`, `id-token:write`. No utiliza claves de API ni secretos propios.
 
 El sitio original de la conversación de ChatGPT no estaba incluido en la referencia recuperable. Esta implementación reconstruye CinePunta con los requisitos solicitados y fuentes oficiales verificadas.
+
+## Agenda de funciones
+
+La vista **Día** ordena las funciones de ambos cines por hora. **Semana** muestra siete columnas de fechas, con acceso al detalle de cada día y desplazamiento en pantallas pequeñas. La tira de días permite elegir cualquiera de las ocho fechas disponibles. **Afiches** conserva la cartelera visual. Todas las vistas comparten filtros de título, cine, género y versión. Las funciones simultáneas de una misma película, cine y versión se agrupan indicando sus salas; las versiones diferentes se conservan separadas. Las funciones iniciadas se distinguen visualmente.
