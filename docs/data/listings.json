@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-21T22:23:09.498Z",
+  "generatedAt": "2026-10-21T23:56:16.105Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-21T22:23:09.498Z",
+      "updatedAt": "2026-10-21T23:56:16.105Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-21T22:23:09.498Z",
+      "updatedAt": "2026-10-21T23:56:16.105Z",
       "ok": true
     }
   ],
@@ -228,50 +228,14 @@
       "summary": "En un futuro donde Panem está dividido en 12 distritos controlados por el Capitolio, Katniss Everdeen se ofrece como voluntaria para ocupar el lugar de su hermana en los 74° Juegos del Hambre, una competencia televisada en la que solo un participante puede sobrevivir. Allí deberá luchar por su vida mientras desafía las reglas del poder."
     },
     {
-      "id": "life-857e8986-11ba-11f1-9146-12ef3739f737",
+      "id": "life-942c9bc8-c679-11f1-a4cc-12b3fcdc08e7",
       "title": "STREET FIGHTER",
       "genre": "Acción",
-      "poster": "posters/life-857e8986-11ba-11f1-9146-12ef3739f737.jpg",
+      "poster": "posters/life-942c9bc8-c679-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=rPAHzsnQBVg",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "19:10",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "19:10",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "19:10",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D "
-        },
         {
           "date": "2026-10-21",
           "time": "21:45",
@@ -446,12 +410,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "19:30",
-          "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
-        },
         {
           "date": "2026-10-22",
           "time": "19:20",
@@ -633,12 +591,6 @@
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "19:50",
-          "format": "2D Español",
-          "room": "SALA 2"
-        },
-        {
           "date": "2026-10-22",
           "time": "19:35",
           "format": "2D Español",
@@ -671,12 +623,6 @@
         {
           "date": "2026-10-27",
           "time": "19:35",
-          "format": "2D Español",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "19:50",
           "format": "2D Español",
           "room": "SALA 2"
         },
@@ -1168,12 +1114,6 @@
       "sessions": [
         {
           "date": "2026-10-21",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-21",
           "time": "21:55",
           "format": "2D Español",
           "room": "SALA 4"
@@ -1247,12 +1187,6 @@
         {
           "date": "2026-10-28",
           "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "19:45",
           "format": "2D Español",
           "room": "SALA 4"
         },
@@ -1402,174 +1336,6 @@
         }
       ],
       "summary": "FESTIVAL DE TERROR Y SANGRE - Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita."
-    },
-    {
-      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
-      "title": "La Casa",
-      "genre": "Comedia Dramática",
-      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
-      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
-      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "19:05",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "19:05",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "19:05",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "19:05",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "19:05",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:05",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:05",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
     },
     {
       "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
@@ -1747,6 +1513,108 @@
           "date": "2026-10-28",
           "time": "17:15",
           "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-21",
+          "time": "22:00",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "22:00",
+          "format": "2D Sub",
           "room": "SALA 3"
         }
       ]
@@ -1934,6 +1802,60 @@
           "time": "17:15",
           "format": "2D Sub",
           "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
+      "title": "La Casa",
+      "genre": "Comedia Dramática",
+      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
+      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
+      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "19:05",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "19:05",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "19:05",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:05",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "19:05",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "19:05",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:05",
+          "format": "2D Esp",
+          "room": "SALA 1"
         }
       ]
     },
