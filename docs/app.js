@@ -1,4 +1,4 @@
-import {ZONE,ESTE,day,normalizeEste,isFresh,sources,agendaSessions} from './data-model.js';
+import {ZONE,ESTE,day,normalizeEste,isFresh,sources,agendaSessions} from './data-model.js?v=agenda-2';
 const $=id=>document.getElementById(id);let data={movies:[],sources:[]};let activeDay=day();let loading=false;let view=window.matchMedia('(max-width:900px)').matches?'day':'week';
 function el(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text)n.textContent=text;return n;}
 function dates(){const selected=$('date').value;const today=day();$('today').textContent=new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,weekday:'long',day:'numeric',month:'long'}).format(new Date());$('date').replaceChildren();for(let i=0;i<8;i++){const d=new Date(today+'T12:00:00-03:00');d.setUTCDate(d.getUTCDate()+i);const key=day(d);const title=i===0?'Hoy':i===1?'Mañana':new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,weekday:'short',day:'numeric',month:'short'}).format(d);$('date').append(new Option(title,key));}if([...$('date').options].some(o=>o.value===selected))$('date').value=selected;}
