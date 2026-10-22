@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-22T13:48:52.786Z",
+  "generatedAt": "2026-10-22T16:04:07.113Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-22T13:48:52.786Z",
+      "updatedAt": "2026-10-22T16:04:07.113Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-22T13:48:52.786Z",
+      "updatedAt": "2026-10-22T16:04:07.113Z",
       "ok": true
     }
   ],
@@ -466,6 +466,30 @@
         }
       ],
       "summary": "Despedido de una multinacional y bajo presión económica, Hugo Vaca vende su casa a un enigmático grupo de inversores, adentrándose en una situación que comienza a tornarse cada vez más incierta y peligrosa."
+    },
+    {
+      "id": "life-251951db-b1f7-11f1-9fd4-12b3fcdc08e7",
+      "title": "NARCISO",
+      "genre": "Drama",
+      "poster": "posters/life-251951db-b1f7-11f1-9fd4-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=DOzgDTZ3N3U",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-10-29",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 3 VIP "
+        },
+        {
+          "date": "2026-10-29",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 3 VIP "
+        }
+      ],
+      "summary": "Paraguay, 1959. El país vive bajo un régimen militar sofocante, Narciso regresa de Buenos Aires con el rock & roll como bandera. Carismático, provocador y deseado por hombres y mujeres, pronto se convierte en una estrella de la radio y en símbolo de libertad. Su programa sacude una sociedad conservadora y vigilada por el miedo. Tras su último show, Narciso aparece muerto. Mientras el silencio se impone, su muerte deja al descubierto una trama de deseos y represión. ¿Quién mató a Narciso?"
     },
     {
       "id": "life-7c64e219-971a-11f1-9fd4-12b3fcdc08e7",
