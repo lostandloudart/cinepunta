@@ -64,6 +64,7 @@ const titleKey=text=>text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowe
 function movieButton(movie){const button=el('button','movie-button','Ver ficha');button.type='button';button.addEventListener('click',()=>openMovie(movie));return button;}
 function movieHeading(movie){const h=el('h3');const button=el('button','movie-title-button',movie.title);button.type='button';button.addEventListener('click',()=>openMovie(movie));h.append(button);return h;}
 $('movie-close').addEventListener('click',()=>$('movie-dialog').close());
+$('movie-dialog').addEventListener('close',()=>$('movie-content').querySelectorAll('iframe').forEach(frame=>frame.remove()));
 function openMovie(movie){
  if($('session-dialog').open)$('session-dialog').close();
  const m=data.movies.find(m=>m.id===movie.id)||movie;const rating=reviews[titleKey(m.title)];const peer=data.movies.find(x=>x.metadata?.directors?.length&&(titleKey(x.title)===titleKey(m.title)||(rating?.url&&reviews[titleKey(x.title)]?.url===rating.url)));const metadata={...peer?.metadata,...m.metadata,directors:m.metadata?.directors?.length?m.metadata.directors:peer?.metadata?.directors||[],cast:m.metadata?.cast?.length?m.metadata.cast:peer?.metadata?.cast||[],originalTitle:m.metadata?.originalTitle||peer?.metadata?.originalTitle,language:m.metadata?.language||peer?.metadata?.language};$('movie-title').textContent=m.title;
@@ -71,7 +72,8 @@ function openMovie(movie){
  const main=el('div','movie-intro');main.append(el('p','eyebrow',m.genre||'PELÍCULA'));const facts=el('div','movie-facts');for(const text of [metadata.duration?metadata.duration+' min':null,metadata.classification?metadata.classification:null,metadata.language?metadata.language:null])if(text)facts.append(el('span','',text));main.append(facts);
  main.append(el('h3','','Sinopsis'),el('p','movie-summary',m.summary||'La fuente oficial todavía no publicó una sinopsis.'));
  const credits=el('dl','movie-credits');for(const [label,value]of [['Título original',metadata.originalTitle],['Dirección',metadata.directors?.join(', ')],['Reparto',metadata.cast?.join(', ')],['Estreno anunciado por el cine',metadata.releaseDate]])if(value){credits.append(el('dt','',label),el('dd','',value));}main.append(credits);if(metadata.classificationDescription)main.append(el('p','rating-note',metadata.classificationDescription));
- const actions=el('div','actions');if(m.trailer)actions.append(trailerButton(m));actions.append(link('Cartelera oficial ↗',m.url));main.append(actions,cinemaControls(m.source),el('p','rating-note','Sinopsis y datos técnicos: '+sources.find(s=>s.id===m.source).name+'. La duración y clasificación pueden variar según la versión.'));hero.append(main);content.append(hero);
+ const actions=el('div','actions');actions.append(link('Cartelera oficial ↗',m.url));main.append(actions,cinemaControls(m.source),el('p','rating-note','Sinopsis y datos técnicos: '+sources.find(s=>s.id===m.source).name+'. La duración y clasificación pueden variar según la versión.'));hero.append(main);content.append(hero);
+ const embeddedTrailer=trailerFrame(m);if(embeddedTrailer){const section=el('section','movie-section movie-trailer');section.append(el('h3','','Tráiler'),embeddedTrailer);content.append(section);}
  const scores=el('section','movie-section');scores.append(el('h3','','Puntajes de crítica y público'));if(rating?.externalTitle)scores.append(el('p','rating-note','Valoraciones de '+rating.externalTitle+(rating.year?' ('+rating.year+')':'')));const scoreGrid=el('div','score-grid');
  for(const score of rating?.scores||[]){const card=el('div','score-card');card.append(el('small','',score.kind),el('strong','',score.value),link(score.label+' ↗',score.url));if(score.count)card.append(el('small','',/^\d+$/.test(score.count)?score.count+' críticas':score.count.replace('Verified Ratings','valoraciones verificadas').replace('Ratings','valoraciones')));scoreGrid.append(card);}scores.append(scoreGrid);
  if(!rating?.scores?.length)scores.append(el('p','rating-note','Todavía no hay un puntaje verificado disponible para esta película.'));
@@ -84,11 +86,14 @@ function openMovie(movie){
  const sessions=agendaSessions(related.filter(m=>fresh.has(m.source))).filter(s=>s.date>=day()&&s.date<=last);const sessionList=el('div','movie-session-list');for(const s of sessions){const button=el('button','movie-session');button.type='button';button.append(el('strong','',dateTitle(s.date,true)+' · '+s.time),el('span','cinema-session cinema-'+s.movie.source,sources.find(x=>x.id===s.movie.source).name+' · '+s.format));button.addEventListener('click',()=>showSession(s));sessionList.append(button);}if(!sessions.length)sessionList.append(el('p','rating-note','Sin funciones recientes verificadas. Consultá la cartelera oficial.'));sessionsSection.append(sessionList);content.append(sessionsSection);$('movie-dialog').showModal();$('movie-dialog').scrollTop=0;
 }
 function trailerButton(movie){const button=el('button','trailer-button','▷ Tráiler');button.type='button';button.addEventListener('click',()=>openTrailer(movie));return button;}
+function trailerFrame(movie,autoplay=false){
+ let url;try{url=new URL(movie.trailer);}catch{return null;}const id=url.searchParams.get('v');if(!/^[\w-]{11}$/.test(id||''))return null;
+ const frame=el('iframe');frame.src='https://www.youtube-nocookie.com/embed/'+id+'?autoplay='+(autoplay?'1':'0')+'&rel=0';frame.title='Tráiler de '+movie.title;frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';return frame;
+}
 function openTrailer(movie){
- const url=new URL(movie.trailer);const id=url.searchParams.get('v');if(!/^[\w-]{11}$/.test(id||''))return;
+ const frame=trailerFrame(movie,true);if(!frame)return;
  if($('session-dialog').open)$('session-dialog').close();
- $('trailer-title').textContent=movie.title+' · Tráiler';$('trailer-player').replaceChildren();
- const frame=el('iframe');frame.src='https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0';frame.title='Tráiler de '+movie.title;frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';$('trailer-player').append(frame);$('trailer-dialog').showModal();
+ $('trailer-title').textContent=movie.title+' · Tráiler';$('trailer-player').replaceChildren(frame);$('trailer-dialog').showModal();
 }
 $('trailer-close').addEventListener('click',()=>$('trailer-dialog').close());$('trailer-dialog').addEventListener('close',()=>$('trailer-player').replaceChildren());
 $('session-close').addEventListener('click',()=>$('session-dialog').close());
