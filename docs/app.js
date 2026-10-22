@@ -1,4 +1,4 @@
-import {ZONE,ESTE,day,normalizeEste,isFresh,sources,agendaSessions,timelineLayout,navigationLinks} from './data-model.js?v=cinemas-8';
+import {ZONE,ESTE,day,normalizeEste,isFresh,sources,agendaSessions,timelineLayout,navigationLinks} from './data-model.js?v=tickets-11';
 const $=id=>document.getElementById(id);let data={movies:[],sources:[]};let activeDay=day();let loading=false;let reviews={};let view='timeline';
 function el(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text)n.textContent=text;return n;}
 function dates(){const selected=$('date').value;const today=day();$('today').textContent=new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,weekday:'long',day:'numeric',month:'long'}).format(new Date());$('date').replaceChildren();for(let i=0;i<8;i++){const d=new Date(today+'T12:00:00-03:00');d.setUTCDate(d.getUTCDate()+i);const key=day(d);const title=i===0?'Hoy':i===1?'Mañana':new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,weekday:'short',day:'numeric',month:'short'}).format(d);$('date').append(new Option(title,key));}if([...$('date').options].some(o=>o.value===selected))$('date').value=selected;}
@@ -45,7 +45,7 @@ function renderAgenda(movies,now){
  const time=el('time','event-time',session.time);time.dateTime=date+'T'+session.time+':00-03:00';event.append(time);
  const details=el('div','event-details');details.append(movieHeading(m),cinemaControls(m.source),el('p','event-format',session.format+(session.rooms.length?' · '+session.rooms.join(' / '):'')));
  if(past)details.append(el('small','started-label','Función iniciada'));
- const actions=el('div','event-actions');actions.append(movieButton(m),link('Entradas ↗',m.url));if(m.trailer)actions.append(trailerButton(m));details.append(actions);event.append(details);list.append(event);}
+ const actions=el('div','event-actions');actions.append(movieButton(m),sessionTickets(session));if(m.trailer)actions.append(trailerButton(m));details.append(actions);event.append(details);list.append(event);}
  column.append(list);wrap.append(column);}
  $('agenda').append(wrap);
 }
@@ -98,9 +98,10 @@ function openTrailer(movie){
 $('trailer-close').addEventListener('click',()=>$('trailer-dialog').close());$('trailer-dialog').addEventListener('close',()=>$('trailer-player').replaceChildren());
 $('session-close').addEventListener('click',()=>$('session-dialog').close());
 for(const id of ['trailer-dialog','session-dialog','movie-dialog','cinema-dialog'])$(id).addEventListener('click',event=>{if(event.target===$(id)){const r=$(id).getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)$(id).close();}});
+function sessionTickets(session){if(session.tickets?.length===1)return link('Entradas ↗',session.tickets[0].url);if(!session.tickets?.length)return link('Entradas ↗',session.movie.url);const button=el('button','','Entradas ↗');button.type='button';button.addEventListener('click',()=>showSession(session));return button;}
 function showSession(session){if($('movie-dialog').open)$('movie-dialog').close();
  const movie=session.movie;$('session-title').textContent=movie.title;const content=$('session-content');content.replaceChildren(el('p','session-date',dateTitle(session.date)+' · '+session.time),el('p','',sources.find(s=>s.id===movie.source).name),el('p','',session.format+' · '+session.rooms.join(' / ')));
- const actions=el('div','actions');actions.append(movieButton(movie),link('Entradas ↗',movie.url));if(movie.trailer)actions.append(trailerButton(movie));content.append(cinemaControls(movie.source),actions);$('session-dialog').showModal();
+ const actions=el('div','actions');actions.append(movieButton(movie),...((session.tickets?.length?session.tickets.map(t=>link('Entradas · '+(t.room||session.time)+' ↗',t.url)):[link('Entradas ↗',movie.url)])));if(movie.trailer)actions.append(trailerButton(movie));content.append(cinemaControls(movie.source),actions);$('session-dialog').showModal();
 }
 function renderTimeline(entries,now){
  if(!entries.length){$('agenda').append(el('p','calendar-empty','Sin funciones publicadas para esta fecha y estos filtros.'));return;}

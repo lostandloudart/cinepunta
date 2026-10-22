@@ -19,3 +19,11 @@ test('programación posiciona horarios en el eje horizontal y separa funciones s
 });
 
 test('enlaces de navegación identifican cada cine y no fijan el origen del usuario',async()=>{const{sources,navigationLinks}=await import('../docs/data-model.js');for(const cinema of sources){const urls=navigationLinks(cinema);const maps=new URL(urls.maps);const waze=new URL(urls.waze);assert.equal(maps.searchParams.get('api'),'1');assert.ok(maps.searchParams.get('destination').includes(cinema.venue));assert.equal(maps.searchParams.has('origin'),false);assert.equal(waze.searchParams.get('ll'),cinema.lat+','+cinema.lng);assert.equal(waze.searchParams.get('navigate'),'yes');}assert.notEqual(navigationLinks(sources[0]).waze,navigationLinks(sources[1]).waze);});
+
+test('compra conserva la función y sala oficiales y enlaza la película del Este',async()=>{
+ const {agendaSessions}=await import('../docs/data-model.js');
+ const [m]=normalizeLife({success:true,data:[{id:'a',name:'PELÍCULA: Prueba',schedules:[{id:'show-1',numbered:true,complexId:'punta',roomName:'Sala 1',startDate:1792692000000},{id:'show-2',numbered:true,complexId:'punta',roomName:'Sala 2',startDate:1792692000000}]}]},'punta');
+ assert.equal(m.url,'https://www.lifecinemas.com.uy/pelicula/pelicula-prueba?complex=Punta+del+Este');
+ const [s]=agendaSessions([m]);assert.deepEqual(s.tickets.map(t=>[t.room,t.url]),[['Sala 1','https://www.lifecinemas.com.uy/seats?scheduleId=show-1'],['Sala 2','https://www.lifecinemas.com.uy/seats?scheduleId=show-2']]);
+ const [e]=normalizeEste({billboardItems:[{content:{id:'official-id',title:'Prueba',urlSlug:'prueba',posterUrl:'a.jpg'},shows:[]}]});assert.equal(e.url,'https://www.cinesdeleste.com.uy/movie/official-id/prueba');
+});

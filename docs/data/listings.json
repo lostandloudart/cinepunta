@@ -1,18 +1,31 @@
 {
-  "generatedAt": "2026-10-22T16:23:49.753Z",
+  "generatedAt": "2026-10-22T16:43:36.809Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
+      "venue": "Punta Shopping",
+      "address": "Pascual Gattas, Punta del Este, Maldonado, Uruguay",
+      "phone": "+598 4249 2196",
+      "email": "lifecinemas@alfabeta.com.uy",
+      "lat": -34.9404,
+      "lng": -54.9343,
+      "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-22T16:23:49.753Z",
+      "updatedAt": "2026-10-22T16:43:36.809Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
+      "venue": "Atlántico Shopping",
+      "address": "Av. Roosevelt, Parada 22, Punta del Este, Maldonado, Uruguay",
+      "email": "hola@cinesdeleste.com.uy",
+      "lat": -34.915933472843996,
+      "lng": -54.96308127424616,
+      "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-22T16:23:49.753Z",
+      "updatedAt": "2026-10-22T16:43:36.809Z",
       "ok": true
     }
   ],
@@ -24,25 +37,28 @@
       "poster": "posters/life-d67cc534-b1fd-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=sVzNc72tUOI",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/el-bano-del-papa-reestreno?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-26",
           "time": "19:15",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=86c681da-cbf9-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:15",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=86c83d4e-cbf9-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "19:15",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=86c9c5ab-cbf9-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Es el año 1988 y el Papa Juan Pablo II visitará Melo. Se calcula que 50.000 personas asistirán a verlo. Los pobladores más humildes creen que vendiéndole comida y bebida a esa multitud se harán casi ricos. Beto, un contrabandista en bicicleta, decide en cambio construir un excusado en el frente de su casa y alquilar el servicio. Para lograrlo debe atravesar una serie de dificultades, trágicas algunas, cómicas otras, que ponen en peligro el apoyo de su esposa, la fidelidad de sus amigos bagayeros y su propia autoestima.",
@@ -71,31 +87,35 @@
       "poster": "posters/life-fbf7878a-919f-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/el-poder-de-la-red?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "21:30",
           "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1aec022-cbf9-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "21:30",
           "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1afca59-cbf9-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "21:30",
           "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1b09b8c-cbf9-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "21:30",
           "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1b19618-cbf9-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Como complemento de la exitosa película \"La Red Social\", esta película se inspira en la historia real de cómo Frances Haugen (Madison), una joven ingeniera de Facebook, recluta a Jeff Horwitz (White), un reportero del Wall Street Journal, para emprender un peligroso viaje que termina por revelar los secretos mejor guardados de la red social.\n",
@@ -123,115 +143,133 @@
       "poster": "posters/life-45599d93-c765-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/shrek-25-aniversario?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62ef8ef5-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62f41631-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "15:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7eb76fae-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62f7392d-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "15:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=86cde323-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62f9742d-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62fcc11b-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62ff04fe-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=63009dcb-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62ef8ef5-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62f41631-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "15:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7eb76fae-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62f7392d-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "15:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=86cde323-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62f9742d-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62fcc11b-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=62ff04fe-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "17:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=63009dcb-cbf7-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Shrek vuelve a la pantalla grande para celebrar sus 25 años. Cuando un malvado gobernante invade su pantano con criaturas de cuentos de hadas, un ogro gruñón emprende una aventura para recuperar su hogar. Acompañado por un burro que no para de hablar, deberá rescatar a una princesa y enfrentarse a situaciones tan disparatadas como inesperadas.",
@@ -256,19 +294,21 @@
       "poster": "posters/life-2ae4c297-b203-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/los-juegos-del-hambre-reestreno?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "20:00",
           "format": "2D Subtitulada",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9a77d06b-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "20:00",
           "format": "2D Subtitulada",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9a77d06b-cbfa-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "En un futuro donde Panem está dividido en 12 distritos controlados por el Capitolio, Katniss Everdeen se ofrece como voluntaria para ocupar el lugar de su hermana en los 74° Juegos del Hambre, una competencia televisada en la que solo un participante puede sobrevivir. Allí deberá luchar por su vida mientras desafía las reglas del poder.",
@@ -296,61 +336,70 @@
       "poster": "posters/life-857e8986-11ba-11f1-9146-12ef3739f737.jpg",
       "trailer": "https://www.youtube.com/watch?v=rPAHzsnQBVg",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/street-fighter?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1b2ba9-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1c0884-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1c9214-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1b2ba9-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "16:50",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=293be92c-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1c0884-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "16:50",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=293d2826-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1c9214-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "16:50",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=293e14ad-cbf6-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Nueva película basada en la saga de videojuegos \"Street Fighter\". Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
@@ -381,19 +430,21 @@
       "poster": "posters/life-bf9b1ddb-b203-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/los-juegos-del-hambre-en-llamas-reestreno?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-28",
           "time": "20:00",
           "format": "2D Subtitulada",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6b47af04-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "20:00",
           "format": "2D Subtitulada",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6b47af04-cbf8-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Después de desafiar al Capitolio y sobrevivir a los 74° Juegos del Hambre, Katniss Everdeen y Peeta Mellark emprenden la Gira de la Victoria, pero su acto de rebeldía ha encendido una revolución en Panem. Para recuperar el control, el presidente Snow organiza una edición especial de los Juegos que obligará a Katniss a enfrentarse a un desafío aún más letal.",
@@ -421,91 +472,105 @@
       "poster": "posters/life-ebaec51d-73e8-11f1-b5cd-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=gNYxVy9tUQE",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/el-arbol-magico?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c6280ca-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c635127-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c90530c3-cbfc-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c64efc6-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c65f26b-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c671790-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c688ae5-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c6280ca-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c635127-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c90530c3-cbfc-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c64efc6-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c65f26b-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c671790-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "17:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7c688ae5-cbfa-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Adaptación de la historia de Enid Blyton sobre un bosque encantado con un árbol mágico que crece lo suficiente como para llegar a las nubes.",
@@ -533,49 +598,56 @@
       "poster": "posters/life-bc021b24-a622-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/la-casa?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "19:20",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d06332a4-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "19:20",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d065ece6-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:20",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d0674e8c-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:20",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d0682cfd-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "21:30",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=06936681-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "21:30",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=0694ce65-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "21:30",
           "format": "VIP 2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=0695c6d2-cbfa-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Despedido de una multinacional y bajo presión económica, Hugo Vaca vende su casa a un enigmático grupo de inversores, adentrándose en una situación que comienza a tornarse cada vez más incierta y peligrosa.",
@@ -603,19 +675,21 @@
       "poster": "posters/life-251951db-b1f7-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=DOzgDTZ3N3U",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/narciso?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-29",
           "time": "19:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dd975983-ce1f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-29",
           "time": "19:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dd975983-ce1f-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Paraguay, 1959. El país vive bajo un régimen militar sofocante, Narciso regresa de Buenos Aires con el rock & roll como bandera. Carismático, provocador y deseado por hombres y mujeres, pronto se convierte en una estrella de la radio y en símbolo de libertad. Su programa sacude una sociedad conservadora y vigilada por el miedo. Tras su último show, Narciso aparece muerto. Mientras el silencio se impone, su muerte deja al descubierto una trama de deseos y represión. ¿Quién mató a Narciso?",
@@ -643,55 +717,63 @@
       "poster": "posters/life-7c64e219-971a-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/cars-20-anos?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-25",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bb65b1-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bc20ae-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bcb632-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bd4494-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bb65b1-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bc20ae-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bcb632-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "16:50",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=57bd4494-cbf6-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Para celebrar sus 20 años, \"Cars\" regresa al cine en octubre. Reviví en la pantalla grande la historia de Rayo McQueen, un joven y ambicioso auto de carreras que, tras quedar varado en Radiador Springs, descubrirá que la vida es mucho más que cruzar la meta primero. Una nueva oportunidad para disfrutar de uno de los grandes clásicos de Pixar en familia y en \npantalla grande.",
@@ -716,31 +798,35 @@
       "poster": "posters/life-e898d1e1-0e64-11f1-9146-12ef3739f737.jpg",
       "trailer": "https://www.youtube.com/watch?v=6wYJNaCOTYQ",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/guardianes-del-museo-2-los-tesoros-de-egipto?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-24",
           "time": "15:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ff96664d-cc1e-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "15:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=0bc52be5-cc1f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "15:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ff96664d-cc1e-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "15:10",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=0bc52be5-cc1f-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Esta semana disfrutá de \"Guardianes del Museo 2: Los Tesoros de Egipto\" con entradas 2x1 con BROU, Antel, Anda y Pronto y 50% de descuento con BBVA. Dos años después de salvar el Hermitage, Maurice el ratón está listo para una nueva gran aventura. Vincent y Cleopatra ahora tienen dos pequeños y traviesos gatitos que heredaron su espíritu aventurero, pero cuando los misterios del antiguo Egipto se cruzan en su camino, todos deberán embarcarse en una increíble misión llena de acción, humor y tesoros legendarios. Este estreno animado para toda la familia tiene funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Revisá la cartelera de cine y comprá tus entradas.",
@@ -764,25 +850,28 @@
       "poster": "posters/life-26b0a44a-bb89-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=VNJErO2NunA",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/verity-la-sombra-de-un-engano?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "21:45",
           "format": "2D Subtitulada",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9441a993-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "21:45",
           "format": "2D Subtitulada",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9c5a3e6b-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "21:45",
           "format": "2D Subtitulada",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a23c00e7-cbf7-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "\"Verity: La Sombra de un Engaño\" llega como uno de los thrillers psicológicos más esperados de la temporada. La adaptación del bestseller de Colleen Hoover, que arrasó en ventas mundiales, se suma a nuestra cartelera de cine con una historia cargada de secretos, obsesión y misterio. Lowen es una escritora al borde de la ruina que recibe el encargo de su vida: terminar la saga de Verity Crawford, una exitosa autora incapacitada tras un misterioso accidente. Al instalarse en la casa familiar para revisar sus manuscritos, descubre una autobiografía oculta que la obliga a preguntarse qué es real y qué es ficción, y si la mujer que yace en esa casa es realmente tan indefensa como parece. Este inquietante estreno tendrá funciones en Cultural Alfabera, Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping, con los mejores horarios de cine. Además, podés verla con 50% de descuento con BBVA o aprovechar las entradas 2x1 con Brou, Antel y Pronto en LIFE Cinemas.",
@@ -810,79 +899,91 @@
       "poster": "posters/life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=02saBQpriUU",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/el-corazon-de-la-bestia?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cf8e2dd-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfa06f0-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfb0d87-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfc183b-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfd20b2-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfe2cf8-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cf8e2dd-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfa06f0-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfb0d87-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfc183b-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfd20b2-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:35",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7cfe2cf8-cbf7-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "En medio de la inmensidad de Alaska, sobrevivir será solo el comienzo. \"El Corazón de la Bestia\" se suma a la cartelera de cine como uno de los estrenos de aventura y supervivencia más emocionantes del año. Herido y perdido en uno de los territorios más hostiles del planeta, un ex soldado de Fuerzas Especiales tendrá como único compañero a su perro militar. Rodeados por el frío extremo y los peligros de la naturaleza, el vínculo entre ambos se convierte en el nuevo centro de una lucha por regresar a casa y, al mismo tiempo, enfrentarse a las heridas del pasado. Una historia de supervivencia, lealtad y redención para vivir en pantalla grande. Consultá los horarios de cine y disfrutala con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Aprovechá, además, 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto.",
@@ -910,31 +1011,35 @@
       "poster": "posters/life-8f7627fd-904a-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=mK-BEKnPAN0",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/la-isla-olvidada?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-24",
           "time": "14:20",
           "format": "3D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1b62bd18-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "14:20",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=24537eab-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "14:20",
           "format": "3D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2b85abdd-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "14:20",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=32a4dac3-cbf7-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Este estreno llega a la cartelera de cine con la historia de Jo y Raissa, dos mejores amigas que atraviesan un misterioso portal hacia Nakali, una isla habitada por criaturas mágicas y mitológicas. Para volver a casa deberán enfrentarse a la temible Manananggal y pagar un precio inesperado: los recuerdos de toda su amistad. Elegí tus funciones y horarios de cine en Montevideo, Canelones y Maldonado. Aprovechá el 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Comprá ya tus entradas y viví \"La Isla Olvidada\" en el cine.",
@@ -959,91 +1064,105 @@
       "poster": "posters/life-79e93ca4-43db-11f1-9146-12ef3739f737.jpg",
       "trailer": "https://www.youtube.com/watch?v=dgb_OWUqkbU",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/coyote-vs-acme?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fa25da-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fafd82-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fb98a1-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fc2daf-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fcee8e-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fd9321-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fe349b-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fa25da-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fafd82-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fb98a1-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fc2daf-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fcee8e-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fd9321-cbf8-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "17:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b1fe349b-cbf8-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "\"Coyote vs. Acme\" llegó a cines LIFE como uno de los estrenos más celebrados del año. No te podés perder la película que fue salvada por sus propios fans: Warner Bros. la canceló en 2023, pero los seguidores de los Looney Tunes se manifestaron frente a los estudios hasta que otra productora la rescató. Y valió la pena: la crítica la define como una de las mejores combinaciones de animación y acción real de la historia. Wile E. Coyote, harto de que todos los productos de ACME exploten en su cara, contrata a un abogado tan desafortunado como él para llevar a la corporación a juicio. Lo que empieza como una demanda se convierte en el nuevo centro de una comedia judicial tan absurda, caótica y entrañable como los dibujos que la inspiraron. Revisá la cartelera de cine y comprá tus entradas con 50% de descuento con BBVA o 2x1 con Antel, BROU, Anda y Pronto. Vení a disfrutar de este estreno de cine en cines Life.",
@@ -1071,31 +1190,35 @@
       "poster": "posters/life-7ea32f21-4880-11f1-9146-12ef3739f737.jpg",
       "trailer": "https://www.youtube.com/watch?v=9e7xNwNFpHo",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/paw-patrol-la-dino-pelicula?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-24",
           "time": "15:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4a050f4b-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "15:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=609d6cab-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "15:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4a050f4b-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "15:00",
           "format": "2D Español",
-          "room": "SALA 3 VIP "
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=609d6cab-cbfa-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "\"Paw Patrol: La Dino Película\" ya llegó a cine LIFE convirtiéndose en el estreno animado perfecto para las familias de Montevideo. Una tormenta misteriosa arrastra a los cachorros de la Patrulla Canina hasta una isla tropical inexplorada habitada por dinosaurios, donde conocen a Rex, un cachorro que lleva años varado allí y se convirtió en el mayor experto en dinosaurios que existe. Pero cuando el malvado alcalde Humdinger comienza a explotar los recursos de la isla sin control, desata accidentalmente la erupción de un volcán enorme — y el nuevo centro de los rescates más grandes de la historia de la Patrulla Canina serán misiones de proporciones prehistóricas para salvar toda la vida de la isla. ¡Más acción, más dinosaurios y más diversión que nunca! Viví la aventura en familia con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Comprá tus entradas con 50% OFF con tarjetas BBVA y 2x1 Brou, Antel, Anda y Pronto.",
@@ -1119,241 +1242,280 @@
       "poster": "posters/life-838c04c6-cbdb-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=EoQV1wYKp00",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/clayface?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-22",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713d4317-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713e0b8c-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713eb3c4-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7cf126-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713f5b03-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7dc132-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713ffbd7-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7e8e9d-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7140b340-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7f6f7c-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7141595e-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713d4317-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "19:30",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78dca1f9-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "22:00",
           "format": "2D Subtitulada",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9bbcc53f-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-22",
           "time": "22:00",
           "format": "4D Subtitulada",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ff4205e9-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713e0b8c-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "19:30",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78dd6d6b-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "22:00",
           "format": "4D Subtitulada",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=07619888-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "22:00",
           "format": "2D Subtitulada",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a47cd844-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713eb3c4-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:30",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78de1518-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7cf126-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "22:00",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3debb10-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713f5b03-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:30",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78dea1fa-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7dc132-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "22:00",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3dffe34-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=713ffbd7-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "19:30",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78df3058-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7e8e9d-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "22:00",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3e16c76-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7140b340-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:30",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78dfcce3-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "22:00",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7f6f7c-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "22:00",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3e3e366-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "19:30",
           "format": "2D Español",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7141595e-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "19:30",
           "format": "4D Español",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78e06419-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "22:00",
           "format": "2D Subtitulada",
-          "room": "SALA 1"
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f174de32-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "22:00",
           "format": "4D Subtitulada",
-          "room": "SALA 1 / 4D "
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f79c9df4-cbf6-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman.",
@@ -1381,151 +1543,175 @@
       "poster": "posters/life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=CwIBmSrzqn0",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-23",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8bb95b-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7459244-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8c95d5-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7466cf2-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8d53d7-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7472eb7-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8e0e31-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b747f925-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8ee974-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b748bbd9-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8fb62f-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7497568-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8bb95b-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7459244-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8c95d5-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7466cf2-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8d53d7-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7472eb7-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8e0e31-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b747f925-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8ee974-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b748bbd9-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "19:45",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=ae8fb62f-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-28",
           "time": "21:55",
           "format": "2D Español",
-          "room": "SALA 4"
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7497568-cbfa-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "FESTIVAL DE TERROR Y SANGRE - Bela, una niña de 8 años que vive en un hogar tenso por el matrimonio problemático de sus padres, ve cómo su vida se ve trastornada por una entidad siniestra a la que llama Otra Mamá. Cuando esta presencia malévola emerge de su armario preguntando: \"¿Puedo entrar en tu corazón?\", Bela se niega. Pero pronto las manifestaciones de la Otra Mamá se vuelven cada vez más agresivas, amenazando la seguridad de la familia de Bela.\n\n\n",
@@ -1553,43 +1739,49 @@
       "poster": "posters/life-2a9bb3e7-ad23-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=RAhSI3AXKEg",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/resident-evil-noche-cero?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-10-23",
           "time": "21:45",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c0b7a5d9-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "21:45",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c7eb4bea-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "21:45",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cec657eb-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-23",
           "time": "21:45",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c0b7a5d9-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
           "time": "21:45",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c7eb4bea-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
           "time": "21:45",
           "format": "2D Español",
-          "room": "SALA 2"
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cec657eb-cbf7-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "FESTIVAL DE TERROR Y SANGRE - Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita.",
@@ -1628,7 +1820,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -1704,7 +1896,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -1780,7 +1972,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/bb9944c3-f0a0-48bd-abb7-d6d0293b8983/street-fighter",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -1844,7 +2036,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/4263968a-3309-437d-9337-8f4d5ce76b9a/el-corazon-de-la-bestia",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -1908,7 +2100,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -1972,7 +2164,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -2078,7 +2270,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -2184,7 +2376,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -2290,7 +2482,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
       "sessions": [
         {
           "date": "2026-10-22",
@@ -2354,7 +2546,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/8b9c19d7-6b70-4ab7-9069-d844ba3a3cd0/cars-20-aniversario",
       "sessions": [
         {
           "date": "2026-10-24",
@@ -2388,7 +2580,7 @@
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
+      "url": "https://www.cinesdeleste.com.uy/movie/342cce17-67d0-4ec5-a2a4-0ca437cdbcdf/coyote-vs-acme",
       "sessions": [
         {
           "date": "2026-10-24",
