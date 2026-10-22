@@ -2,8 +2,8 @@ export const ZONE = 'America/Montevideo';
 export const LIFE = 'https://www.lifecinemas.com.uy';
 export const ESTE = 'https://cde-prod-web-api.azurewebsites.net/api/shows/cinema/weekly';
 export const sources = [
- {id:'life', name:'LIFE · Punta Shopping', url:LIFE+'/?complex=Punta+del+Este'},
- {id:'este', name:'Cines del Este · Atlántico', url:'https://www.cinesdeleste.com.uy/'}
+ {id:'life',name:'LIFE · Punta Shopping',venue:'Punta Shopping',address:'Pascual Gattas, Punta del Este, Maldonado, Uruguay',phone:'+598 4249 2196',email:'lifecinemas@alfabeta.com.uy',lat:-34.9404,lng:-54.9343,locationSource:LIFE+'/complexs',url:LIFE+'/?complex=Punta+del+Este'},
+ {id:'este',name:'Cines del Este · Atlántico',venue:'Atlántico Shopping',address:'Av. Roosevelt, Parada 22, Punta del Este, Maldonado, Uruguay',email:'hola@cinesdeleste.com.uy',lat:-34.915933472843996,lng:-54.96308127424616,locationSource:'https://atlanticoshopping.com.uy/contacto/',url:'https://www.cinesdeleste.com.uy/'}
 ];
 export function day(date=new Date()) { return new Intl.DateTimeFormat('en-CA',{timeZone:ZONE,year:'numeric',month:'2-digit',day:'2-digit'}).format(date); }
 export function trailer(value) {
@@ -42,3 +42,5 @@ export function timelineLayout(entries) {
  for(const entry of entries){const key=entry.movie.id+'|'+entry.movie.source;if(!rows.has(key))rows.set(key,{movie:entry.movie,events:[],ends:[]});const row=rows.get(key);const offset=(minutes(entry.time)-start)*3;let lane=row.ends.findIndex(x=>x<=offset);if(lane<0)lane=row.ends.length;row.ends[lane]=offset+132;row.events.push({...entry,offset,lane});}
  return {start,end,width:(end-start)*3,rows:[...rows.values()].sort((a,b)=>a.movie.title.localeCompare(b.movie.title,'es'))};
 }
+
+export function navigationLinks(cinema){const maps=new URL('https://www.google.com/maps/dir/');maps.search=new URLSearchParams({api:'1',destination:cinema.venue+', '+cinema.address,travelmode:'driving',dir_action:'navigate'});const waze=new URL('https://www.waze.com/ul');waze.search=new URLSearchParams({ll:cinema.lat+','+cinema.lng,navigate:'yes'});return {maps:maps.href,waze:waze.href};}
