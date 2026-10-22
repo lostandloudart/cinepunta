@@ -33,3 +33,12 @@ export function agendaSessions(movies) {
  }
  return [...entries.values()].sort((a,b)=>a.date.localeCompare(b.date)||a.time.localeCompare(b.time)||a.movie.title.localeCompare(b.movie.title,'es'));
 }
+
+export function timelineLayout(entries) {
+ const minutes=time=>Number(time.slice(0,2))*60+Number(time.slice(3,5));
+ const start=entries.length?Math.floor(Math.min(...entries.map(s=>minutes(s.time)))/60)*60:12*60;
+ const end=entries.length?Math.max(23,Math.ceil((Math.max(...entries.map(s=>minutes(s.time)))+60)/60))*60:24*60;
+ const rows=new Map();
+ for(const entry of entries){const key=entry.movie.id+'|'+entry.movie.source;if(!rows.has(key))rows.set(key,{movie:entry.movie,events:[],ends:[]});const row=rows.get(key);const offset=(minutes(entry.time)-start)*3;let lane=row.ends.findIndex(x=>x<=offset);if(lane<0)lane=row.ends.length;row.ends[lane]=offset+132;row.events.push({...entry,offset,lane});}
+ return {start,end,width:(end-start)*3,rows:[...rows.values()].sort((a,b)=>a.movie.title.localeCompare(b.movie.title,'es'))};
+}

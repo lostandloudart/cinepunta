@@ -13,3 +13,7 @@ test('agenda ordena por fecha y hora, distingue cines y versiones y agrupa dupli
  const movies=[{id:'a',source:'life',title:'A',sessions:[session,{...session,room:'Sala 2'},{...session}, {...session,time:'16:30'},{...session,format:'2D Sub'},{...session,date:'2026-10-22'}]},{id:'b',source:'este',title:'B',sessions:[session]}];
  const entries=agendaSessions(movies);assert.equal(entries.length,5);assert.equal(entries[0].time,'16:30');assert.equal(entries.at(-1).date,'2026-10-22');assert.deepEqual(entries.find(s=>s.movie.id==='a'&&s.time==='20:00'&&s.format==='2D Esp'&&s.date==='2026-10-21').rooms,['Sala 1','Sala 2']);assert.equal(movies[0].sessions.length,6);
 });
+
+test('programación posiciona horarios en el eje horizontal y separa funciones superpuestas',async()=>{
+ const {timelineLayout}=await import('../docs/data-model.js');const movie={id:'a',source:'life',title:'A'};const layout=timelineLayout([{movie,time:'16:00'},{movie,time:'16:15'},{movie,time:'19:00'}]);assert.equal(layout.rows.length,1);assert.equal(layout.rows[0].events[0].offset,0);assert.equal(layout.rows[0].events[1].lane,1);assert.equal(layout.rows[0].events[2].lane,0);assert.ok(layout.end>=20*60);assert.equal(timelineLayout([]).rows.length,0);
+});

@@ -1,5 +1,5 @@
-import {ZONE,ESTE,day,normalizeEste,isFresh,sources,agendaSessions} from './data-model.js?v=agenda-2';
-const $=id=>document.getElementById(id);let data={movies:[],sources:[]};let activeDay=day();let loading=false;let view=window.matchMedia('(max-width:900px)').matches?'day':'week';
+import {ZONE,ESTE,day,normalizeEste,isFresh,sources,agendaSessions,timelineLayout} from './data-model.js?v=guide-3';
+const $=id=>document.getElementById(id);let data={movies:[],sources:[]};let activeDay=day();let loading=false;let view='timeline';
 function el(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text)n.textContent=text;return n;}
 function dates(){const selected=$('date').value;const today=day();$('today').textContent=new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,weekday:'long',day:'numeric',month:'long'}).format(new Date());$('date').replaceChildren();for(let i=0;i<8;i++){const d=new Date(today+'T12:00:00-03:00');d.setUTCDate(d.getUTCDate()+i);const key=day(d);const title=i===0?'Hoy':i===1?'Mañana':new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,weekday:'short',day:'numeric',month:'short'}).format(d);$('date').append(new Option(title,key));}if([...$('date').options].some(o=>o.value===selected))$('date').value=selected;}
 function genreOptions(){const old=$('genre').value;const genres=[...new Set(data.movies.flatMap(m=>m.genre.split(/[,/]/).map(g=>g.trim()).filter(Boolean)))].sort();$('genre').replaceChildren(new Option('Todos los géneros',''),...genres.map(g=>new Option(g,g)));if(genres.includes(old))$('genre').value=old;}
@@ -13,11 +13,11 @@ function render(){
  renderAgenda(filtered,now);
  $('count').textContent=items.length+(items.length===1?' película':' películas');$('grid').replaceChildren();$('empty').hidden=view!=='posters'||items.length>0;
  for(const m of items){const card=el('article','card');const poster=el('div','poster');const fallback=el('span','','Afíche no disponible');poster.append(fallback);if(m.poster){const img=el('img');img.src=m.poster;img.alt='Afíche de '+m.title;img.loading='lazy';img.referrerPolicy='no-referrer';img.addEventListener('load',()=>fallback.hidden=true);img.addEventListener('error',()=>{img.remove();fallback.hidden=false;});poster.append(img);}poster.append(el('span','tag',sources.find(s=>s.id===m.source).name));card.append(poster,el('h3','',m.title),el('p','genre',m.genre));
- const groups=Map.groupBy(m.sessions,s=>s.format);for(const [format,sessions]of groups){const group=el('div','session-group',format);const times=el('div','times');for(const s of [...new Map(sessions.map(s=>[s.time,{...s,room:[...new Set(sessions.filter(x=>x.time===s.time).map(x=>x.room))].join(" / ")}])).values()].sort((a,b)=>a.time.localeCompare(b.time))){const past=new Date(`${s.date}T${s.time}:00-03:00`)<now;const t=el('span','time'+(past?' past':''),s.time);t.title=s.room+(past?' · Función iniciada':'');times.append(t);}group.append(times);card.append(group);}
- const actions=el('div','actions');actions.append(link('Entradas ↗',m.url));if(m.trailer)actions.append(link('▷ Tráiler',m.trailer));else actions.append(el('span','no-trailer','Tráiler no disponible'));card.append(actions);$('grid').append(card);
+ const groups=new Map();for(const session of m.sessions){if(!groups.has(session.format))groups.set(session.format,[]);groups.get(session.format).push(session);}for(const [format,sessions]of groups){const group=el('div','session-group',format);const times=el('div','times');for(const s of [...new Map(sessions.map(s=>[s.time,{...s,room:[...new Set(sessions.filter(x=>x.time===s.time).map(x=>x.room))].join(" / ")}])).values()].sort((a,b)=>a.time.localeCompare(b.time))){const past=new Date(`${s.date}T${s.time}:00-03:00`)<now;const t=el('span','time'+(past?' past':''),s.time);t.title=s.room+(past?' · Función iniciada':'');times.append(t);}group.append(times);card.append(group);}
+ const actions=el('div','actions');actions.append(link('Entradas ↗',m.url));if(m.trailer)actions.append(trailerButton(m));else actions.append(el('span','no-trailer','Tráiler no disponible'));card.append(actions);$('grid').append(card);
  }
  if(view!=='posters') {
-  const visible=agendaSessions(filtered).filter(s=>view==='day'?s.date===date:calendarDates().includes(s.date));
+  const visible=agendaSessions(filtered).filter(s=>view!=='week'?s.date===date:calendarDates().includes(s.date));
   $('count').textContent=visible.length+(visible.length===1?' función':' funciones');
  }
 
@@ -29,13 +29,13 @@ function calendarDates(){
 function setView(next){view=next;render();}
 function dateTitle(date,short=false){return new Intl.DateTimeFormat('es-UY',{timeZone:ZONE,weekday:short?'short':'long',day:'numeric',month:'short'}).format(new Date(date+'T12:00:00-03:00'));}
 function renderAgenda(movies,now){
- for(const mode of ['day','week','posters'])$('view-'+mode).setAttribute('aria-pressed',String(view===mode));
+ for(const mode of ['timeline','day','week','posters'])$('view-'+mode).setAttribute('aria-pressed',String(view===mode));
  $('grid').hidden=view!=='posters';$('agenda').hidden=view==='posters';$('day-strip').hidden=view==='posters';
- $('agenda-hint').textContent=view==='week'?'Tocá un día para abrir su agenda. Horarios de Uruguay.':view==='day'?'Todas las funciones del día, ordenadas por hora.':'Películas y horarios de la fecha seleccionada.';
+ $('agenda-hint').textContent=view==='timeline'?'Horas en horizontal, películas en filas. Cada tarjeta indica el inicio de una función.':view==='week'?'Tocá un día para abrir su agenda. Horarios de Uruguay.':view==='day'?'Todas las funciones del día, ordenadas por hora.':'Películas y horarios de la fecha seleccionada.';
  const entries=agendaSessions(movies);const selected=$('date').value;
  $('day-strip').replaceChildren();
- for(const option of $('date').options){const button=el('button','day-chip');button.type='button';button.setAttribute('aria-pressed',String(selected===option.value));button.append(el('strong','',option.value===day()?'Hoy':dateTitle(option.value,true)),el('small','',entries.filter(s=>s.date===option.value).length+' funciones'));button.addEventListener('click',()=>{$('date').value=option.value;view='day';render();});$('day-strip').append(button);}
- $('agenda').replaceChildren();const datesToShow=view==='week'?calendarDates():[selected];
+ for(const option of $('date').options){const button=el('button','day-chip');button.type='button';button.setAttribute('aria-pressed',String(selected===option.value));button.append(el('strong','',option.value===day()?'Hoy':dateTitle(option.value,true)),el('small','',entries.filter(s=>s.date===option.value).length+' funciones'));button.addEventListener('click',()=>{$('date').value=option.value;if(view!=='timeline')view='day';render();});$('day-strip').append(button);}
+ $('agenda').replaceChildren();if(view==='timeline'){renderTimeline(entries.filter(s=>s.date===selected),now);return;}const datesToShow=view==='week'?calendarDates():[selected];
  const wrap=el('div',view==='week'?'calendar-week':'calendar-day');
  for(const date of datesToShow){const column=el('section','calendar-column'+(date===day()?' is-today':''));const title=el('button','calendar-date',dateTitle(date));title.type='button';title.addEventListener('click',()=>{$('date').value=date;view='day';render();});column.append(title);
  const sessions=entries.filter(s=>s.date===date);const list=el('div','calendar-events');
@@ -44,11 +44,38 @@ function renderAgenda(movies,now){
  const time=el('time','event-time',session.time);time.dateTime=date+'T'+session.time+':00-03:00';event.append(time);
  const details=el('div','event-details');details.append(el('h3','',m.title),el('p','event-cinema',sources.find(s=>s.id===m.source).name),el('p','event-format',session.format+(session.rooms.length?' · '+session.rooms.join(' / '):'')));
  if(past)details.append(el('small','started-label','Función iniciada'));
- const actions=el('div','event-actions');actions.append(link('Entradas ↗',m.url));if(m.trailer)actions.append(link('▷ Tráiler',m.trailer));details.append(actions);event.append(details);list.append(event);}
+ const actions=el('div','event-actions');actions.append(link('Entradas ↗',m.url));if(m.trailer)actions.append(trailerButton(m));details.append(actions);event.append(details);list.append(event);}
  column.append(list);wrap.append(column);}
  $('agenda').append(wrap);
 }
-for(const mode of ['day','week','posters'])$('view-'+mode).addEventListener('click',()=>setView(mode));
+for(const mode of ['timeline','day','week','posters'])$('view-'+mode).addEventListener('click',()=>setView(mode));
+function trailerButton(movie){const button=el('button','trailer-button','▷ Tráiler');button.type='button';button.addEventListener('click',()=>openTrailer(movie));return button;}
+function openTrailer(movie){
+ const url=new URL(movie.trailer);const id=url.searchParams.get('v');if(!/^[\w-]{11}$/.test(id||''))return;
+ if($('session-dialog').open)$('session-dialog').close();
+ $('trailer-title').textContent=movie.title+' · Tráiler';$('trailer-player').replaceChildren();
+ const frame=el('iframe');frame.src='https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0';frame.title='Tráiler de '+movie.title;frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';$('trailer-player').append(frame);$('trailer-dialog').showModal();
+}
+$('trailer-close').addEventListener('click',()=>$('trailer-dialog').close());$('trailer-dialog').addEventListener('close',()=>$('trailer-player').replaceChildren());
+$('session-close').addEventListener('click',()=>$('session-dialog').close());
+for(const id of ['trailer-dialog','session-dialog'])$(id).addEventListener('click',event=>{if(event.target===$(id)){const r=$(id).getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)$(id).close();}});
+function showSession(session){
+ const movie=session.movie;$('session-title').textContent=movie.title;const content=$('session-content');content.replaceChildren(el('p','session-date',dateTitle(session.date)+' · '+session.time),el('p','',sources.find(s=>s.id===movie.source).name),el('p','',session.format+' · '+session.rooms.join(' / ')));
+ const actions=el('div','actions');actions.append(link('Entradas ↗',movie.url));if(movie.trailer)actions.append(trailerButton(movie));content.append(actions);$('session-dialog').showModal();
+}
+function renderTimeline(entries,now){
+ if(!entries.length){$('agenda').append(el('p','calendar-empty','Sin funciones publicadas para esta fecha y estos filtros.'));return;}
+ const layout=timelineLayout(entries);const scroller=el('div','guide-scroll');scroller.tabIndex=0;scroller.setAttribute('role','region');scroller.setAttribute('aria-label','Programación por película y horario. Desplazá horizontalmente para ver más horas.');
+ const guide=el('div','guide');guide.style.setProperty('--guide-width',layout.width+'px');
+ const header=el('div','guide-row guide-header');header.append(el('div','guide-label','PELÍCULA / CINE'));const ruler=el('div','guide-ruler');
+ for(let minute=layout.start;minute<=layout.end;minute+=60){const label=el('span','guide-hour',String(Math.floor(minute/60)).padStart(2,'0')+':00');label.style.left=(minute-layout.start)*3+'px';ruler.append(label);}header.append(ruler);guide.append(header);
+ for(const row of layout.rows){const line=el('div','guide-row');const label=el('div','guide-label');label.append(el('h3','',row.movie.title),el('p','',sources.find(s=>s.id===row.movie.source).name));if(row.movie.trailer)label.append(trailerButton(row.movie));
+ const track=el('div','guide-track');track.style.height=Math.max(1,row.ends.length)*76+12+'px';
+ for(const entry of row.events){const button=el('button','guide-event source-'+entry.movie.source);button.type='button';button.style.left=entry.offset+'px';button.style.top=entry.lane*76+7+'px';button.append(el('strong','',entry.time),el('span','',entry.format));button.setAttribute('aria-label',entry.movie.title+', '+entry.time+', '+entry.format+', '+sources.find(s=>s.id===entry.movie.source).name);button.title=entry.rooms.join(' / ');if(new Date(entry.date+'T'+entry.time+':00-03:00')<now)button.classList.add('has-started');button.addEventListener('click',()=>showSession(entry));track.append(button);}
+ if(entries[0].date===day()){const local=new Intl.DateTimeFormat('en-GB',{timeZone:ZONE,hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).format(now).split(':');const minute=Number(local[0])*60+Number(local[1]);if(minute>=layout.start&&minute<=layout.end){const marker=el('div','guide-now');marker.style.left=(minute-layout.start)*3+'px';marker.title='Ahora';track.append(marker);}}
+ line.append(label,track);guide.append(line);}
+ scroller.append(guide);$('agenda').append(scroller);
+}
 async function refresh(){if(loading)return;loading=true;$('refresh').disabled=true;$('refresh').textContent='Actualizando…';
  try{const r=await fetch('./data/listings.json?t='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error('Sin datos');data=await r.json();}catch{if(!data.movies.length)$('status').textContent='No se pudo cargar la cartelera.';}
  genreOptions();dates();render();
