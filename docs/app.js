@@ -51,7 +51,7 @@ function renderAgenda(movies,now){
 }
 for(const mode of ['timeline','day','week','posters'])$('view-'+mode).addEventListener('click',()=>setView(mode));
 function cinemaControls(id){
- const cinema=sources.find(s=>s.id===id);const wrapper=el('div','cinema-controls cinema-'+id);const name=el('button','cinema-badge',cinema.name);name.type='button';name.setAttribute('aria-label','Ver ficha de '+cinema.name);name.addEventListener('click',()=>openCinema(id));const pin=el('button','cinema-pin','📍');pin.type='button';pin.title='Cómo llegar a '+cinema.name;pin.setAttribute('aria-label',pin.title);pin.addEventListener('click',()=>openCinema(id));wrapper.append(name,pin);return wrapper;
+ const cinema=sources.find(s=>s.id===id);const wrapper=el('div','cinema-controls cinema-'+id);const name=el('button','cinema-badge',cinema.name);name.type='button';name.setAttribute('aria-label','Ver ficha de '+cinema.name);name.addEventListener('click',()=>openCinema(id));wrapper.append(name);return wrapper;
 }
 function openCinema(id){
  const cinema=sources.find(s=>s.id===id);const modal=$('cinema-dialog');modal.className='cinema-dialog cinema-'+id;$('cinema-title').textContent=cinema.name;const content=$('cinema-content');content.replaceChildren();content.append(el('p','cinema-venue',cinema.venue),el('p','cinema-address','📍 '+cinema.address));const urls=navigationLinks(cinema);const navigation=el('div','cinema-navigation');navigation.append(link('Cómo llegar · Google Maps ↗',urls.maps),link('Cómo llegar · Waze ↗',urls.waze));content.append(navigation,el('p','rating-note','Elegí tu aplicación de navegación. En el móvil se abrirá la app si está instalada; también podés continuar en el navegador. El destino es el centro comercial.'));
