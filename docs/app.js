@@ -41,6 +41,7 @@ function renderAgenda(movies,now){
  const sessions=entries.filter(s=>s.date===date);const list=el('div','calendar-events');
  if(!sessions.length)list.append(el('p','calendar-empty','Sin funciones publicadas para estos filtros.'));
  for(const session of sessions){const m=session.movie;const past=new Date(date+'T'+session.time+':00-03:00')<now;const event=el('article','calendar-event source-'+m.source+(past?' has-started':''));
+ if(view==='day'&&m.poster){const poster=el('button','day-poster');poster.type='button';poster.setAttribute('aria-label','Ver ficha de '+m.title);poster.addEventListener('click',()=>openMovie(m));const img=el('img');img.src=m.poster;img.alt='Afíche de '+m.title;img.width=54;img.height=81;img.loading='lazy';img.referrerPolicy='no-referrer';img.addEventListener('error',()=>poster.remove());poster.append(img);event.append(poster);}
  const time=el('time','event-time',session.time);time.dateTime=date+'T'+session.time+':00-03:00';event.append(time);
  const details=el('div','event-details');details.append(movieHeading(m),el('p','event-cinema',sources.find(s=>s.id===m.source).name),el('p','event-format',session.format+(session.rooms.length?' · '+session.rooms.join(' / '):'')));
  if(past)details.append(el('small','started-label','Función iniciada'));
