@@ -289,23 +289,8 @@
         "quote": "...Martinessi approaches the historical memory of her country with a somber film, remarkable in its grotesque atmosphere...[Full review in Spanish]"
       }
     ],
-    "updatedAt": "2026-10-22T16:10:00.510Z",
+    "updatedAt": "2026-10-22T16:18:49.561Z",
     "externalTitle": "Narciso"
-  },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
-    "scores": [],
-    "reviews": [
-      {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
-      }
-    ],
-    "updatedAt": "2026-10-22T16:10:02.037Z",
-    "externalTitle": "Yo, Narciso"
   },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
@@ -368,6 +353,28 @@
     "updatedAt": "2026-10-22T16:10:01.149Z",
     "externalTitle": "Heart of the Beast",
     "year": "2026"
+  },
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+    "scores": [
+      {
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+      }
+    ],
+    "updatedAt": "2026-10-22T16:18:50.028Z",
+    "externalTitle": "Yo, Narciso"
   },
   "laislaolvidada": {
     "url": "https://www.rottentomatoes.com/m/forgotten_island",

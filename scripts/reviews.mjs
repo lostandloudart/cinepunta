@@ -9,6 +9,7 @@ export function parseRatings(html,expectedDirector){
  for(const [key,label,kind]of [['criticsScore','Rotten Tomatoes · Tomatometer','Crítica'],['audienceScore','Rotten Tomatoes · Popcornmeter','Público']]){const x=card[key];if(x&&/^\d{1,3}$/.test(x.score||'')&&Number(x.score)<=100)scores.push({label,kind,value:x.score+'%',count:x.bandedRatingCount||String(x.reviewCount||x.ratingCount||''),url:schema.url+(key==='criticsScore'?'/reviews':'/reviews/all-audience')});}
  const block=html.match(/<review-card-critic\b[\s\S]*?<\/review-card-critic>/)?.[0];const field=slot=>clean(block?.match(new RegExp('<(?:rt-link|span)[^>]*slot="'+slot+'"[^>]*>([\\s\\S]*?)<\\/(?:rt-link|span)>'))?.[1]||'');
  const reviewUrl=block?.match(/<rt-link[^>]*slot="review-link"[^>]*href="([^"]+)"/)?.[1];const quote=field('review');
+ const individual=block?.match(/<div slot="rating">[\s\S]*?<span>(.*?)<\/span>/)?.[1];if(!scores.some(s=>s.kind==='Crítica')&&reviewUrl&&individual&&/^\d+(?:\.\d+)?\/(?:4|5|10)$/.test(clean(individual)))scores.push({label:field('publication')+' · '+field('name'),kind:'Crítica individual',value:clean(individual),url:reviewUrl});
  const reviews=reviewUrl&&quote?[{author:field('name'),publication:field('publication'),url:reviewUrl,quote:quote.split(/\s+/).slice(0,20).join(' ')+(quote.split(/\s+/).length>20?'…':'')}]:[];
  return {scores,reviews,externalTitle:schema.name,year:schema.dateCreated?.slice(0,4)};
 }
