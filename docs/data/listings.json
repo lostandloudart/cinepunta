@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-22T16:22:53.941Z",
+  "generatedAt": "2026-10-22T16:23:49.753Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-22T16:22:53.941Z",
+      "updatedAt": "2026-10-22T16:23:49.753Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-22T16:22:53.941Z",
+      "updatedAt": "2026-10-22T16:23:49.753Z",
       "ok": true
     }
   ],
