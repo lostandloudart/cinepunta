@@ -1,3 +1,4 @@
+import {updateReviews} from './reviews.mjs';
 import {mkdir,readFile,writeFile} from 'node:fs/promises';
 import {sources,LIFE,ESTE,normalizeLife,normalizeEste,trailer,day} from '../docs/data-model.js';
 const root=new URL('../docs/',import.meta.url);
@@ -14,7 +15,7 @@ const results=await Promise.all(sources.map(async source=>{
  }else movies=normalizeEste(await get(ESTE));
  movies=movies.map(m=>({...m,sessions:m.sessions.filter(s=>s.date>=today&&s.date<=limit)})).filter(m=>m.sessions.length);
  if(source.id==='life'){
- for(let i=0;i<movies.length;i+=4) await Promise.all(movies.slice(i,i+4).map(async m=>{try{const d=(await get(LIFE+'/api/movie/'+m.remoteId)).data;m.trailer=trailer(d.link);m.summary=d.summary||'';}catch{}}));
+ for(let i=0;i<movies.length;i+=4) await Promise.all(movies.slice(i,i+4).map(async m=>{try{const d=(await get(LIFE+'/api/movie/'+m.remoteId)).data;m.trailer=trailer(d.link);m.summary=d.summary||'';const people=d.casts||[];const name=p=>[p.firstName,p.lastName].filter(Boolean).join(' ').replace(/\s+/g,' ').trim();m.metadata={duration:d.length||null,classification:d.calification||'',classificationDescription:'',originalTitle:d.originalName||'',releaseDate:d.releaseDate||'',language:d.languageName||'',directors:people.filter(p=>p.isDirector).map(name),cast:people.filter(p=>!p.isDirector).map(name).slice(0,8)};}catch{}}));
  }
  await mkdir(new URL('posters/',root),{recursive:true});
  for(let i=0;i<movies.length;i+=4) await Promise.all(movies.slice(i,i+4).map(async m=>{
@@ -28,3 +29,5 @@ const results=await Promise.all(sources.map(async source=>{
 await mkdir(new URL('data/',root),{recursive:true});
 await writeFile(new URL('data/listings.json',root),JSON.stringify({generatedAt:now,sources:results.map(r=>r.status),movies:results.flatMap(r=>r.movies)},null,2)+'\n');
 if(results.every(r=>!r.status.ok))process.exitCode=1;
+
+try{await updateReviews(results.flatMap(r=>r.movies));}catch(e){console.error('No se pudieron actualizar los puntajes: '+e.message);}

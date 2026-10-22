@@ -14,7 +14,7 @@ export function trailer(value) {
 }
 export function normalizeEste(raw) {
  if (!Array.isArray(raw.billboardItems)) throw Error('Formato de Cines del Este no reconocido');
- return raw.billboardItems.map(({content:c,shows})=>({id:'este-'+c.id,title:c.title,genre:c.genre||'',poster:new URL(c.posterUrl,'https://cdeprodportalstoweb.blob.core.windows.net/cdeposters/').href,trailer:trailer(c.trailerUrl),summary:c.synopsis||'',source:'este',url:'https://www.cinesdeleste.com.uy/',sessions:(shows||[]).flatMap(group=>group.shows||[]).filter(s=>s.cinemaId==='9999'&&/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}/.test(s.date)).map(s=>({date:s.date.slice(0,10),time:s.date.slice(11,16),format:s.formatLang||'',room:s.screenName||''}))}));
+ return raw.billboardItems.map(({content:c,shows})=>({id:'este-'+c.id,title:c.title,genre:c.genre||'',poster:new URL(c.posterUrl,'https://cdeprodportalstoweb.blob.core.windows.net/cdeposters/').href,trailer:trailer(c.trailerUrl),summary:c.synopsis||'',metadata:{duration:c.duration||null,classification:c.ratingAlt||c.rating||'',classificationDescription:c.ratingDescription||'',directors:c.director||[],cast:c.people||[],releaseDate:c.releaseDate?.slice(0,10)||'',originalTitle:'',language:''},source:'este',url:'https://www.cinesdeleste.com.uy/',sessions:(shows||[]).flatMap(group=>group.shows||[]).filter(s=>s.cinemaId==='9999'&&/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}/.test(s.date)).map(s=>({date:s.date.slice(0,10),time:s.date.slice(11,16),format:s.formatLang||'',room:s.screenName||''}))}));
 }
 export function normalizeLife(raw,complexId) {
  if(raw.success!==true||!Array.isArray(raw.data)) throw Error('Formato de LIFE no reconocido');

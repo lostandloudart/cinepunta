@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-22T16:05:46.283Z",
+  "generatedAt": "2026-10-22T16:09:53.007Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-22T16:05:46.283Z",
+      "updatedAt": "2026-10-22T16:09:53.007Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-22T16:05:46.283Z",
+      "updatedAt": "2026-10-22T16:09:53.007Z",
       "ok": true
     }
   ],
@@ -45,7 +45,24 @@
           "room": "SALA 3 VIP "
         }
       ],
-      "summary": "Es el año 1988 y el Papa Juan Pablo II visitará Melo. Se calcula que 50.000 personas asistirán a verlo. Los pobladores más humildes creen que vendiéndole comida y bebida a esa multitud se harán casi ricos. Beto, un contrabandista en bicicleta, decide en cambio construir un excusado en el frente de su casa y alquilar el servicio. Para lograrlo debe atravesar una serie de dificultades, trágicas algunas, cómicas otras, que ponen en peligro el apoyo de su esposa, la fidelidad de sus amigos bagayeros y su propia autoestima."
+      "summary": "Es el año 1988 y el Papa Juan Pablo II visitará Melo. Se calcula que 50.000 personas asistirán a verlo. Los pobladores más humildes creen que vendiéndole comida y bebida a esa multitud se harán casi ricos. Beto, un contrabandista en bicicleta, decide en cambio construir un excusado en el frente de su casa y alquilar el servicio. Para lograrlo debe atravesar una serie de dificultades, trágicas algunas, cómicas otras, que ponen en peligro el apoyo de su esposa, la fidelidad de sus amigos bagayeros y su propia autoestima.",
+      "metadata": {
+        "duration": 90,
+        "classification": "AM 9",
+        "classificationDescription": "",
+        "originalTitle": "EL BAÑO DEL PAPA",
+        "releaseDate": "2026-10-22",
+        "language": "Español",
+        "directors": [
+          "Cesar Charlone",
+          "Enrique Fernández"
+        ],
+        "cast": [
+          "Cesar Troncoso",
+          "Virginia Méndez",
+          "Mario Silva"
+        ]
+      }
     },
     {
       "id": "life-fbf7878a-919f-11f1-9fd4-12b3fcdc08e7",
@@ -81,7 +98,23 @@
           "room": "SALA 3 VIP "
         }
       ],
-      "summary": "Como complemento de la exitosa película \"La Red Social\", esta película se inspira en la historia real de cómo Frances Haugen (Madison), una joven ingeniera de Facebook, recluta a Jeff Horwitz (White), un reportero del Wall Street Journal, para emprender un peligroso viaje que termina por revelar los secretos mejor guardados de la red social.\n"
+      "summary": "Como complemento de la exitosa película \"La Red Social\", esta película se inspira en la historia real de cómo Frances Haugen (Madison), una joven ingeniera de Facebook, recluta a Jeff Horwitz (White), un reportero del Wall Street Journal, para emprender un peligroso viaje que termina por revelar los secretos mejor guardados de la red social.\n",
+      "metadata": {
+        "duration": 114,
+        "classification": "AM 9",
+        "classificationDescription": "",
+        "originalTitle": "THE SOCIAL RECKONING",
+        "releaseDate": "2026-10-22",
+        "language": "Inglés",
+        "directors": [
+          "Aaron Sorkin"
+        ],
+        "cast": [
+          "Jeremy Allen White",
+          "Mikey Madison",
+          "Jeremy Strong"
+        ]
+      }
     },
     {
       "id": "life-45599d93-c765-11f1-a4cc-12b3fcdc08e7",
@@ -201,7 +234,20 @@
           "room": "SALA 2"
         }
       ],
-      "summary": "Shrek vuelve a la pantalla grande para celebrar sus 25 años. Cuando un malvado gobernante invade su pantano con criaturas de cuentos de hadas, un ogro gruñón emprende una aventura para recuperar su hogar. Acompañado por un burro que no para de hablar, deberá rescatar a una princesa y enfrentarse a situaciones tan disparatadas como inesperadas."
+      "summary": "Shrek vuelve a la pantalla grande para celebrar sus 25 años. Cuando un malvado gobernante invade su pantano con criaturas de cuentos de hadas, un ogro gruñón emprende una aventura para recuperar su hogar. Acompañado por un burro que no para de hablar, deberá rescatar a una princesa y enfrentarse a situaciones tan disparatadas como inesperadas.",
+      "metadata": {
+        "duration": 90,
+        "classification": "APTA",
+        "classificationDescription": "",
+        "originalTitle": "SHREK",
+        "releaseDate": "2026-10-22",
+        "language": "Inglés",
+        "directors": [
+          "Andrew Adamson",
+          "Vicky Jenson"
+        ],
+        "cast": []
+      }
     },
     {
       "id": "life-2ae4c297-b203-11f1-9fd4-12b3fcdc08e7",
@@ -225,7 +271,23 @@
           "room": "SALA 4"
         }
       ],
-      "summary": "En un futuro donde Panem está dividido en 12 distritos controlados por el Capitolio, Katniss Everdeen se ofrece como voluntaria para ocupar el lugar de su hermana en los 74° Juegos del Hambre, una competencia televisada en la que solo un participante puede sobrevivir. Allí deberá luchar por su vida mientras desafía las reglas del poder."
+      "summary": "En un futuro donde Panem está dividido en 12 distritos controlados por el Capitolio, Katniss Everdeen se ofrece como voluntaria para ocupar el lugar de su hermana en los 74° Juegos del Hambre, una competencia televisada en la que solo un participante puede sobrevivir. Allí deberá luchar por su vida mientras desafía las reglas del poder.",
+      "metadata": {
+        "duration": 142,
+        "classification": "AM 12",
+        "classificationDescription": "",
+        "originalTitle": "THE HUNGER GAMES",
+        "releaseDate": "2026-10-20",
+        "language": "Inglés",
+        "directors": [
+          "Gary Ross"
+        ],
+        "cast": [
+          "Jennifer Lawrence",
+          "Josh Hutcherson",
+          "Liam Hemsworth"
+        ]
+      }
     },
     {
       "id": "life-857e8986-11ba-11f1-9146-12ef3739f737",
@@ -291,7 +353,26 @@
           "room": "SALA 1 / 4D "
         }
       ],
-      "summary": "Nueva película basada en la saga de videojuegos \"Street Fighter\". Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!"
+      "summary": "Nueva película basada en la saga de videojuegos \"Street Fighter\". Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
+      "metadata": {
+        "duration": 119,
+        "classification": "AM 12",
+        "classificationDescription": "",
+        "originalTitle": "STREET FIGHTER",
+        "releaseDate": "2026-10-15",
+        "language": "Inglés",
+        "directors": [
+          "Kitao Sakurai"
+        ],
+        "cast": [
+          "Noah Centineo",
+          "Andrew Koji",
+          "Callina Liang",
+          "Joe Anoa'i",
+          "David Dastmalchian",
+          "Jason Momoa"
+        ]
+      }
     },
     {
       "id": "life-bf9b1ddb-b203-11f1-9fd4-12b3fcdc08e7",
@@ -315,7 +396,23 @@
           "room": "SALA 2"
         }
       ],
-      "summary": "Después de desafiar al Capitolio y sobrevivir a los 74° Juegos del Hambre, Katniss Everdeen y Peeta Mellark emprenden la Gira de la Victoria, pero su acto de rebeldía ha encendido una revolución en Panem. Para recuperar el control, el presidente Snow organiza una edición especial de los Juegos que obligará a Katniss a enfrentarse a un desafío aún más letal."
+      "summary": "Después de desafiar al Capitolio y sobrevivir a los 74° Juegos del Hambre, Katniss Everdeen y Peeta Mellark emprenden la Gira de la Victoria, pero su acto de rebeldía ha encendido una revolución en Panem. Para recuperar el control, el presidente Snow organiza una edición especial de los Juegos que obligará a Katniss a enfrentarse a un desafío aún más letal.",
+      "metadata": {
+        "duration": 146,
+        "classification": "AM 9",
+        "classificationDescription": "",
+        "originalTitle": "THE HUNGER GAMES: CATCHING FIRE",
+        "releaseDate": "2026-10-27",
+        "language": "Inglés",
+        "directors": [
+          "Francis Lawrence"
+        ],
+        "cast": [
+          "Jennifer Lawrence",
+          "Josh Hutcherson",
+          "Liam Hemsworth"
+        ]
+      }
     },
     {
       "id": "life-ebaec51d-73e8-11f1-b5cd-12b3fcdc08e7",
@@ -411,7 +508,23 @@
           "room": "SALA 4"
         }
       ],
-      "summary": "Adaptación de la historia de Enid Blyton sobre un bosque encantado con un árbol mágico que crece lo suficiente como para llegar a las nubes."
+      "summary": "Adaptación de la historia de Enid Blyton sobre un bosque encantado con un árbol mágico que crece lo suficiente como para llegar a las nubes.",
+      "metadata": {
+        "duration": 110,
+        "classification": "APTA",
+        "classificationDescription": "",
+        "originalTitle": "THE MAGIC FARAWAY TREE",
+        "releaseDate": "2026-10-15",
+        "language": "Inglés",
+        "directors": [
+          "Ben Gregor"
+        ],
+        "cast": [
+          "Andrew Garfield",
+          "Nonso Anozie",
+          "Sonny Meo"
+        ]
+      }
     },
     {
       "id": "life-bc021b24-a622-11f1-9fd4-12b3fcdc08e7",
@@ -465,7 +578,23 @@
           "room": "SALA 3 VIP "
         }
       ],
-      "summary": "Despedido de una multinacional y bajo presión económica, Hugo Vaca vende su casa a un enigmático grupo de inversores, adentrándose en una situación que comienza a tornarse cada vez más incierta y peligrosa."
+      "summary": "Despedido de una multinacional y bajo presión económica, Hugo Vaca vende su casa a un enigmático grupo de inversores, adentrándose en una situación que comienza a tornarse cada vez más incierta y peligrosa.",
+      "metadata": {
+        "duration": 107,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "LA CASA",
+        "releaseDate": "2026-10-15",
+        "language": "Español",
+        "directors": [
+          "Gustavo Triviño"
+        ],
+        "cast": [
+          "Diego Peretti",
+          "Cesar Troncoso",
+          "Fabian Arenillas"
+        ]
+      }
     },
     {
       "id": "life-251951db-b1f7-11f1-9fd4-12b3fcdc08e7",
@@ -489,7 +618,23 @@
           "room": "SALA 3 VIP "
         }
       ],
-      "summary": "Paraguay, 1959. El país vive bajo un régimen militar sofocante, Narciso regresa de Buenos Aires con el rock & roll como bandera. Carismático, provocador y deseado por hombres y mujeres, pronto se convierte en una estrella de la radio y en símbolo de libertad. Su programa sacude una sociedad conservadora y vigilada por el miedo. Tras su último show, Narciso aparece muerto. Mientras el silencio se impone, su muerte deja al descubierto una trama de deseos y represión. ¿Quién mató a Narciso?"
+      "summary": "Paraguay, 1959. El país vive bajo un régimen militar sofocante, Narciso regresa de Buenos Aires con el rock & roll como bandera. Carismático, provocador y deseado por hombres y mujeres, pronto se convierte en una estrella de la radio y en símbolo de libertad. Su programa sacude una sociedad conservadora y vigilada por el miedo. Tras su último show, Narciso aparece muerto. Mientras el silencio se impone, su muerte deja al descubierto una trama de deseos y represión. ¿Quién mató a Narciso?",
+      "metadata": {
+        "duration": 101,
+        "classification": "AM 18",
+        "classificationDescription": "",
+        "originalTitle": "NARCISO",
+        "releaseDate": "2026-10-15",
+        "language": "Español",
+        "directors": [
+          "Marcelo Martinessi"
+        ],
+        "cast": [
+          "Diro Romero",
+          "Manuel Cuenca",
+          "Arturo Fleitas"
+        ]
+      }
     },
     {
       "id": "life-7c64e219-971a-11f1-9fd4-12b3fcdc08e7",
@@ -549,7 +694,20 @@
           "room": "SALA 1"
         }
       ],
-      "summary": "Para celebrar sus 20 años, \"Cars\" regresa al cine en octubre. Reviví en la pantalla grande la historia de Rayo McQueen, un joven y ambicioso auto de carreras que, tras quedar varado en Radiador Springs, descubrirá que la vida es mucho más que cruzar la meta primero. Una nueva oportunidad para disfrutar de uno de los grandes clásicos de Pixar en familia y en \npantalla grande."
+      "summary": "Para celebrar sus 20 años, \"Cars\" regresa al cine en octubre. Reviví en la pantalla grande la historia de Rayo McQueen, un joven y ambicioso auto de carreras que, tras quedar varado en Radiador Springs, descubrirá que la vida es mucho más que cruzar la meta primero. Una nueva oportunidad para disfrutar de uno de los grandes clásicos de Pixar en familia y en \npantalla grande.",
+      "metadata": {
+        "duration": 116,
+        "classification": "APTA",
+        "classificationDescription": "",
+        "originalTitle": "CARS 20 YEARS",
+        "releaseDate": "2026-10-08",
+        "language": "Inglés",
+        "directors": [
+          "John Lasseter",
+          "Joe Ranft"
+        ],
+        "cast": []
+      }
     },
     {
       "id": "life-e898d1e1-0e64-11f1-9146-12ef3739f737",
@@ -585,7 +743,19 @@
           "room": "SALA 4"
         }
       ],
-      "summary": "Esta semana disfrutá de \"Guardianes del Museo 2: Los Tesoros de Egipto\" con entradas 2x1 con BROU, Antel, Anda y Pronto y 50% de descuento con BBVA. Dos años después de salvar el Hermitage, Maurice el ratón está listo para una nueva gran aventura. Vincent y Cleopatra ahora tienen dos pequeños y traviesos gatitos que heredaron su espíritu aventurero, pero cuando los misterios del antiguo Egipto se cruzan en su camino, todos deberán embarcarse en una increíble misión llena de acción, humor y tesoros legendarios. Este estreno animado para toda la familia tiene funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Revisá la cartelera de cine y comprá tus entradas."
+      "summary": "Esta semana disfrutá de \"Guardianes del Museo 2: Los Tesoros de Egipto\" con entradas 2x1 con BROU, Antel, Anda y Pronto y 50% de descuento con BBVA. Dos años después de salvar el Hermitage, Maurice el ratón está listo para una nueva gran aventura. Vincent y Cleopatra ahora tienen dos pequeños y traviesos gatitos que heredaron su espíritu aventurero, pero cuando los misterios del antiguo Egipto se cruzan en su camino, todos deberán embarcarse en una increíble misión llena de acción, humor y tesoros legendarios. Este estreno animado para toda la familia tiene funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Revisá la cartelera de cine y comprá tus entradas.",
+      "metadata": {
+        "duration": 90,
+        "classification": "APTA",
+        "classificationDescription": "",
+        "originalTitle": "KOTY ERMITAZHA 2: TAYNA EGIPETSKOGO ZALA",
+        "releaseDate": "2026-10-01",
+        "language": "Otros",
+        "directors": [
+          "Vasiliy Rovenskiy"
+        ],
+        "cast": []
+      }
     },
     {
       "id": "life-26b0a44a-bb89-11f1-a4cc-12b3fcdc08e7",
@@ -615,7 +785,23 @@
           "room": "SALA 2"
         }
       ],
-      "summary": "\"Verity: La Sombra de un Engaño\" llega como uno de los thrillers psicológicos más esperados de la temporada. La adaptación del bestseller de Colleen Hoover, que arrasó en ventas mundiales, se suma a nuestra cartelera de cine con una historia cargada de secretos, obsesión y misterio. Lowen es una escritora al borde de la ruina que recibe el encargo de su vida: terminar la saga de Verity Crawford, una exitosa autora incapacitada tras un misterioso accidente. Al instalarse en la casa familiar para revisar sus manuscritos, descubre una autobiografía oculta que la obliga a preguntarse qué es real y qué es ficción, y si la mujer que yace en esa casa es realmente tan indefensa como parece. Este inquietante estreno tendrá funciones en Cultural Alfabera, Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping, con los mejores horarios de cine. Además, podés verla con 50% de descuento con BBVA o aprovechar las entradas 2x1 con Brou, Antel y Pronto en LIFE Cinemas."
+      "summary": "\"Verity: La Sombra de un Engaño\" llega como uno de los thrillers psicológicos más esperados de la temporada. La adaptación del bestseller de Colleen Hoover, que arrasó en ventas mundiales, se suma a nuestra cartelera de cine con una historia cargada de secretos, obsesión y misterio. Lowen es una escritora al borde de la ruina que recibe el encargo de su vida: terminar la saga de Verity Crawford, una exitosa autora incapacitada tras un misterioso accidente. Al instalarse en la casa familiar para revisar sus manuscritos, descubre una autobiografía oculta que la obliga a preguntarse qué es real y qué es ficción, y si la mujer que yace en esa casa es realmente tan indefensa como parece. Este inquietante estreno tendrá funciones en Cultural Alfabera, Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping, con los mejores horarios de cine. Además, podés verla con 50% de descuento con BBVA o aprovechar las entradas 2x1 con Brou, Antel y Pronto en LIFE Cinemas.",
+      "metadata": {
+        "duration": 117,
+        "classification": "AM 18",
+        "classificationDescription": "",
+        "originalTitle": "VERITY",
+        "releaseDate": "2026-10-01",
+        "language": "Inglés",
+        "directors": [
+          "Michael Showalter"
+        ],
+        "cast": [
+          "Anne Hathaway",
+          "Brady Wagner",
+          "Asel Swango"
+        ]
+      }
     },
     {
       "id": "life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7",
@@ -699,7 +885,23 @@
           "room": "SALA 2"
         }
       ],
-      "summary": "En medio de la inmensidad de Alaska, sobrevivir será solo el comienzo. \"El Corazón de la Bestia\" se suma a la cartelera de cine como uno de los estrenos de aventura y supervivencia más emocionantes del año. Herido y perdido en uno de los territorios más hostiles del planeta, un ex soldado de Fuerzas Especiales tendrá como único compañero a su perro militar. Rodeados por el frío extremo y los peligros de la naturaleza, el vínculo entre ambos se convierte en el nuevo centro de una lucha por regresar a casa y, al mismo tiempo, enfrentarse a las heridas del pasado. Una historia de supervivencia, lealtad y redención para vivir en pantalla grande. Consultá los horarios de cine y disfrutala con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Aprovechá, además, 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto."
+      "summary": "En medio de la inmensidad de Alaska, sobrevivir será solo el comienzo. \"El Corazón de la Bestia\" se suma a la cartelera de cine como uno de los estrenos de aventura y supervivencia más emocionantes del año. Herido y perdido en uno de los territorios más hostiles del planeta, un ex soldado de Fuerzas Especiales tendrá como único compañero a su perro militar. Rodeados por el frío extremo y los peligros de la naturaleza, el vínculo entre ambos se convierte en el nuevo centro de una lucha por regresar a casa y, al mismo tiempo, enfrentarse a las heridas del pasado. Una historia de supervivencia, lealtad y redención para vivir en pantalla grande. Consultá los horarios de cine y disfrutala con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Aprovechá, además, 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto.",
+      "metadata": {
+        "duration": 101,
+        "classification": "AM 12",
+        "classificationDescription": "",
+        "originalTitle": "HEART OF THE BEAST",
+        "releaseDate": "2026-09-24",
+        "language": "Inglés",
+        "directors": [
+          "David Ayer"
+        ],
+        "cast": [
+          "Brad Pitt",
+          "J.K. Simmons",
+          "Anna Lambe"
+        ]
+      }
     },
     {
       "id": "life-8f7627fd-904a-11f1-9fd4-12b3fcdc08e7",
@@ -735,7 +937,20 @@
           "room": "SALA 1 / 4D "
         }
       ],
-      "summary": "Este estreno llega a la cartelera de cine con la historia de Jo y Raissa, dos mejores amigas que atraviesan un misterioso portal hacia Nakali, una isla habitada por criaturas mágicas y mitológicas. Para volver a casa deberán enfrentarse a la temible Manananggal y pagar un precio inesperado: los recuerdos de toda su amistad. Elegí tus funciones y horarios de cine en Montevideo, Canelones y Maldonado. Aprovechá el 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Comprá ya tus entradas y viví \"La Isla Olvidada\" en el cine."
+      "summary": "Este estreno llega a la cartelera de cine con la historia de Jo y Raissa, dos mejores amigas que atraviesan un misterioso portal hacia Nakali, una isla habitada por criaturas mágicas y mitológicas. Para volver a casa deberán enfrentarse a la temible Manananggal y pagar un precio inesperado: los recuerdos de toda su amistad. Elegí tus funciones y horarios de cine en Montevideo, Canelones y Maldonado. Aprovechá el 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Comprá ya tus entradas y viví \"La Isla Olvidada\" en el cine.",
+      "metadata": {
+        "duration": 109,
+        "classification": "AM 9 ",
+        "classificationDescription": "",
+        "originalTitle": "FORGOTTEN ISLAND",
+        "releaseDate": "2026-09-19",
+        "language": "Inglés",
+        "directors": [
+          "Joel Crawford",
+          "Januel Mercado"
+        ],
+        "cast": []
+      }
     },
     {
       "id": "life-79e93ca4-43db-11f1-9146-12ef3739f737",
@@ -831,7 +1046,23 @@
           "room": "SALA 3 VIP "
         }
       ],
-      "summary": "\"Coyote vs. Acme\" llegó a cines LIFE como uno de los estrenos más celebrados del año. No te podés perder la película que fue salvada por sus propios fans: Warner Bros. la canceló en 2023, pero los seguidores de los Looney Tunes se manifestaron frente a los estudios hasta que otra productora la rescató. Y valió la pena: la crítica la define como una de las mejores combinaciones de animación y acción real de la historia. Wile E. Coyote, harto de que todos los productos de ACME exploten en su cara, contrata a un abogado tan desafortunado como él para llevar a la corporación a juicio. Lo que empieza como una demanda se convierte en el nuevo centro de una comedia judicial tan absurda, caótica y entrañable como los dibujos que la inspiraron. Revisá la cartelera de cine y comprá tus entradas con 50% de descuento con BBVA o 2x1 con Antel, BROU, Anda y Pronto. Vení a disfrutar de este estreno de cine en cines Life."
+      "summary": "\"Coyote vs. Acme\" llegó a cines LIFE como uno de los estrenos más celebrados del año. No te podés perder la película que fue salvada por sus propios fans: Warner Bros. la canceló en 2023, pero los seguidores de los Looney Tunes se manifestaron frente a los estudios hasta que otra productora la rescató. Y valió la pena: la crítica la define como una de las mejores combinaciones de animación y acción real de la historia. Wile E. Coyote, harto de que todos los productos de ACME exploten en su cara, contrata a un abogado tan desafortunado como él para llevar a la corporación a juicio. Lo que empieza como una demanda se convierte en el nuevo centro de una comedia judicial tan absurda, caótica y entrañable como los dibujos que la inspiraron. Revisá la cartelera de cine y comprá tus entradas con 50% de descuento con BBVA o 2x1 con Antel, BROU, Anda y Pronto. Vení a disfrutar de este estreno de cine en cines Life.",
+      "metadata": {
+        "duration": 104,
+        "classification": "APTA",
+        "classificationDescription": "",
+        "originalTitle": "COYOTE VS. ACME",
+        "releaseDate": "2026-08-27",
+        "language": "Inglés",
+        "directors": [
+          "Dave Green"
+        ],
+        "cast": [
+          "John Cena",
+          "Lana Condor",
+          "Will Forte"
+        ]
+      }
     },
     {
       "id": "life-7ea32f21-4880-11f1-9146-12ef3739f737",
@@ -867,7 +1098,19 @@
           "room": "SALA 3 VIP "
         }
       ],
-      "summary": "\"Paw Patrol: La Dino Película\" ya llegó a cine LIFE convirtiéndose en el estreno animado perfecto para las familias de Montevideo. Una tormenta misteriosa arrastra a los cachorros de la Patrulla Canina hasta una isla tropical inexplorada habitada por dinosaurios, donde conocen a Rex, un cachorro que lleva años varado allí y se convirtió en el mayor experto en dinosaurios que existe. Pero cuando el malvado alcalde Humdinger comienza a explotar los recursos de la isla sin control, desata accidentalmente la erupción de un volcán enorme — y el nuevo centro de los rescates más grandes de la historia de la Patrulla Canina serán misiones de proporciones prehistóricas para salvar toda la vida de la isla. ¡Más acción, más dinosaurios y más diversión que nunca! Viví la aventura en familia con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Comprá tus entradas con 50% OFF con tarjetas BBVA y 2x1 Brou, Antel, Anda y Pronto."
+      "summary": "\"Paw Patrol: La Dino Película\" ya llegó a cine LIFE convirtiéndose en el estreno animado perfecto para las familias de Montevideo. Una tormenta misteriosa arrastra a los cachorros de la Patrulla Canina hasta una isla tropical inexplorada habitada por dinosaurios, donde conocen a Rex, un cachorro que lleva años varado allí y se convirtió en el mayor experto en dinosaurios que existe. Pero cuando el malvado alcalde Humdinger comienza a explotar los recursos de la isla sin control, desata accidentalmente la erupción de un volcán enorme — y el nuevo centro de los rescates más grandes de la historia de la Patrulla Canina serán misiones de proporciones prehistóricas para salvar toda la vida de la isla. ¡Más acción, más dinosaurios y más diversión que nunca! Viví la aventura en familia con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Comprá tus entradas con 50% OFF con tarjetas BBVA y 2x1 Brou, Antel, Anda y Pronto.",
+      "metadata": {
+        "duration": 88,
+        "classification": "APTA",
+        "classificationDescription": "",
+        "originalTitle": "PAW PATROL: THE DINO MOVIE",
+        "releaseDate": "2026-08-13",
+        "language": "Inglés",
+        "directors": [
+          "Cal Brunker"
+        ],
+        "cast": []
+      }
     },
     {
       "id": "life-838c04c6-cbdb-11f1-a4cc-12b3fcdc08e7",
@@ -1113,7 +1356,23 @@
           "room": "SALA 1 / 4D "
         }
       ],
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman."
+      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman.",
+      "metadata": {
+        "duration": 108,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "CLAYFACE",
+        "releaseDate": "2026-10-22",
+        "language": "Inglés",
+        "directors": [
+          "James Watkins"
+        ],
+        "cast": [
+          "Eddie Marsan",
+          "Max Minghella",
+          "Naomi Ackie"
+        ]
+      }
     },
     {
       "id": "life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7",
@@ -1269,7 +1528,23 @@
           "room": "SALA 4"
         }
       ],
-      "summary": "FESTIVAL DE TERROR Y SANGRE - Bela, una niña de 8 años que vive en un hogar tenso por el matrimonio problemático de sus padres, ve cómo su vida se ve trastornada por una entidad siniestra a la que llama Otra Mamá. Cuando esta presencia malévola emerge de su armario preguntando: \"¿Puedo entrar en tu corazón?\", Bela se niega. Pero pronto las manifestaciones de la Otra Mamá se vuelven cada vez más agresivas, amenazando la seguridad de la familia de Bela.\n\n\n"
+      "summary": "FESTIVAL DE TERROR Y SANGRE - Bela, una niña de 8 años que vive en un hogar tenso por el matrimonio problemático de sus padres, ve cómo su vida se ve trastornada por una entidad siniestra a la que llama Otra Mamá. Cuando esta presencia malévola emerge de su armario preguntando: \"¿Puedo entrar en tu corazón?\", Bela se niega. Pero pronto las manifestaciones de la Otra Mamá se vuelven cada vez más agresivas, amenazando la seguridad de la familia de Bela.\n\n\n",
+      "metadata": {
+        "duration": 100,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "OTHER MOMMY",
+        "releaseDate": "2026-10-08",
+        "language": "Inglés",
+        "directors": [
+          "Rob Savage"
+        ],
+        "cast": [
+          "Jessica Chastain",
+          "Jay Duplass",
+          "Arabella Olivia Clark"
+        ]
+      }
     },
     {
       "id": "life-2a9bb3e7-ad23-11f1-9fd4-12b3fcdc08e7",
@@ -1317,7 +1592,23 @@
           "room": "SALA 2"
         }
       ],
-      "summary": "FESTIVAL DE TERROR Y SANGRE - Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita."
+      "summary": "FESTIVAL DE TERROR Y SANGRE - Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita.",
+      "metadata": {
+        "duration": 94,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "RESIDENT EVIL",
+        "releaseDate": "2026-09-17",
+        "language": "Inglés",
+        "directors": [
+          "Zach Cregger"
+        ],
+        "cast": [
+          "Austin Abrams",
+          "Paul Walter Hauser",
+          "Zach Cherry"
+        ]
+      }
     },
     {
       "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
@@ -1326,6 +1617,16 @@
       "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
       "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
       "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-09-19",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1392,6 +1693,16 @@
       "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
       "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
       "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
+      "metadata": {
+        "duration": 90,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1458,6 +1769,16 @@
       "poster": "posters/este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983.jpg",
       "trailer": "https://www.youtube.com/watch?v=CqzFnPkaFzI",
       "summary": "Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
+      "metadata": {
+        "duration": 120,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-15",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1512,6 +1833,16 @@
       "poster": "posters/este-4263968a-3309-437d-9337-8f4d5ce76b9a.jpg",
       "trailer": "https://www.youtube.com/watch?v=apz2BoA11q8",
       "summary": "Un ex soldado de las Fuerzas Especiales del Ejército y su perro de combate retirado intentan volver a la civilización tras sufrir un catastrófico accidente en las profundidades de los parajes salvajes de Alaska.",
+      "metadata": {
+        "duration": 100,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-09-23",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1566,6 +1897,16 @@
       "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
       "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
       "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-15",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1620,6 +1961,16 @@
       "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
       "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
       "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1716,6 +2067,16 @@
       "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
       "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
       "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-08-20",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1812,6 +2173,16 @@
       "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
       "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
       "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1908,6 +2279,16 @@
       "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
       "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
       "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
+      "metadata": {
+        "duration": 120,
+        "classification": "Apta + 18",
+        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-01",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1962,6 +2343,16 @@
       "poster": "posters/este-8b9c19d7-6b70-4ab7-9069-d844ba3a3cd0.jpg",
       "trailer": null,
       "summary": "Estrenada en el año 2006. Mientras viajaba a California para la disputa de la carrera final de la Copa Pistón ante The King y Chick Hicks, el famoso Lightning McQueen daña accidentalmente la carretera del pequeño pueblo Radiator Springs y es sentenciado a repararlo. Lightning McQueen tiene que trabajar duro y encuentra amistad y amor en los simples lugareños, cambiando sus valores durante su estadía en el pequeño pueblo y convirtiéndose en un verdadero ganador.",
+      "metadata": {
+        "duration": 115,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
@@ -1986,6 +2377,16 @@
       "poster": "posters/este-342cce17-67d0-4ec5-a2a4-0ca437cdbcdf.jpg",
       "trailer": "https://www.youtube.com/watch?v=CmNF2T8IRwg",
       "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "metadata": {
+        "duration": 100,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-08-27",
+        "originalTitle": "",
+        "language": ""
+      },
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/",
       "sessions": [
