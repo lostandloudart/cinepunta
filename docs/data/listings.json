@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-22T00:02:17.852Z",
+  "generatedAt": "2026-10-22T01:32:31.576Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-22T00:02:17.852Z",
+      "updatedAt": "2026-10-22T01:32:31.576Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-22T00:02:17.852Z",
+      "updatedAt": "2026-10-22T01:32:31.576Z",
       "ok": true
     }
   ],
@@ -228,19 +228,31 @@
       "summary": "En un futuro donde Panem está dividido en 12 distritos controlados por el Capitolio, Katniss Everdeen se ofrece como voluntaria para ocupar el lugar de su hermana en los 74° Juegos del Hambre, una competencia televisada en la que solo un participante puede sobrevivir. Allí deberá luchar por su vida mientras desafía las reglas del poder."
     },
     {
-      "id": "life-942c9bc8-c679-11f1-a4cc-12b3fcdc08e7",
+      "id": "life-857e8986-11ba-11f1-9146-12ef3739f737",
       "title": "STREET FIGHTER",
       "genre": "Acción",
-      "poster": "posters/life-942c9bc8-c679-11f1-a4cc-12b3fcdc08e7.jpg",
+      "poster": "posters/life-857e8986-11ba-11f1-9146-12ef3739f737.jpg",
       "trailer": "https://www.youtube.com/watch?v=rPAHzsnQBVg",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "21:45",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP "
+          "date": "2026-10-22",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 1"
         },
         {
           "date": "2026-10-22",
@@ -376,30 +388,6 @@
         }
       ],
       "summary": "Adaptación de la historia de Enid Blyton sobre un bosque encantado con un árbol mágico que crece lo suficiente como para llegar a las nubes."
-    },
-    {
-      "id": "life-391c46bd-a622-11f1-9fd4-12b3fcdc08e7",
-      "title": "LA CAÍDA DE LA BALLENA",
-      "genre": "Aventura",
-      "poster": "posters/life-391c46bd-a622-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": null,
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 2"
-        }
-      ],
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.\n"
     },
     {
       "id": "life-bc021b24-a622-11f1-9fd4-12b3fcdc08e7",
@@ -1113,12 +1101,6 @@
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4"
-        },
-        {
           "date": "2026-10-23",
           "time": "19:45",
           "format": "2D Español",
@@ -1186,12 +1168,6 @@
         },
         {
           "date": "2026-10-28",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-21",
           "time": "21:55",
           "format": "2D Español",
           "room": "SALA 4"
@@ -1281,12 +1257,6 @@
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
           "date": "2026-10-23",
           "time": "21:45",
           "format": "2D Español",
@@ -1303,18 +1273,6 @@
           "time": "21:45",
           "format": "2D Español",
           "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "21:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D "
         },
         {
           "date": "2026-10-23",
@@ -1336,288 +1294,6 @@
         }
       ],
       "summary": "FESTIVAL DE TERROR Y SANGRE - Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita."
-    },
-    {
-      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
-      "title": "Yo, Narciso",
-      "genre": "Comedia",
-      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
-      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
-      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-0dbfdbb5-9c55-4726-a255-b153b92a9dfe",
-      "title": "Escondida en Mi Cabeza",
-      "genre": "Comedia",
-      "poster": "posters/este-0dbfdbb5-9c55-4726-a255-b153b92a9dfe.jpg",
-      "trailer": "https://www.youtube.com/watch?v=3kFtLMkRL04",
-      "summary": "Sigue a Erni, un joven inmaduro que invierte en Bitcoins tras una noche loca y sufre un accidente que lo deja en coma. Despierta 14 años después convertido en millonario, pero no recuerda la contraseña de acceso, la cual está guardada en su memoria.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983",
-      "title": "Street Fighter",
-      "genre": "Acción, Aventura",
-      "poster": "posters/este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983.jpg",
-      "trailer": "https://www.youtube.com/watch?v=CqzFnPkaFzI",
-      "summary": "Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "17:15",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/",
-      "sessions": [
-        {
-          "date": "2026-10-21",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
     },
     {
       "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
@@ -1748,6 +1424,60 @@
           "time": "17:00",
           "format": "2D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983",
+      "title": "Street Fighter",
+      "genre": "Acción, Aventura",
+      "poster": "posters/este-bb9944c3-f0a0-48bd-abb7-d6d0293b8983.jpg",
+      "trailer": "https://www.youtube.com/watch?v=CqzFnPkaFzI",
+      "summary": "Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "17:15",
+          "format": "2D Esp",
+          "room": "SALA 3"
         }
       ]
     },
@@ -1952,6 +1682,198 @@
           "time": "21:50",
           "format": "4D Esp",
           "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
+      "title": "Yo, Narciso",
+      "genre": "Comedia",
+      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
+      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
+      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
         }
       ]
     },
