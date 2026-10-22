@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-22T01:32:31.576Z",
+  "generatedAt": "2026-10-22T07:36:41.458Z",
   "sources": [
     {
       "id": "life",
       "name": "LIFE · Punta Shopping",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-22T01:32:31.576Z",
+      "updatedAt": "2026-10-22T07:36:41.458Z",
       "ok": true
     },
     {
       "id": "este",
       "name": "Cines del Este · Atlántico",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-22T01:32:31.576Z",
+      "updatedAt": "2026-10-22T07:36:41.458Z",
       "ok": true
     }
   ],
@@ -292,6 +292,30 @@
         }
       ],
       "summary": "Nueva película basada en la saga de videojuegos \"Street Fighter\". Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!"
+    },
+    {
+      "id": "life-bf9b1ddb-b203-11f1-9fd4-12b3fcdc08e7",
+      "title": "LOS JUEGOS DEL HAMBRE: EN LLAMAS (REESTRENO)",
+      "genre": "Festival",
+      "poster": "posters/life-bf9b1ddb-b203-11f1-9fd4-12b3fcdc08e7.jpg",
+      "trailer": null,
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-10-28",
+          "time": "20:00",
+          "format": "2D Subtitulada",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "20:00",
+          "format": "2D Subtitulada",
+          "room": "SALA 2"
+        }
+      ],
+      "summary": "Después de desafiar al Capitolio y sobrevivir a los 74° Juegos del Hambre, Katniss Everdeen y Peeta Mellark emprenden la Gira de la Victoria, pero su acto de rebeldía ha encendido una revolución en Panem. Para recuperar el control, el presidente Snow organiza una edición especial de los Juegos que obligará a Katniss a enfrentarse a un desafío aún más letal."
     },
     {
       "id": "life-ebaec51d-73e8-11f1-b5cd-12b3fcdc08e7",
@@ -820,30 +844,6 @@
         }
       ],
       "summary": "\"Paw Patrol: La Dino Película\" ya llegó a cine LIFE convirtiéndose en el estreno animado perfecto para las familias de Montevideo. Una tormenta misteriosa arrastra a los cachorros de la Patrulla Canina hasta una isla tropical inexplorada habitada por dinosaurios, donde conocen a Rex, un cachorro que lleva años varado allí y se convirtió en el mayor experto en dinosaurios que existe. Pero cuando el malvado alcalde Humdinger comienza a explotar los recursos de la isla sin control, desata accidentalmente la erupción de un volcán enorme — y el nuevo centro de los rescates más grandes de la historia de la Patrulla Canina serán misiones de proporciones prehistóricas para salvar toda la vida de la isla. ¡Más acción, más dinosaurios y más diversión que nunca! Viví la aventura en familia con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Comprá tus entradas con 50% OFF con tarjetas BBVA y 2x1 Brou, Antel, Anda y Pronto."
-    },
-    {
-      "id": "life-bf9b1ddb-b203-11f1-9fd4-12b3fcdc08e7",
-      "title": "LOS JUEGOS DEL HAMBRE: EN LLAMAS (REESTRENO)",
-      "genre": "Festival",
-      "poster": "posters/life-bf9b1ddb-b203-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": null,
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-10-28",
-          "time": "20:00",
-          "format": "2D Subtitulada",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "20:00",
-          "format": "2D Subtitulada",
-          "room": "SALA 2"
-        }
-      ],
-      "summary": "Después de desafiar al Capitolio y sobrevivir a los 74° Juegos del Hambre, Katniss Everdeen y Peeta Mellark emprenden la Gira de la Victoria, pero su acto de rebeldía ha encendido una revolución en Panem. Para recuperar el control, el presidente Snow organiza una edición especial de los Juegos que obligará a Katniss a enfrentarse a un desafío aún más letal."
     },
     {
       "id": "life-838c04c6-cbdb-11f1-a4cc-12b3fcdc08e7",
