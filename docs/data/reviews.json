@@ -92,37 +92,6 @@
     "externalTitle": "Cars",
     "year": "2006"
   },
-  "losjuegosdelhambrereestreno": {
-    "url": "https://www.rottentomatoes.com/m/the_hunger_games",
-    "summary": "La crítica destaca las actuaciones y la tensión de esta adaptación, con violencia y conflictos emocionales propios de su mundo distópico.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "84%",
-        "count": "316",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "81%",
-        "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Julie and Brandy",
-        "publication": "Autostraddle",
-        "url": "https://www.autostraddle.com/julie-brandy-in-your-box-office-204-hengher-gams-139486/",
-        "quote": "[Rue's] presence gave the heart to the whole movie."
-      }
-    ],
-    "updatedAt": "2026-10-22T16:09:58.245Z",
-    "externalTitle": "The Hunger Games",
-    "year": "2012"
-  },
   "losjuegosdelhambreenllamasreestreno": {
     "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire",
     "summary": "La recepción crítica destaca una segunda parte más sólida, que amplía los temas políticos y el conflicto de sus protagonistas.",
