@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:43:53.229Z",
+  "generatedAt": "2026-10-24T05:55:19.573Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-24T00:43:53.229Z",
+      "updatedAt": "2026-10-24T05:55:19.573Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-24T00:43:53.229Z",
+      "updatedAt": "2026-10-24T05:55:19.573Z",
       "ok": true
     }
   ],
@@ -81,42 +81,14 @@
       }
     },
     {
-      "id": "life-d82f32ee-cbf9-11f1-a4cc-12b3fcdc08e7",
+      "id": "life-fbf7878a-919f-11f1-9fd4-12b3fcdc08e7",
       "title": "EL PODER DE LA RED",
       "genre": "Drama",
-      "poster": "posters/life-d82f32ee-cbf9-11f1-a4cc-12b3fcdc08e7.jpg",
+      "poster": "posters/life-fbf7878a-919f-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/el-poder-de-la-red?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-23",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1afca59-cbf9-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1b09b8c-cbf9-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1b19618-cbf9-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f1afca59-cbf9-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-10-24",
           "time": "21:30",
@@ -1119,20 +1091,6 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7141595e-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
-          "date": "2026-10-23",
-          "time": "22:00",
-          "format": "4D Subtitulada",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=07619888-cbf7-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "22:00",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a47cd844-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-24",
           "time": "19:30",
           "format": "2D Español",
@@ -1301,13 +1259,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-23",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7459244-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-24",
           "time": "19:45",
           "format": "2D Español",
@@ -1376,13 +1327,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7497568-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7459244-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-24",
@@ -1483,13 +1427,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/resident-evil-noche-cero?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-23",
-          "time": "21:45",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c0b7a5d9-cbf7-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-25",
           "time": "21:45",
           "format": "2D Español",
@@ -1502,13 +1439,6 @@
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cec657eb-cbf7-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "21:45",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c0b7a5d9-cbf7-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
@@ -1542,182 +1472,6 @@
           "Zach Cherry"
         ]
       }
-    },
-    {
-      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
-      "title": "Clayface",
-      "genre": "Terror, Suspenso",
-      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
-      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
-      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
-      "sessions": [
-        {
-          "date": "2026-10-23",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "19:25",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "19:25",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "19:25",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:25",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:25",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-08",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
-      "sessions": [
-        {
-          "date": "2026-10-23",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
     },
     {
       "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
@@ -2072,6 +1826,88 @@
       ]
     },
     {
+      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
+      "title": "Clayface",
+      "genre": "Terror, Suspenso",
+      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
+      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
+      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "19:25",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "21:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:25",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "21:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "19:25",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "21:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "19:25",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:25",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "21:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
       "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
       "title": "Yo, Narciso",
       "genre": "Comedia",
@@ -2150,6 +1986,88 @@
           "time": "21:30",
           "format": "2D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
         }
       ]
     },
