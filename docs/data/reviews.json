@@ -1,4 +1,35 @@
 {
+  "shrek25aniversario": {
+    "url": "https://www.rottentomatoes.com/m/shrek",
+    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "89%",
+        "count": "215",
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "90%",
+        "count": "250,000+ Ratings",
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Larushka Ivan-Zadeh",
+        "publication": "The Times (UK)",
+        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
+        "quote": "For all its brashness, Shrek’s heart is in the right place."
+      }
+    ],
+    "updatedAt": "2026-10-24T20:51:50.633Z",
+    "externalTitle": "Shrek",
+    "year": "2001"
+  },
   "cars20anos": {
     "url": "https://www.rottentomatoes.com/m/cars",
     "summary": "Destaca por su mundo visual y su atractivo familiar; la crítica encuentra la historia más sencilla que otras propuestas de Pixar.",
@@ -61,67 +92,36 @@
     "externalTitle": "Cars",
     "year": "2006"
   },
-  "shrek25aniversario": {
-    "url": "https://www.rottentomatoes.com/m/shrek",
-    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
+  "losjuegosdelhambreenllamasreestreno": {
+    "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire",
+    "summary": "La recepción crítica destaca una segunda parte más sólida, que amplía los temas políticos y el conflicto de sus protagonistas.",
     "scores": [
       {
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
-        "value": "89%",
-        "count": "215",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
         "value": "90%",
-        "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Larushka Ivan-Zadeh",
-        "publication": "The Times (UK)",
-        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
-        "quote": "For all its brashness, Shrek’s heart is in the right place."
-      }
-    ],
-    "updatedAt": "2026-10-24T20:51:50.633Z",
-    "externalTitle": "Shrek",
-    "year": "2001"
-  },
-  "elpoderdelared": {
-    "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
-    "summary": "Una investigación sobre el poder de las redes sociales que divide a la crítica y despierta comparaciones con The Social Network.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "54%",
-        "count": "261",
-        "url": "https://www.rottentomatoes.com/m/the_social_reckoning/reviews"
+        "count": "293",
+        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews"
       },
       {
         "label": "Rotten Tomatoes · Popcornmeter",
         "kind": "Público",
-        "value": "71%",
-        "count": "500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/the_social_reckoning/reviews/all-audience"
+        "value": "89%",
+        "count": "250,000+ Ratings",
+        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Wenlei Ma",
-        "publication": "The Nightly (AU)",
-        "url": "https://thenightly.com.au/culture/film/the-social-reckoning-review-aaron-sorkin-returns-with-solid-facebook-files-drama-c-22983641",
-        "quote": "Aaron Sorkin is not as polished or as accomplished as David Fincher, who directed the predecessor, but this is a…"
+        "author": "Sarah Mirk",
+        "publication": "Bitch Media",
+        "url": "https://www.bitchmedia.org/post/the-best-part-of-catching-fire-is-what-it-says-about-tv-news",
+        "quote": "It's mainstream entertainment, but it succeeds at being riveting and deeply unsettling mainstream entertainment that casts a critical light on…"
       }
     ],
-    "updatedAt": "2026-10-24T20:51:50.738Z",
-    "externalTitle": "The Social Reckoning",
-    "year": "2026"
+    "updatedAt": "2026-10-24T20:51:51.699Z",
+    "externalTitle": "The Hunger Games: Catching Fire",
+    "year": "2013"
   },
   "elbanodelpapareestreno": {
     "url": "https://www.rottentomatoes.com/m/1210562-el_bano_del_papa",
@@ -153,36 +153,36 @@
     "updatedAt": "2026-10-24T20:51:51.082Z",
     "externalTitle": "The Pope's Toilet"
   },
-  "losjuegosdelhambreenllamasreestreno": {
-    "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire",
-    "summary": "La recepción crítica destaca una segunda parte más sólida, que amplía los temas políticos y el conflicto de sus protagonistas.",
+  "elpoderdelared": {
+    "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
+    "summary": "Una investigación sobre el poder de las redes sociales que divide a la crítica y despierta comparaciones con The Social Network.",
     "scores": [
       {
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
-        "value": "90%",
-        "count": "293",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews"
+        "value": "54%",
+        "count": "261",
+        "url": "https://www.rottentomatoes.com/m/the_social_reckoning/reviews"
       },
       {
         "label": "Rotten Tomatoes · Popcornmeter",
         "kind": "Público",
-        "value": "89%",
-        "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews/all-audience"
+        "value": "71%",
+        "count": "500+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/the_social_reckoning/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Sarah Mirk",
-        "publication": "Bitch Media",
-        "url": "https://www.bitchmedia.org/post/the-best-part-of-catching-fire-is-what-it-says-about-tv-news",
-        "quote": "It's mainstream entertainment, but it succeeds at being riveting and deeply unsettling mainstream entertainment that casts a critical light on…"
+        "author": "Wenlei Ma",
+        "publication": "The Nightly (AU)",
+        "url": "https://thenightly.com.au/culture/film/the-social-reckoning-review-aaron-sorkin-returns-with-solid-facebook-files-drama-c-22983641",
+        "quote": "Aaron Sorkin is not as polished or as accomplished as David Fincher, who directed the predecessor, but this is a…"
       }
     ],
-    "updatedAt": "2026-10-24T20:51:51.699Z",
-    "externalTitle": "The Hunger Games: Catching Fire",
-    "year": "2013"
+    "updatedAt": "2026-10-24T20:51:50.738Z",
+    "externalTitle": "The Social Reckoning",
+    "year": "2026"
   },
   "streetfighter": {
     "url": "https://www.rottentomatoes.com/m/street_fighter_2026",
@@ -261,6 +261,28 @@
     "updatedAt": "2026-10-24T20:51:52.003Z",
     "externalTitle": "Narciso"
   },
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+    "scores": [
+      {
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+      }
+    ],
+    "updatedAt": "2026-10-24T20:51:52.984Z",
+    "externalTitle": "Yo, Narciso"
+  },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
     "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
@@ -323,27 +345,36 @@
     "externalTitle": "Heart of the Beast",
     "year": "2026"
   },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+  "laislaolvidada": {
+    "url": "https://www.rottentomatoes.com/m/forgotten_island",
+    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
     "scores": [
       {
-        "label": "La Nación (Argentina) · Guillermo Courau",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "95%",
+        "count": "130",
+        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "95%",
+        "count": "1,000+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+        "author": "John Nugent",
+        "publication": "Empire Magazine",
+        "url": "https://www.empireonline.com/movies/reviews/forgotten-island/",
+        "quote": "The imaginative design and performances really tips it over the edge -- shout-out especially to Manny Jacinto as a three-eyed…"
       }
     ],
-    "updatedAt": "2026-10-24T20:51:52.984Z",
-    "externalTitle": "Yo, Narciso"
+    "updatedAt": "2026-10-24T20:51:53.140Z",
+    "externalTitle": "Forgotten Island",
+    "year": "2026"
   },
   "coyotevsacme": {
     "url": "https://www.rottentomatoes.com/m/coyote_vs_acme",
@@ -374,37 +405,6 @@
     ],
     "updatedAt": "2026-10-24T20:51:53.011Z",
     "externalTitle": "Coyote vs. Acme",
-    "year": "2026"
-  },
-  "laislaolvidada": {
-    "url": "https://www.rottentomatoes.com/m/forgotten_island",
-    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "95%",
-        "count": "130",
-        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "95%",
-        "count": "1,000+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "John Nugent",
-        "publication": "Empire Magazine",
-        "url": "https://www.empireonline.com/movies/reviews/forgotten-island/",
-        "quote": "The imaginative design and performances really tips it over the edge -- shout-out especially to Manny Jacinto as a three-eyed…"
-      }
-    ],
-    "updatedAt": "2026-10-24T20:51:53.140Z",
-    "externalTitle": "Forgotten Island",
     "year": "2026"
   },
   "pawpatrolladinopelicula": {
@@ -469,37 +469,6 @@
     "externalTitle": "Clayface",
     "year": "2026"
   },
-  "residentevilnochecero": {
-    "url": "https://www.rottentomatoes.com/m/resident_evil_2026",
-    "summary": "La recepción crítica destaca su combinación de terror, humor y ritmo rápido, además de la manera en que recoge la experiencia de los videojuegos.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "96%",
-        "count": "302",
-        "url": "https://www.rottentomatoes.com/m/resident_evil_2026/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "90%",
-        "count": "10,000+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/resident_evil_2026/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Perri Nemiroff",
-        "publication": "Perri Nemiroff (YouTube)",
-        "url": "https://www.youtube.com/live/TFPRr3D4F0w?si=9guaDFpcbAuJMvJm&amp;t=1390",
-        "quote": "I like seeing an established world and certain rules be played with in a brand new way. And I think…"
-      }
-    ],
-    "updatedAt": "2026-10-24T20:51:53.214Z",
-    "externalTitle": "Resident Evil (2026)",
-    "year": "2026"
-  },
   "madresiniestra": {
     "url": "https://www.rottentomatoes.com/m/other_mommy",
     "summary": "La crítica reconoce algunos sustos y el trabajo de Jessica Chastain, pero cuestiona la consistencia del relato y el desarrollo de sus temas.",
@@ -529,6 +498,37 @@
     ],
     "updatedAt": "2026-10-24T20:51:53.337Z",
     "externalTitle": "Other Mommy",
+    "year": "2026"
+  },
+  "residentevilnochecero": {
+    "url": "https://www.rottentomatoes.com/m/resident_evil_2026",
+    "summary": "La recepción crítica destaca su combinación de terror, humor y ritmo rápido, además de la manera en que recoge la experiencia de los videojuegos.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "96%",
+        "count": "302",
+        "url": "https://www.rottentomatoes.com/m/resident_evil_2026/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "90%",
+        "count": "10,000+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/resident_evil_2026/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Perri Nemiroff",
+        "publication": "Perri Nemiroff (YouTube)",
+        "url": "https://www.youtube.com/live/TFPRr3D4F0w?si=9guaDFpcbAuJMvJm&amp;t=1390",
+        "quote": "I like seeing an established world and certain rules be played with in a brand new way. And I think…"
+      }
+    ],
+    "updatedAt": "2026-10-24T20:51:53.214Z",
+    "externalTitle": "Resident Evil (2026)",
     "year": "2026"
   },
   "lacasa": {
