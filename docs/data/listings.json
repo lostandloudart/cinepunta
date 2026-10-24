@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:55:19.573Z",
+  "generatedAt": "2026-10-24T11:02:59.096Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-24T05:55:19.573Z",
+      "updatedAt": "2026-10-24T11:02:59.096Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-24T05:55:19.573Z",
+      "updatedAt": "2026-10-24T11:02:59.096Z",
       "ok": true
     }
   ],
