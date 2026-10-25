@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:17:10.842Z",
+  "generatedAt": "2026-10-25T06:15:31.591Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-25T01:17:10.842Z",
+      "updatedAt": "2026-10-25T06:15:31.591Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-25T01:17:10.842Z",
+      "updatedAt": "2026-10-25T06:15:31.591Z",
       "ok": true
     }
   ],
@@ -836,13 +836,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/clayface?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-24",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7cf126-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-25",
           "time": "19:30",
           "format": "2D Español",
@@ -890,20 +883,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7141595e-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7cf126-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "22:00",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3debb10-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-25",
