@@ -407,37 +407,6 @@
     "externalTitle": "Coyote vs. Acme",
     "year": "2026"
   },
-  "pawpatrolladinopelicula": {
-    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
-    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "83%",
-        "count": "36",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "94%",
-        "count": "500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Sandra Hall",
-        "publication": "Sydney Morning Herald",
-        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
-        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
-      }
-    ],
-    "updatedAt": "2026-10-24T20:51:53.153Z",
-    "externalTitle": "PAW Patrol: The Dino Movie",
-    "year": "2026"
-  },
   "clayface": {
     "url": "https://www.rottentomatoes.com/m/clayface",
     "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
@@ -554,27 +523,6 @@
         "publication": "Micropsia",
         "url": "https://www.micropsiacine.com/2026/10/estrenos-critica-de-la-casa-de-gustavo-trivino/",
         "summary": "Valora la construcción de una amenaza gradual y la transición hacia el policial negro."
-      }
-    ],
-    "updatedAt": "2026-10-22"
-  },
-  "guardianesdelmuseo2lostesorosdeegipto": {
-    "url": "https://www.filmaffinity.com/ve/film632777.html",
-    "summary": "La crítica consultada rescata el mensaje sobre la amistad, pero cuestiona la animación y la profundidad de los personajes.",
-    "scores": [
-      {
-        "label": "Selene Soto · EscribiendoCine, recogido por FilmAffinity",
-        "value": "4/10",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "kind": "Crítica individual"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Selene Soto",
-        "publication": "EscribiendoCine · vía FilmAffinity",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "summary": "Considera que el mensaje de amistad puede interesar a los chicos, aunque encuentra débil el desarrollo de los personajes."
       }
     ],
     "updatedAt": "2026-10-22"
