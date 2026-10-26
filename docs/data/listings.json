@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:11:55.056Z",
+  "generatedAt": "2026-10-26T06:16:03.238Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-26T01:11:55.056Z",
+      "updatedAt": "2026-10-26T06:16:03.238Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-26T01:11:55.056Z",
+      "updatedAt": "2026-10-26T06:16:03.238Z",
       "ok": true
     }
   ],
@@ -418,14 +418,21 @@
       }
     },
     {
-      "id": "life-26b0a44a-bb89-11f1-a4cc-12b3fcdc08e7",
+      "id": "life-98ba9bed-4fbb-11f1-9146-12ef3739f737",
       "title": "VERITY: LA SOMBRA DE UN ENGAÑO",
       "genre": "Drama",
-      "poster": "posters/life-26b0a44a-bb89-11f1-a4cc-12b3fcdc08e7.jpg",
+      "poster": "posters/life-98ba9bed-4fbb-11f1-9146-12ef3739f737.jpg",
       "trailer": "https://www.youtube.com/watch?v=VNJErO2NunA",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/verity-la-sombra-de-un-engano?complex=Punta+del+Este",
       "sessions": [
+        {
+          "date": "2026-10-26",
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a23c00e7-cbf7-11f1-a4cc-12b3fcdc08e7"
+        },
         {
           "date": "2026-10-26",
           "time": "21:45",
@@ -588,13 +595,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/clayface?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-25",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7dc132-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-26",
           "time": "19:30",
           "format": "2D Español",
@@ -628,20 +628,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7141595e-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7dc132-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "22:00",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3dffe34-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
@@ -756,13 +742,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-25",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7472eb7-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-26",
           "time": "19:45",
           "format": "2D Español",
@@ -803,13 +782,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7497568-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7472eb7-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-26",
