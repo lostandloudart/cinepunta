@@ -1,35 +1,4 @@
 {
-  "shrek25aniversario": {
-    "url": "https://www.rottentomatoes.com/m/shrek",
-    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "89%",
-        "count": "215",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "90%",
-        "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Larushka Ivan-Zadeh",
-        "publication": "The Times (UK)",
-        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
-        "quote": "For all its brashness, Shrek’s heart is in the right place."
-      }
-    ],
-    "updatedAt": "2026-10-25T22:34:14.914Z",
-    "externalTitle": "Shrek",
-    "year": "2001"
-  },
   "cars20anos": {
     "url": "https://www.rottentomatoes.com/m/cars",
     "summary": "Destaca por su mundo visual y su atractivo familiar; la crítica encuentra la historia más sencilla que otras propuestas de Pixar.",
@@ -57,7 +26,7 @@
         "quote": "Cars is Pixar's most improbable success to date, a film that could easily have misfired, but somehow does not."
       }
     ],
-    "updatedAt": "2026-10-25T22:34:13.936Z",
+    "updatedAt": "2026-10-26T23:54:53.064Z",
     "externalTitle": "Cars",
     "year": "2006"
   },
@@ -88,40 +57,40 @@
         "quote": "Cars is Pixar's most improbable success to date, a film that could easily have misfired, but somehow does not."
       }
     ],
-    "updatedAt": "2026-10-25T22:34:13.936Z",
+    "updatedAt": "2026-10-26T23:54:53.064Z",
     "externalTitle": "Cars",
     "year": "2006"
   },
-  "losjuegosdelhambreenllamasreestreno": {
-    "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire",
-    "summary": "La recepción crítica destaca una segunda parte más sólida, que amplía los temas políticos y el conflicto de sus protagonistas.",
+  "shrek25aniversario": {
+    "url": "https://www.rottentomatoes.com/m/shrek",
+    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
     "scores": [
       {
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
-        "value": "90%",
-        "count": "293",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews"
+        "value": "89%",
+        "count": "215",
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
       },
       {
         "label": "Rotten Tomatoes · Popcornmeter",
         "kind": "Público",
-        "value": "89%",
+        "value": "90%",
         "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews/all-audience"
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Sarah Mirk",
-        "publication": "Bitch Media",
-        "url": "https://www.bitchmedia.org/post/the-best-part-of-catching-fire-is-what-it-says-about-tv-news",
-        "quote": "It's mainstream entertainment, but it succeeds at being riveting and deeply unsettling mainstream entertainment that casts a critical light on…"
+        "author": "Larushka Ivan-Zadeh",
+        "publication": "The Times (UK)",
+        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
+        "quote": "For all its brashness, Shrek’s heart is in the right place."
       }
     ],
-    "updatedAt": "2026-10-25T22:34:15.385Z",
-    "externalTitle": "The Hunger Games: Catching Fire",
-    "year": "2013"
+    "updatedAt": "2026-10-26T23:54:53.076Z",
+    "externalTitle": "Shrek",
+    "year": "2001"
   },
   "elbanodelpapareestreno": {
     "url": "https://www.rottentomatoes.com/m/1210562-el_bano_del_papa",
@@ -150,8 +119,39 @@
         "quote": "The cast of pros and amateurs provides realistic performances, and co-director Charlone's lensing makes beautiful use of the rough landscape…"
       }
     ],
-    "updatedAt": "2026-10-25T22:34:16.244Z",
+    "updatedAt": "2026-10-26T23:54:53.984Z",
     "externalTitle": "The Pope's Toilet"
+  },
+  "losjuegosdelhambreenllamasreestreno": {
+    "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire",
+    "summary": "La recepción crítica destaca una segunda parte más sólida, que amplía los temas políticos y el conflicto de sus protagonistas.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "90%",
+        "count": "293",
+        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "89%",
+        "count": "250,000+ Ratings",
+        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sarah Mirk",
+        "publication": "Bitch Media",
+        "url": "https://www.bitchmedia.org/post/the-best-part-of-catching-fire-is-what-it-says-about-tv-news",
+        "quote": "It's mainstream entertainment, but it succeeds at being riveting and deeply unsettling mainstream entertainment that casts a critical light on…"
+      }
+    ],
+    "updatedAt": "2026-10-26T23:54:54.211Z",
+    "externalTitle": "The Hunger Games: Catching Fire",
+    "year": "2013"
   },
   "streetfighter": {
     "url": "https://www.rottentomatoes.com/m/street_fighter_2026",
@@ -161,7 +161,7 @@
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
         "value": "41%",
-        "count": "130",
+        "count": "132",
         "url": "https://www.rottentomatoes.com/m/street_fighter_2026/reviews"
       },
       {
@@ -180,7 +180,7 @@
         "quote": "So shoot me vidgamers—the movie version is a hot mess with a few decent fights thrown in at the end,…"
       }
     ],
-    "updatedAt": "2026-10-25T22:34:16.338Z",
+    "updatedAt": "2026-10-26T23:54:54.270Z",
     "externalTitle": "Street Fighter (2026)",
     "year": "2026"
   },
@@ -211,7 +211,7 @@
         "quote": "The Magic Faraway Tree is sweet, even a bit twee, and unfailingly nice in a way that will draw early…"
       }
     ],
-    "updatedAt": "2026-10-25T22:34:16.444Z",
+    "updatedAt": "2026-10-26T23:54:54.561Z",
     "externalTitle": "The Magic Faraway Tree",
     "year": "2026"
   },
@@ -227,61 +227,8 @@
         "quote": "...Martinessi approaches the historical memory of her country with a somber film, remarkable in its grotesque atmosphere...[Full review in Spanish]"
       }
     ],
-    "updatedAt": "2026-10-25T22:34:16.810Z",
+    "updatedAt": "2026-10-26T23:54:54.587Z",
     "externalTitle": "Narciso"
-  },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
-    "scores": [
-      {
-        "label": "La Nación (Argentina) · Guillermo Courau",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
-      }
-    ],
-    "updatedAt": "2026-10-25T22:34:17.375Z",
-    "externalTitle": "Yo, Narciso"
-  },
-  "veritylasombradeunengano": {
-    "url": "https://www.rottentomatoes.com/m/verity",
-    "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "31%",
-        "count": "186",
-        "url": "https://www.rottentomatoes.com/m/verity/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "71%",
-        "count": "1,000+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/verity/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Joey Shapiro",
-        "publication": "Chicago Reader",
-        "url": "https://chicagoreader.com/film-tv/movie-review/review-verity/",
-        "quote": "One wishes Showalter and his cast would have leaned harder toward the twisty hysteria of something like A Simple Favor…"
-      }
-    ],
-    "updatedAt": "2026-10-25T22:34:16.883Z",
-    "externalTitle": "Verity",
-    "year": "2026"
   },
   "elcorazondelabestia": {
     "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
@@ -310,9 +257,62 @@
         "quote": "This is a stirring story of canine courage and sacrifice that packs an unexpectedly powerful emotional punch."
       }
     ],
-    "updatedAt": "2026-10-25T22:34:16.919Z",
+    "updatedAt": "2026-10-26T23:54:54.657Z",
     "externalTitle": "Heart of the Beast",
     "year": "2026"
+  },
+  "veritylasombradeunengano": {
+    "url": "https://www.rottentomatoes.com/m/verity",
+    "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "31%",
+        "count": "186",
+        "url": "https://www.rottentomatoes.com/m/verity/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "72%",
+        "count": "1,000+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/verity/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Joey Shapiro",
+        "publication": "Chicago Reader",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-verity/",
+        "quote": "One wishes Showalter and his cast would have leaned harder toward the twisty hysteria of something like A Simple Favor…"
+      }
+    ],
+    "updatedAt": "2026-10-26T23:54:54.698Z",
+    "externalTitle": "Verity",
+    "year": "2026"
+  },
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+    "scores": [
+      {
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+      }
+    ],
+    "updatedAt": "2026-10-26T23:54:54.953Z",
+    "externalTitle": "Yo, Narciso"
   },
   "laislaolvidada": {
     "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -341,7 +341,7 @@
         "quote": "The imaginative design and performances really tips it over the edge -- shout-out especially to Manny Jacinto as a three-eyed…"
       }
     ],
-    "updatedAt": "2026-10-25T22:34:17.673Z",
+    "updatedAt": "2026-10-26T23:54:55.154Z",
     "externalTitle": "Forgotten Island",
     "year": "2026"
   },
@@ -372,7 +372,7 @@
         "quote": "It draws on the brand’s legacy of silly antics, chaotic set-pieces and a wicked sense of humour."
       }
     ],
-    "updatedAt": "2026-10-25T22:34:17.456Z",
+    "updatedAt": "2026-10-26T23:54:55.225Z",
     "externalTitle": "Coyote vs. Acme",
     "year": "2026"
   },
@@ -383,59 +383,28 @@
       {
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
-        "value": "75%",
-        "count": "160",
+        "value": "76%",
+        "count": "172",
         "url": "https://www.rottentomatoes.com/m/clayface/reviews"
       },
       {
         "label": "Rotten Tomatoes · Popcornmeter",
         "kind": "Público",
         "value": "94%",
-        "count": "1,000+ Verified Ratings",
+        "count": "2,500+ Verified Ratings",
         "url": "https://www.rottentomatoes.com/m/clayface/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Kyle Smith",
-        "publication": "Wall Street Journal",
-        "url": "https://www.wsj.com/arts-culture/film/clayface-review-dcs-horror-movie-of-a-miracle-cure-1058913b",
-        "quote": "That cheap, trashy aspect works to its advantage; it doesn’t have overblown action set pieces and doesn’t ask to be…"
+        "author": "Tim Cogshell",
+        "publication": "FilmWeek (LAist)",
+        "url": "https://laist.com/news/arts-and-entertainment/filmweek-clayface-wicker-wildwood-and-more",
+        "quote": "Horror director James Watkins handles the making of a Batman villain with the care of Dr. Frankenstein. It's alive, and…"
       }
     ],
-    "updatedAt": "2026-10-25T22:34:17.914Z",
+    "updatedAt": "2026-10-26T23:54:55.252Z",
     "externalTitle": "Clayface",
-    "year": "2026"
-  },
-  "madresiniestra": {
-    "url": "https://www.rottentomatoes.com/m/other_mommy",
-    "summary": "La crítica reconoce algunos sustos y el trabajo de Jessica Chastain, pero cuestiona la consistencia del relato y el desarrollo de sus temas.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "19%",
-        "count": "96",
-        "url": "https://www.rottentomatoes.com/m/other_mommy/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "48%",
-        "count": "1,000+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/other_mommy/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Tom Ellen",
-        "publication": "Empire Magazine",
-        "url": "https://www.empireonline.com/movies/reviews/other-mommy/",
-        "quote": "Other Mommy pinballs at breakneck speed between austere supernatural thriller, Raimi-esque OTT horror-comedy and earnest family drama, never quite sticking…"
-      }
-    ],
-    "updatedAt": "2026-10-25T22:34:17.916Z",
-    "externalTitle": "Other Mommy",
     "year": "2026"
   },
   "residentevilnochecero": {
@@ -465,8 +434,39 @@
         "quote": "I like seeing an established world and certain rules be played with in a brand new way. And I think…"
       }
     ],
-    "updatedAt": "2026-10-25T22:34:17.865Z",
+    "updatedAt": "2026-10-26T23:54:55.315Z",
     "externalTitle": "Resident Evil (2026)",
+    "year": "2026"
+  },
+  "madresiniestra": {
+    "url": "https://www.rottentomatoes.com/m/other_mommy",
+    "summary": "La crítica reconoce algunos sustos y el trabajo de Jessica Chastain, pero cuestiona la consistencia del relato y el desarrollo de sus temas.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "19%",
+        "count": "96",
+        "url": "https://www.rottentomatoes.com/m/other_mommy/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "48%",
+        "count": "1,000+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/other_mommy/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Tom Ellen",
+        "publication": "Empire Magazine",
+        "url": "https://www.empireonline.com/movies/reviews/other-mommy/",
+        "quote": "Other Mommy pinballs at breakneck speed between austere supernatural thriller, Raimi-esque OTT horror-comedy and earnest family drama, never quite sticking…"
+      }
+    ],
+    "updatedAt": "2026-10-26T23:54:55.462Z",
+    "externalTitle": "Other Mommy",
     "year": "2026"
   },
   "lacasa": {
