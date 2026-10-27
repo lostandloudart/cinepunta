@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T23:54:48.560Z",
+  "generatedAt": "2026-10-27T05:07:34.079Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-26T23:54:48.560Z",
+      "updatedAt": "2026-10-27T05:07:34.079Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-26T23:54:48.560Z",
+      "updatedAt": "2026-10-27T05:07:34.079Z",
       "ok": true
     }
   ],
@@ -234,13 +234,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/la-casa?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-26",
-          "time": "21:30",
-          "format": "VIP 2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=06936681-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-27",
           "time": "21:30",
           "format": "VIP 2D Español",
@@ -369,48 +362,6 @@
       }
     },
     {
-      "id": "life-98ba9bed-4fbb-11f1-9146-12ef3739f737",
-      "title": "VERITY: LA SOMBRA DE UN ENGAÑO",
-      "genre": "Drama",
-      "poster": "posters/life-98ba9bed-4fbb-11f1-9146-12ef3739f737.jpg",
-      "trailer": "https://www.youtube.com/watch?v=VNJErO2NunA",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/verity-la-sombra-de-un-engano?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-10-26",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a23c00e7-cbf7-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a23c00e7-cbf7-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"Verity: La Sombra de un Engaño\" llega como uno de los thrillers psicológicos más esperados de la temporada. La adaptación del bestseller de Colleen Hoover, que arrasó en ventas mundiales, se suma a nuestra cartelera de cine con una historia cargada de secretos, obsesión y misterio. Lowen es una escritora al borde de la ruina que recibe el encargo de su vida: terminar la saga de Verity Crawford, una exitosa autora incapacitada tras un misterioso accidente. Al instalarse en la casa familiar para revisar sus manuscritos, descubre una autobiografía oculta que la obliga a preguntarse qué es real y qué es ficción, y si la mujer que yace en esa casa es realmente tan indefensa como parece. Este inquietante estreno tendrá funciones en Cultural Alfabera, Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping, con los mejores horarios de cine. Además, podés verla con 50% de descuento con BBVA o aprovechar las entradas 2x1 con Brou, Antel y Pronto en LIFE Cinemas.",
-      "metadata": {
-        "duration": 117,
-        "classification": "AM 18",
-        "classificationDescription": "",
-        "originalTitle": "VERITY",
-        "releaseDate": "2026-10-01",
-        "language": "Inglés",
-        "directors": [
-          "Michael Showalter"
-        ],
-        "cast": [
-          "Anne Hathaway",
-          "Brady Wagner",
-          "Asel Swango"
-        ]
-      }
-    },
-    {
       "id": "life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7",
       "title": "EL CORAZÓN DE LA BESTIA",
       "genre": "Acción",
@@ -518,13 +469,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/clayface?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7e8e9d-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-27",
           "time": "19:30",
           "format": "2D Español",
@@ -544,20 +488,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7141595e-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=cc7e8e9d-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3e16c76-cbf6-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
@@ -644,13 +574,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-26",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b747f925-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-27",
           "time": "19:45",
           "format": "2D Español",
@@ -677,13 +600,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7497568-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b747f925-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-27",
@@ -766,202 +682,6 @@
           "Zach Cherry"
         ]
       }
-    },
-    {
-      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
-      "title": "Yo, Narciso",
-      "genre": "Comedia",
-      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
-      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
-      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-08-20",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
-      "sessions": [
-        {
-          "date": "2026-10-26",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:30",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
-      "title": "Verity: La Sombra de un Engaño",
-      "genre": "Drama, Suspenso",
-      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
-      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
-      "metadata": {
-        "duration": 120,
-        "classification": "Apta + 18",
-        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-01",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
-      "sessions": [
-        {
-          "date": "2026-10-26",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
-      "title": "Clayface",
-      "genre": "Terror, Suspenso",
-      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
-      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
-      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
-      "sessions": [
-        {
-          "date": "2026-10-26",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:25",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:25",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-08",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
-      "sessions": [
-        {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-27",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
     },
     {
       "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
@@ -1130,6 +850,178 @@
           "time": "19:05",
           "format": "2D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
+      "title": "Clayface",
+      "genre": "Terror, Suspenso",
+      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
+      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
+      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
+      "sessions": [
+        {
+          "date": "2026-10-27",
+          "time": "19:25",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:25",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "21:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
+      "title": "Yo, Narciso",
+      "genre": "Comedia",
+      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
+      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
+      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-08-20",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
+      "sessions": [
+        {
+          "date": "2026-10-27",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:30",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
+      "sessions": [
+        {
+          "date": "2026-10-27",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "22:00",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
+      "title": "Verity: La Sombra de un Engaño",
+      "genre": "Drama, Suspenso",
+      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
+      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
+      "metadata": {
+        "duration": 120,
+        "classification": "Apta + 18",
+        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-01",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
+      "sessions": [
+        {
+          "date": "2026-10-27",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
         }
       ]
     }
