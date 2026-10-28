@@ -1,4 +1,35 @@
 {
+  "shrek25aniversario": {
+    "url": "https://www.rottentomatoes.com/m/shrek",
+    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "89%",
+        "count": "215",
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "90%",
+        "count": "250,000+ Ratings",
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Larushka Ivan-Zadeh",
+        "publication": "The Times (UK)",
+        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
+        "quote": "For all its brashness, Shrek’s heart is in the right place."
+      }
+    ],
+    "updatedAt": "2026-10-28T01:24:04.237Z",
+    "externalTitle": "Shrek",
+    "year": "2001"
+  },
   "cars20anos": {
     "url": "https://www.rottentomatoes.com/m/cars",
     "summary": "Destaca por su mundo visual y su atractivo familiar; la crítica encuentra la historia más sencilla que otras propuestas de Pixar.",
@@ -60,37 +91,6 @@
     "updatedAt": "2026-10-28T01:24:04.115Z",
     "externalTitle": "Cars",
     "year": "2006"
-  },
-  "shrek25aniversario": {
-    "url": "https://www.rottentomatoes.com/m/shrek",
-    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "89%",
-        "count": "215",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "90%",
-        "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Larushka Ivan-Zadeh",
-        "publication": "The Times (UK)",
-        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
-        "quote": "For all its brashness, Shrek’s heart is in the right place."
-      }
-    ],
-    "updatedAt": "2026-10-28T01:24:04.237Z",
-    "externalTitle": "Shrek",
-    "year": "2001"
   },
   "losjuegosdelhambreenllamasreestreno": {
     "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire",
@@ -230,36 +230,27 @@
     "updatedAt": "2026-10-28T01:24:05.814Z",
     "externalTitle": "Narciso"
   },
-  "elcorazondelabestia": {
-    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
-    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
     "scores": [
       {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "84%",
-        "count": "184",
-        "url": "https://www.rottentomatoes.com/m/heart_of_the_beast/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "95%",
-        "count": "2,500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/heart_of_the_beast/reviews/all-audience"
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
       }
     ],
     "reviews": [
       {
-        "author": "Wendy Ide",
-        "publication": "Observer (UK)",
-        "url": "https://observer.co.uk/culture/film/article/heart-of-the-beast-brad-pitt-and-his-combat-dog-battle-the-elements",
-        "quote": "This is a stirring story of canine courage and sacrifice that packs an unexpectedly powerful emotional punch."
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
       }
     ],
-    "updatedAt": "2026-10-28T01:24:05.906Z",
-    "externalTitle": "Heart of the Beast",
-    "year": "2026"
+    "updatedAt": "2026-10-28T01:24:06.324Z",
+    "externalTitle": "Yo, Narciso"
   },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
@@ -292,57 +283,35 @@
     "externalTitle": "Verity",
     "year": "2026"
   },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
-    "scores": [
-      {
-        "label": "La Nación (Argentina) · Guillermo Courau",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
-      }
-    ],
-    "updatedAt": "2026-10-28T01:24:06.324Z",
-    "externalTitle": "Yo, Narciso"
-  },
-  "pawpatrolladinopelicula": {
-    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
-    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
+  "elcorazondelabestia": {
+    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
+    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
     "scores": [
       {
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
-        "value": "83%",
-        "count": "36",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews"
+        "value": "84%",
+        "count": "184",
+        "url": "https://www.rottentomatoes.com/m/heart_of_the_beast/reviews"
       },
       {
         "label": "Rotten Tomatoes · Popcornmeter",
         "kind": "Público",
-        "value": "94%",
-        "count": "500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews/all-audience"
+        "value": "95%",
+        "count": "2,500+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/heart_of_the_beast/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Sandra Hall",
-        "publication": "Sydney Morning Herald",
-        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
-        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
+        "author": "Wendy Ide",
+        "publication": "Observer (UK)",
+        "url": "https://observer.co.uk/culture/film/article/heart-of-the-beast-brad-pitt-and-his-combat-dog-battle-the-elements",
+        "quote": "This is a stirring story of canine courage and sacrifice that packs an unexpectedly powerful emotional punch."
       }
     ],
-    "updatedAt": "2026-10-27T21:21:05.042Z",
-    "externalTitle": "PAW Patrol: The Dino Movie",
+    "updatedAt": "2026-10-28T01:24:05.906Z",
+    "externalTitle": "Heart of the Beast",
     "year": "2026"
   },
   "laislaolvidada": {
@@ -407,6 +376,68 @@
     "externalTitle": "Coyote vs. Acme",
     "year": "2026"
   },
+  "pawpatrolladinopelicula": {
+    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
+    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "83%",
+        "count": "36",
+        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "94%",
+        "count": "500+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sandra Hall",
+        "publication": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
+        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
+      }
+    ],
+    "updatedAt": "2026-10-27T21:21:05.042Z",
+    "externalTitle": "PAW Patrol: The Dino Movie",
+    "year": "2026"
+  },
+  "clayface": {
+    "url": "https://www.rottentomatoes.com/m/clayface",
+    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "77%",
+        "count": "185",
+        "url": "https://www.rottentomatoes.com/m/clayface/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "94%",
+        "count": "2,500+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/clayface/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Wendy Ide",
+        "publication": "Observer (UK)",
+        "url": "https://observer.co.uk/culture/film/article/wendy-ides-pick-of-other-films-wildwood-clayface-possible-love-and-more",
+        "quote": "There are scenes of such inventive gruesomeness that I found myself whimpering pitifully and hiding behind my backpack for much…"
+      }
+    ],
+    "updatedAt": "2026-10-28T01:24:06.704Z",
+    "externalTitle": "Clayface",
+    "year": "2026"
+  },
   "madresiniestra": {
     "url": "https://www.rottentomatoes.com/m/other_mommy",
     "summary": "La crítica reconoce algunos sustos y el trabajo de Jessica Chastain, pero cuestiona la consistencia del relato y el desarrollo de sus temas.",
@@ -467,37 +498,6 @@
     ],
     "updatedAt": "2026-10-28T01:24:06.699Z",
     "externalTitle": "Resident Evil (2026)",
-    "year": "2026"
-  },
-  "clayface": {
-    "url": "https://www.rottentomatoes.com/m/clayface",
-    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "77%",
-        "count": "185",
-        "url": "https://www.rottentomatoes.com/m/clayface/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "94%",
-        "count": "2,500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/clayface/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Wendy Ide",
-        "publication": "Observer (UK)",
-        "url": "https://observer.co.uk/culture/film/article/wendy-ides-pick-of-other-films-wildwood-clayface-possible-love-and-more",
-        "quote": "There are scenes of such inventive gruesomeness that I found myself whimpering pitifully and hiding behind my backpack for much…"
-      }
-    ],
-    "updatedAt": "2026-10-28T01:24:06.704Z",
-    "externalTitle": "Clayface",
     "year": "2026"
   },
   "lacasa": {
