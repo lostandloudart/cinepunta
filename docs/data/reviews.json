@@ -92,67 +92,6 @@
     "externalTitle": "Cars",
     "year": "2006"
   },
-  "losjuegosdelhambreenllamasreestreno": {
-    "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire",
-    "summary": "La recepción crítica destaca una segunda parte más sólida, que amplía los temas políticos y el conflicto de sus protagonistas.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "90%",
-        "count": "293",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "89%",
-        "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/the_hunger_games_catching_fire/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Sarah Mirk",
-        "publication": "Bitch Media",
-        "url": "https://www.bitchmedia.org/post/the-best-part-of-catching-fire-is-what-it-says-about-tv-news",
-        "quote": "It's mainstream entertainment, but it succeeds at being riveting and deeply unsettling mainstream entertainment that casts a critical light on…"
-      }
-    ],
-    "updatedAt": "2026-10-28T01:24:04.705Z",
-    "externalTitle": "The Hunger Games: Catching Fire",
-    "year": "2013"
-  },
-  "elbanodelpapareestreno": {
-    "url": "https://www.rottentomatoes.com/m/1210562-el_bano_del_papa",
-    "summary": "",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "88%",
-        "count": "26",
-        "url": "https://www.rottentomatoes.com/m/1210562-el_bano_del_papa/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "79%",
-        "count": "2,500+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/1210562-el_bano_del_papa/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "V.A. Musetto",
-        "publication": "New York Post",
-        "url": "http://www.nypost.com/seven/04082009/entertainment/movies/toilet_papal_story_163450.htm",
-        "quote": "The cast of pros and amateurs provides realistic performances, and co-director Charlone's lensing makes beautiful use of the rough landscape…"
-      }
-    ],
-    "updatedAt": "2026-10-28T01:24:04.949Z",
-    "externalTitle": "The Pope's Toilet"
-  },
   "streetfighter": {
     "url": "https://www.rottentomatoes.com/m/street_fighter_2026",
     "summary": "La crítica valora su estilo y las referencias al videojuego, pero cuestiona la coherencia del relato y el humor. La respuesta del público es más favorable.",
@@ -403,7 +342,7 @@
         "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
       }
     ],
-    "updatedAt": "2026-10-27T21:21:05.042Z",
+    "updatedAt": "2026-10-29T00:58:47.838Z",
     "externalTitle": "PAW Patrol: The Dino Movie",
     "year": "2026"
   },
