@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:58:42.676Z",
+  "generatedAt": "2026-10-29T07:07:26.410Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-29T00:58:42.676Z",
+      "updatedAt": "2026-10-29T07:07:26.410Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-29T00:58:42.676Z",
+      "updatedAt": "2026-10-29T07:07:26.410Z",
       "ok": true
     }
   ],
@@ -605,14 +605,49 @@
       }
     },
     {
-      "id": "life-26b0a44a-bb89-11f1-a4cc-12b3fcdc08e7",
+      "id": "life-98ba9bed-4fbb-11f1-9146-12ef3739f737",
       "title": "VERITY: LA SOMBRA DE UN ENGAÑO",
       "genre": "Drama",
-      "poster": "posters/life-26b0a44a-bb89-11f1-a4cc-12b3fcdc08e7.jpg",
+      "poster": "posters/life-98ba9bed-4fbb-11f1-9146-12ef3739f737.jpg",
       "trailer": "https://www.youtube.com/watch?v=VNJErO2NunA",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/verity-la-sombra-de-un-engano?complex=Punta+del+Este",
       "sessions": [
+        {
+          "date": "2026-10-29",
+          "time": "21:50",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e8e27864-d232-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "21:50",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e8e41994-d232-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "21:50",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e8e602cb-d232-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "21:50",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e8e70385-d232-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "21:50",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e8e81e3d-d232-11f1-a4cc-12b3fcdc08e7"
+        },
         {
           "date": "2026-10-29",
           "time": "21:50",
@@ -1424,55 +1459,6 @@
       }
     },
     {
-      "id": "life-1773b300-4ee8-11f1-9146-12ef3739f737",
-      "title": "CLAYFACE",
-      "genre": "Festival",
-      "poster": "posters/life-1773b300-4ee8-11f1-9146-12ef3739f737.jpg",
-      "trailer": "https://www.youtube.com/watch?v=EoQV1wYKp00",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/clayface?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f174de32-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f174de32-cbf6-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "4D Subtitulada",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f79c9df4-cbf6-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman.",
-      "metadata": {
-        "duration": 108,
-        "classification": "AM 15",
-        "classificationDescription": "",
-        "originalTitle": "CLAYFACE",
-        "releaseDate": "2026-10-22",
-        "language": "Inglés",
-        "directors": [
-          "James Watkins"
-        ],
-        "cast": [
-          "Eddie Marsan",
-          "Max Minghella",
-          "Naomi Ackie"
-        ]
-      }
-    },
-    {
       "id": "life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7",
       "title": "MADRE SINIESTRA",
       "genre": "Festival",
@@ -1481,13 +1467,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-28",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7497568-cbfa-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-10-29",
           "time": "22:00",
@@ -1536,13 +1515,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=645583f4-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "21:55",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b7497568-cbfa-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-29",
@@ -1786,76 +1758,6 @@
           "Zach Cherry"
         ]
       }
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-08",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
-      "sessions": [
-        {
-          "date": "2026-10-28",
-          "time": "22:00",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
     },
     {
       "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
@@ -2258,6 +2160,70 @@
           "time": "21:40",
           "format": "2D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
+      "sessions": [
+        {
+          "date": "2026-10-29",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
         }
       ]
     },
