@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:23:54.396Z",
+  "generatedAt": "2026-10-30T23:48:12.185Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-30T19:23:54.396Z",
+      "updatedAt": "2026-10-30T23:48:12.185Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-30T19:23:54.396Z",
+      "updatedAt": "2026-10-30T23:48:12.185Z",
       "ok": true
     }
   ],
@@ -147,51 +147,6 @@
       }
     },
     {
-      "id": "life-857e8986-11ba-11f1-9146-12ef3739f737",
-      "title": "STREET FIGHTER",
-      "genre": "Acción",
-      "poster": "posters/life-857e8986-11ba-11f1-9146-12ef3739f737.jpg",
-      "trailer": "https://www.youtube.com/watch?v=rPAHzsnQBVg",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/street-fighter?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=019b7a4b-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=019b7a4b-d234-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Nueva película basada en la saga de videojuegos \"Street Fighter\". Ambientada en 1993, los alejados Street Fighters Ryu y Ken Masters son lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros: un brutal choque de puños, destino y furia. Pero detrás de esta batalla se esconde una conspiración mortal que los obliga a enfrentarse entre ellos y a los demonios de sus pasados. Y si no lo hacen… ¡fin de la partida!",
-      "metadata": {
-        "duration": 119,
-        "classification": "AM 12",
-        "classificationDescription": "",
-        "originalTitle": "STREET FIGHTER",
-        "releaseDate": "2026-10-15",
-        "language": "Inglés",
-        "directors": [
-          "Kitao Sakurai"
-        ],
-        "cast": [
-          "Noah Centineo",
-          "Andrew Koji",
-          "Callina Liang",
-          "Joe Anoa'i",
-          "David Dastmalchian",
-          "Jason Momoa"
-        ]
-      }
-    },
-    {
       "id": "life-ebaec51d-73e8-11f1-b5cd-12b3fcdc08e7",
       "title": "EL ÁRBOL MÁGICO",
       "genre": "Aventura",
@@ -200,13 +155,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/el-arbol-magico?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2e9fbed8-d232-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-10-31",
           "time": "17:15",
@@ -241,13 +189,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1ed294c4-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2e9fbed8-d232-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-31",
@@ -383,13 +324,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/cars-20-anos?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-30",
-          "time": "16:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d0ade164-d233-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-03",
           "time": "16:30",
           "format": "2D Español",
@@ -402,13 +336,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dd3176bf-d233-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "16:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d0ade164-d233-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-03",
@@ -600,13 +527,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/el-corazon-de-la-bestia?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-30",
-          "time": "19:40",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3624ffd-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-31",
           "time": "19:40",
           "format": "2D Español",
@@ -640,13 +560,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=34505955-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "19:40",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3624ffd-d232-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-31",
@@ -703,14 +616,35 @@
       }
     },
     {
-      "id": "life-8f7627fd-904a-11f1-9fd4-12b3fcdc08e7",
+      "id": "life-811a1a97-b04e-11f1-9fd4-12b3fcdc08e7",
       "title": "LA ISLA OLVIDADA",
       "genre": "Animada",
-      "poster": "posters/life-8f7627fd-904a-11f1-9fd4-12b3fcdc08e7.jpg",
+      "poster": "posters/life-811a1a97-b04e-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=mK-BEKnPAN0",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/la-isla-olvidada?complex=Punta+del+Este",
       "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "14:30",
+          "format": "3D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c2d85967-d234-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "14:30",
+          "format": "3D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c2d95b8f-d234-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "14:30",
+          "format": "3D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=c2da46b3-d234-11f1-a4cc-12b3fcdc08e7"
+        },
         {
           "date": "2026-10-31",
           "time": "14:30",
@@ -779,13 +713,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/coyote-vs-acme?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-30",
-          "time": "16:45",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=302ddcf8-d233-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-31",
           "time": "16:45",
           "format": "2D Español",
@@ -812,13 +739,6 @@
           "format": "2D Español",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3031acd5-d233-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "16:45",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=302ddcf8-d233-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-31",
@@ -1095,13 +1015,6 @@
         },
         {
           "date": "2026-10-30",
-          "time": "19:00",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a7fa558f-d233-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
           "time": "21:30",
           "format": "2D Subtitulada",
           "room": "SALA 4",
@@ -1190,63 +1103,14 @@
       }
     },
     {
-      "id": "life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7",
+      "id": "life-43ab4669-95b1-11f1-9fd4-12b3fcdc08e7",
       "title": "WILDWOOD: EL BOSQUE SALVAJE",
       "genre": "Festival",
-      "poster": "posters/life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7.jpg",
+      "poster": "posters/life-43ab4669-95b1-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=aEOgZMeAQhg",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/wildwood-el-bosque-salvaje?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b300106-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b30a21c-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b3135d3-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b31d7ee-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b329863-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b332c24-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b300106-d232-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-10-31",
           "time": "17:00",
@@ -1410,70 +1274,14 @@
       }
     },
     {
-      "id": "life-2a9bb3e7-ad23-11f1-9fd4-12b3fcdc08e7",
+      "id": "life-4fa10651-91a7-11f1-9fd4-12b3fcdc08e7",
       "title": "RESIDENT EVIL: NOCHE CERO",
       "genre": "Festival",
-      "poster": "posters/life-2a9bb3e7-ad23-11f1-9fd4-12b3fcdc08e7.jpg",
+      "poster": "posters/life-4fa10651-91a7-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=RAhSI3AXKEg",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/resident-evil-noche-cero?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4be93f6f-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4bea1653-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4beae263-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4bebd21b-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4bed1372-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4bedd596-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4be93f6f-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "19:45",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=55829908-d232-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-10-31",
           "time": "19:45",
@@ -1564,262 +1372,6 @@
       }
     },
     {
-      "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
-      "title": "Shrek 25 Aniversario",
-      "genre": "Animación",
-      "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
-      "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
-      "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
-      "metadata": {
-        "duration": 90,
-        "classification": "APTA",
-        "classificationDescription": "Apta para todo público.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "16:45",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "16:35",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "16:35",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-16efa5ca-3913-43ee-9aac-05b7d05285ea",
-      "title": "Wildwood: El Bosque Salvaje",
-      "genre": "Animación",
-      "poster": "posters/este-16efa5ca-3913-43ee-9aac-05b7d05285ea.jpg",
-      "trailer": "https://www.youtube.com/watch?v=ypgdjOuODH4",
-      "summary": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregón. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg, Prue navega un mundo de animales parlantes, bandidos y poderosas figuras impulsadas por el duelo y la ambición. Mientras la pareja se ve arrastrada a un conflicto que amenaza el equilibrio del bosque mismo, Prue debe descubrir la fuerza y la fe que nunca supo que poseía. Si quiere salvar a su hermano y proteger el frágil futuro de Wildwood, tendrá que arriesgarlo todo.",
-      "metadata": {
-        "duration": 130,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-29",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/16efa5ca-3913-43ee-9aac-05b7d05285ea/wildwood-el-bosque-salvaje",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "16:55",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "18:45",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "16:55",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "16:55",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "16:55",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "16:45",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "16:45",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
-      "title": "La Isla Olvidada",
-      "genre": "Animación",
-      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
-      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
-      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-09-19",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "15:05",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "15:05",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "15:05",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-e4ef8507-db92-4ba9-be34-bfc5b1514f12",
-      "title": "Sensatez y Sentimiento",
-      "genre": "Drama, Romance",
-      "poster": "posters/este-e4ef8507-db92-4ba9-be34-bfc5b1514f12.jpg",
-      "trailer": "https://www.youtube.com/watch?v=noh5-9tkSw8",
-      "summary": "Es la historia de las hermanas Elinor y Marianne Dashwood y su viaje para encontrar el amor, superar el desamor y la pobreza con gracia y madurez. Basada en la novela de Jane Austen.",
-      "metadata": {
-        "duration": 135,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-29",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/e4ef8507-db92-4ba9-be34-bfc5b1514f12/sensatez-y-sentimiento",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "18:50",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "18:50",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "18:50",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "18:50",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
       "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
       "title": "Yo, Narciso",
       "genre": "Comedia",
@@ -1841,12 +1393,6 @@
       "sessions": [
         {
           "date": "2026-10-30",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-30",
           "time": "21:30",
           "format": "2D Esp",
           "room": "SALA 1"
@@ -1922,64 +1468,6 @@
           "time": "21:40",
           "format": "2D Esp",
           "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-08",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
         }
       ]
     },
@@ -2158,6 +1646,58 @@
       ]
     },
     {
+      "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
+      "title": "Shrek 25 Aniversario",
+      "genre": "Animación",
+      "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
+      "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
+      "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
+      "metadata": {
+        "duration": 90,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "14:25",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "14:25",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "14:25",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "16:35",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "16:35",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
       "id": "este-342cce17-67d0-4ec5-a2a4-0ca437cdbcdf",
       "title": "Coyote vs Acme",
       "genre": "Comedia, Aventura",
@@ -2194,6 +1734,76 @@
           "time": "14:40",
           "format": "2D Esp",
           "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
+      "title": "La Isla Olvidada",
+      "genre": "Animación",
+      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
+      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-09-19",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "15:05",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "15:05",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "15:05",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
         }
       ]
     },
@@ -2292,6 +1902,162 @@
           "time": "19:00",
           "format": "3D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-16efa5ca-3913-43ee-9aac-05b7d05285ea",
+      "title": "Wildwood: El Bosque Salvaje",
+      "genre": "Animación",
+      "poster": "posters/este-16efa5ca-3913-43ee-9aac-05b7d05285ea.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ypgdjOuODH4",
+      "summary": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregón. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg, Prue navega un mundo de animales parlantes, bandidos y poderosas figuras impulsadas por el duelo y la ambición. Mientras la pareja se ve arrastrada a un conflicto que amenaza el equilibrio del bosque mismo, Prue debe descubrir la fuerza y la fe que nunca supo que poseía. Si quiere salvar a su hermano y proteger el frágil futuro de Wildwood, tendrá que arriesgarlo todo.",
+      "metadata": {
+        "duration": 130,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-29",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/16efa5ca-3913-43ee-9aac-05b7d05285ea/wildwood-el-bosque-salvaje",
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "16:55",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "16:55",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "16:55",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "16:45",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "16:45",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-e4ef8507-db92-4ba9-be34-bfc5b1514f12",
+      "title": "Sensatez y Sentimiento",
+      "genre": "Drama, Romance",
+      "poster": "posters/este-e4ef8507-db92-4ba9-be34-bfc5b1514f12.jpg",
+      "trailer": "https://www.youtube.com/watch?v=noh5-9tkSw8",
+      "summary": "Es la historia de las hermanas Elinor y Marianne Dashwood y su viaje para encontrar el amor, superar el desamor y la pobreza con gracia y madurez. Basada en la novela de Jane Austen.",
+      "metadata": {
+        "duration": 135,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-29",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/e4ef8507-db92-4ba9-be34-bfc5b1514f12/sensatez-y-sentimiento",
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "18:50",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "18:50",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "18:50",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
         }
       ]
     },
