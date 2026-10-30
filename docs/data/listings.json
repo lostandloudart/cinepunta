@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:19:34.106Z",
+  "generatedAt": "2026-10-30T01:01:12.377Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-10-29T20:19:34.106Z",
+      "updatedAt": "2026-10-30T01:01:12.377Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-10-29T20:19:34.106Z",
+      "updatedAt": "2026-10-30T01:01:12.377Z",
       "ok": true
     }
   ],
@@ -156,25 +156,11 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/street-fighter?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=fa6aec09-d233-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-30",
           "time": "19:00",
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=019b7a4b-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=fa6aec09-d233-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-30",
@@ -214,13 +200,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/el-arbol-magico?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-10-29",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2e9ea036-d232-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-10-30",
           "time": "17:15",
@@ -262,13 +241,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1ed294c4-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2e9ea036-d232-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-30",
@@ -341,20 +313,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/la-casa?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "21:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=15d5b433-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "21:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=15d5b433-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-30",
           "time": "21:45",
           "format": "VIP 2D Español",
@@ -412,48 +370,6 @@
           "Diego Peretti",
           "Cesar Troncoso",
           "Fabian Arenillas"
-        ]
-      }
-    },
-    {
-      "id": "life-251951db-b1f7-11f1-9fd4-12b3fcdc08e7",
-      "title": "NARCISO",
-      "genre": "Drama",
-      "poster": "posters/life-251951db-b1f7-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=DOzgDTZ3N3U",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/narciso?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-10-29",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dd975983-ce1f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dd975983-ce1f-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Paraguay, 1959. El país vive bajo un régimen militar sofocante, Narciso regresa de Buenos Aires con el rock & roll como bandera. Carismático, provocador y deseado por hombres y mujeres, pronto se convierte en una estrella de la radio y en símbolo de libertad. Su programa sacude una sociedad conservadora y vigilada por el miedo. Tras su último show, Narciso aparece muerto. Mientras el silencio se impone, su muerte deja al descubierto una trama de deseos y represión. ¿Quién mató a Narciso?",
-      "metadata": {
-        "duration": 101,
-        "classification": "AM 18",
-        "classificationDescription": "",
-        "originalTitle": "NARCISO",
-        "releaseDate": "2026-10-15",
-        "language": "Español",
-        "directors": [
-          "Marcelo Martinessi"
-        ],
-        "cast": [
-          "Diro Romero",
-          "Manuel Cuenca",
-          "Arturo Fleitas"
         ]
       }
     },
@@ -698,13 +614,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/el-corazon-de-la-bestia?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "19:40",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3613d04-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-30",
           "time": "19:40",
           "format": "2D Español",
@@ -745,13 +654,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=34505955-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "19:40",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d3613d04-d232-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-30",
@@ -1206,13 +1108,6 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=15da67e0-d234-11f1-a4cc-12b3fcdc08e7"
         },
         {
-          "date": "2026-10-29",
-          "time": "21:00",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7f7546da-d233-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-30",
           "time": "19:00",
           "format": "VIP 2D Subtitulada",
@@ -1318,13 +1213,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/wildwood-el-bosque-salvaje?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b2f154b-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-30",
           "time": "17:00",
           "format": "2D Español",
@@ -1365,13 +1253,6 @@
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b332c24-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "17:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b2f154b-d232-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-30",
@@ -1566,13 +1447,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/resident-evil-noche-cero?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4be8008b-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-10-30",
           "time": "19:45",
           "format": "2D Español",
@@ -1613,20 +1487,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4bedd596-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "19:45",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4be8008b-d232-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "19:45",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=55819a9c-d232-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-10-30",
@@ -1732,84 +1592,60 @@
       }
     },
     {
-      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
-      "title": "La Isla Olvidada",
+      "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
+      "title": "Shrek 25 Aniversario",
       "genre": "Animación",
-      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
-      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
-      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
+      "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
+      "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
       "metadata": {
-        "duration": 110,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "duration": 90,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
         "directors": [],
         "cast": [],
-        "releaseDate": "2026-09-19",
+        "releaseDate": "2026-10-22",
         "originalTitle": "",
         "language": ""
       },
       "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
+      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
           "date": "2026-10-30",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "16:45",
+          "format": "2D Esp",
+          "room": "SALA 3"
         },
         {
           "date": "2026-10-31",
-          "time": "15:05",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "14:25",
+          "format": "2D Esp",
+          "room": "SALA 1"
         },
         {
           "date": "2026-11-01",
-          "time": "15:05",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "14:25",
+          "format": "2D Esp",
+          "room": "SALA 1"
         },
         {
           "date": "2026-11-02",
-          "time": "15:05",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "14:25",
+          "format": "2D Esp",
+          "room": "SALA 1"
         },
         {
           "date": "2026-11-03",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "16:35",
+          "format": "2D Esp",
+          "room": "SALA 3"
         },
         {
           "date": "2026-11-04",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "16:35",
+          "format": "2D Esp",
+          "room": "SALA 3"
         }
       ]
     },
@@ -1834,12 +1670,6 @@
       "url": "https://www.cinesdeleste.com.uy/movie/16efa5ca-3913-43ee-9aac-05b7d05285ea/wildwood-el-bosque-salvaje",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "18:45",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
           "date": "2026-10-30",
           "time": "16:55",
           "format": "2D Esp",
@@ -1884,6 +1714,82 @@
       ]
     },
     {
+      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
+      "title": "La Isla Olvidada",
+      "genre": "Animación",
+      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
+      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-09-19",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "15:05",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "15:05",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "15:05",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
       "id": "este-e4ef8507-db92-4ba9-be34-bfc5b1514f12",
       "title": "Sensatez y Sentimiento",
       "genre": "Drama, Romance",
@@ -1903,12 +1809,6 @@
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/movie/e4ef8507-db92-4ba9-be34-bfc5b1514f12/sensatez-y-sentimiento",
       "sessions": [
-        {
-          "date": "2026-10-29",
-          "time": "18:50",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
         {
           "date": "2026-10-30",
           "time": "18:50",
@@ -1967,18 +1867,6 @@
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
       "sessions": [
-        {
-          "date": "2026-10-29",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
         {
           "date": "2026-10-30",
           "time": "19:40",
@@ -2086,12 +1974,6 @@
       "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
           "date": "2026-10-30",
           "time": "19:50",
           "format": "4D Esp",
@@ -2149,12 +2031,6 @@
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
       "sessions": [
-        {
-          "date": "2026-10-29",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
         {
           "date": "2026-10-30",
           "time": "21:40",
@@ -2214,12 +2090,6 @@
       "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
           "date": "2026-10-30",
           "time": "21:50",
           "format": "2D Sub",
@@ -2278,12 +2148,6 @@
       "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
           "date": "2026-10-30",
           "time": "22:00",
           "format": "4D Esp",
@@ -2318,64 +2182,6 @@
           "time": "22:00",
           "format": "4D Esp",
           "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
-      "title": "Shrek 25 Aniversario",
-      "genre": "Animación",
-      "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
-      "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
-      "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
-      "metadata": {
-        "duration": 90,
-        "classification": "APTA",
-        "classificationDescription": "Apta para todo público.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "16:45",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "16:35",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "16:35",
-          "format": "2D Esp",
-          "room": "SALA 3"
         }
       ]
     },
