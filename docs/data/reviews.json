@@ -154,6 +154,28 @@
     "externalTitle": "The Magic Faraway Tree",
     "year": "2026"
   },
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+    "scores": [
+      {
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+      }
+    ],
+    "updatedAt": "2026-11-01T15:11:37.944Z",
+    "externalTitle": "Yo, Narciso"
+  },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
     "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
@@ -216,57 +238,35 @@
     "externalTitle": "Heart of the Beast",
     "year": "2026"
   },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
-    "scores": [
-      {
-        "label": "La Nación (Argentina) · Guillermo Courau",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
-      }
-    ],
-    "updatedAt": "2026-11-01T15:11:37.944Z",
-    "externalTitle": "Yo, Narciso"
-  },
-  "pawpatrolladinopelicula": {
-    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
-    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
+  "laislaolvidada": {
+    "url": "https://www.rottentomatoes.com/m/forgotten_island",
+    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
     "scores": [
       {
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
-        "value": "83%",
-        "count": "36",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews"
+        "value": "95%",
+        "count": "131",
+        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews"
       },
       {
         "label": "Rotten Tomatoes · Popcornmeter",
         "kind": "Público",
         "value": "94%",
-        "count": "500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews/all-audience"
+        "count": "1,000+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Sandra Hall",
-        "publication": "Sydney Morning Herald",
-        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
-        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
+        "author": "Mark Kermode",
+        "publication": "Kermode and Mayo's Take (YouTube)",
+        "url": "https://www.youtube.com/watch?v=3hMls4SBgEY",
+        "quote": "It's kind of incoherent in places... but I enjoyed it."
       }
     ],
-    "updatedAt": "2026-11-01T07:34:16.337Z",
-    "externalTitle": "PAW Patrol: The Dino Movie",
+    "updatedAt": "2026-11-01T15:11:38.133Z",
+    "externalTitle": "Forgotten Island",
     "year": "2026"
   },
   "coyotevsacme": {
@@ -300,35 +300,35 @@
     "externalTitle": "Coyote vs. Acme",
     "year": "2026"
   },
-  "laislaolvidada": {
-    "url": "https://www.rottentomatoes.com/m/forgotten_island",
-    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
+  "pawpatrolladinopelicula": {
+    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
+    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
     "scores": [
       {
         "label": "Rotten Tomatoes · Tomatometer",
         "kind": "Crítica",
-        "value": "95%",
-        "count": "131",
-        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews"
+        "value": "83%",
+        "count": "36",
+        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews"
       },
       {
         "label": "Rotten Tomatoes · Popcornmeter",
         "kind": "Público",
         "value": "94%",
-        "count": "1,000+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews/all-audience"
+        "count": "500+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Mark Kermode",
-        "publication": "Kermode and Mayo's Take (YouTube)",
-        "url": "https://www.youtube.com/watch?v=3hMls4SBgEY",
-        "quote": "It's kind of incoherent in places... but I enjoyed it."
+        "author": "Sandra Hall",
+        "publication": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
+        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
       }
     ],
-    "updatedAt": "2026-11-01T15:11:38.133Z",
-    "externalTitle": "Forgotten Island",
+    "updatedAt": "2026-11-01T07:34:16.337Z",
+    "externalTitle": "PAW Patrol: The Dino Movie",
     "year": "2026"
   },
   "clayface": {
