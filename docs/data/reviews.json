@@ -1,4 +1,35 @@
 {
+  "shrek25aniversario": {
+    "url": "https://www.rottentomatoes.com/m/shrek",
+    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
+    "scores": [
+      {
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "89%",
+        "count": "214",
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "90%",
+        "count": "250,000+ Ratings",
+        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Larushka Ivan-Zadeh",
+        "publication": "The Times (UK)",
+        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
+        "quote": "For all its brashness, Shrek’s heart is in the right place."
+      }
+    ],
+    "updatedAt": "2026-11-02T15:55:52.469Z",
+    "externalTitle": "Shrek",
+    "year": "2001"
+  },
   "cars20anos": {
     "url": "https://www.rottentomatoes.com/m/cars",
     "summary": "Destaca por su mundo visual y su atractivo familiar; la crítica encuentra la historia más sencilla que otras propuestas de Pixar.",
@@ -61,37 +92,6 @@
     "externalTitle": "Cars",
     "year": "2006"
   },
-  "shrek25aniversario": {
-    "url": "https://www.rottentomatoes.com/m/shrek",
-    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "89%",
-        "count": "214",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "90%",
-        "count": "250,000+ Ratings",
-        "url": "https://www.rottentomatoes.com/m/shrek/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Larushka Ivan-Zadeh",
-        "publication": "The Times (UK)",
-        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
-        "quote": "For all its brashness, Shrek’s heart is in the right place."
-      }
-    ],
-    "updatedAt": "2026-11-02T15:55:52.469Z",
-    "externalTitle": "Shrek",
-    "year": "2001"
-  },
   "elarbolmagico": {
     "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
     "summary": "Una aventura familiar de fantasía que la crítica describe como cálida y amable, aunque algunas reseñas encuentran su humor demasiado suave.",
@@ -123,36 +123,27 @@
     "externalTitle": "The Magic Faraway Tree",
     "year": "2026"
   },
-  "streetfighter": {
-    "url": "https://www.rottentomatoes.com/m/street_fighter_2026",
-    "summary": "La crítica valora su estilo y las referencias al videojuego, pero cuestiona la coherencia del relato y el humor. La respuesta del público es más favorable.",
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
     "scores": [
       {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "41%",
-        "count": "143",
-        "url": "https://www.rottentomatoes.com/m/street_fighter_2026/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "78%",
-        "count": "2,500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/street_fighter_2026/reviews/all-audience"
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
       }
     ],
     "reviews": [
       {
-        "author": "Mark Kermode",
-        "publication": "Kermode and Mayo's Take (YouTube)",
-        "url": "https://www.youtube.com/watch?v=wHSvkA1DHCk",
-        "quote": "More than once, I kind of found myself kinda of drifting in and out of it."
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
       }
     ],
-    "updatedAt": "2026-11-02T15:55:52.759Z",
-    "externalTitle": "Street Fighter (2026)",
-    "year": "2026"
+    "updatedAt": "2026-11-02T15:55:53.556Z",
+    "externalTitle": "Yo, Narciso"
   },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
@@ -216,27 +207,36 @@
     "externalTitle": "Heart of the Beast",
     "year": "2026"
   },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+  "laislaolvidada": {
+    "url": "https://www.rottentomatoes.com/m/forgotten_island",
+    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
     "scores": [
       {
-        "label": "La Nación (Argentina) · Guillermo Courau",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+        "label": "Rotten Tomatoes · Tomatometer",
+        "kind": "Crítica",
+        "value": "95%",
+        "count": "131",
+        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews"
+      },
+      {
+        "label": "Rotten Tomatoes · Popcornmeter",
+        "kind": "Público",
+        "value": "94%",
+        "count": "1,000+ Verified Ratings",
+        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews/all-audience"
       }
     ],
     "reviews": [
       {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+        "author": "Mark Kermode",
+        "publication": "Kermode and Mayo's Take (YouTube)",
+        "url": "https://www.youtube.com/watch?v=3hMls4SBgEY",
+        "quote": "It's kind of incoherent in places... but I enjoyed it."
       }
     ],
-    "updatedAt": "2026-11-02T15:55:53.556Z",
-    "externalTitle": "Yo, Narciso"
+    "updatedAt": "2026-11-02T15:55:54.477Z",
+    "externalTitle": "Forgotten Island",
+    "year": "2026"
   },
   "coyotevsacme": {
     "url": "https://www.rottentomatoes.com/m/coyote_vs_acme",
@@ -267,68 +267,6 @@
     ],
     "updatedAt": "2026-11-02T15:55:53.832Z",
     "externalTitle": "Coyote vs. Acme",
-    "year": "2026"
-  },
-  "pawpatrolladinopelicula": {
-    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
-    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "83%",
-        "count": "36",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "94%",
-        "count": "500+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Sandra Hall",
-        "publication": "Sydney Morning Herald",
-        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
-        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
-      }
-    ],
-    "updatedAt": "2026-11-02T15:55:54.057Z",
-    "externalTitle": "PAW Patrol: The Dino Movie",
-    "year": "2026"
-  },
-  "laislaolvidada": {
-    "url": "https://www.rottentomatoes.com/m/forgotten_island",
-    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
-    "scores": [
-      {
-        "label": "Rotten Tomatoes · Tomatometer",
-        "kind": "Crítica",
-        "value": "95%",
-        "count": "131",
-        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews"
-      },
-      {
-        "label": "Rotten Tomatoes · Popcornmeter",
-        "kind": "Público",
-        "value": "94%",
-        "count": "1,000+ Verified Ratings",
-        "url": "https://www.rottentomatoes.com/m/forgotten_island/reviews/all-audience"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Mark Kermode",
-        "publication": "Kermode and Mayo's Take (YouTube)",
-        "url": "https://www.youtube.com/watch?v=3hMls4SBgEY",
-        "quote": "It's kind of incoherent in places... but I enjoyed it."
-      }
-    ],
-    "updatedAt": "2026-11-02T15:55:54.477Z",
-    "externalTitle": "Forgotten Island",
     "year": "2026"
   },
   "clayface": {
@@ -447,27 +385,6 @@
         "publication": "Micropsia",
         "url": "https://www.micropsiacine.com/2026/10/estrenos-critica-de-la-casa-de-gustavo-trivino/",
         "summary": "Valora la construcción de una amenaza gradual y la transición hacia el policial negro."
-      }
-    ],
-    "updatedAt": "2026-10-22"
-  },
-  "guardianesdelmuseo2lostesorosdeegipto": {
-    "url": "https://www.filmaffinity.com/ve/film632777.html",
-    "summary": "La crítica consultada rescata el mensaje sobre la amistad, pero cuestiona la animación y la profundidad de los personajes.",
-    "scores": [
-      {
-        "label": "Selene Soto · EscribiendoCine, recogido por FilmAffinity",
-        "value": "4/10",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "kind": "Crítica individual"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Selene Soto",
-        "publication": "EscribiendoCine · vía FilmAffinity",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "summary": "Considera que el mensaje de amistad puede interesar a los chicos, aunque encuentra débil el desarrollo de los personajes."
       }
     ],
     "updatedAt": "2026-10-22"
