@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:15:02.097Z",
+  "generatedAt": "2026-11-04T17:20:04.533Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-04T09:15:02.097Z",
+      "updatedAt": "2026-11-04T17:20:04.533Z",
       "ok": true
     },
     {
@@ -25,11 +25,95 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-04T09:15:02.097Z",
+      "updatedAt": "2026-11-04T17:20:04.533Z",
       "ok": true
     }
   ],
   "movies": [
+    {
+      "id": "life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7",
+      "title": "¿QUERÉS SER MI HIJO?",
+      "genre": "Comedia",
+      "poster": "posters/life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": null,
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/queres-ser-mi-hijo?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-05",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a5655c-d703-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a984df-d703-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2aa9a25-d703-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "20:15",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a5655c-d703-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a984df-d703-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "19:00",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2aa9a25-d703-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "20:15",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"¿Querés ser mi hijo?\" llega a la cartelera de cine de LIFE como uno de los estrenos más comentados de la comedia rioplatense, una coproducción con Uruguay filmada en Montevideo que marca el debut de Wanda Nara en la pantalla grande. A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo, así que vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el empleo que siempre quiso, miente en la entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera. Esa mentira se convierte en una comedia de enredos que se complica a cada paso. Con entradas 2x1 con Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
+      "metadata": {
+        "duration": 99,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "¿QUERÉS SER MI HIJO?",
+        "releaseDate": "2026-11-05",
+        "language": "Español",
+        "directors": [
+          "Hernán Guerschuny"
+        ],
+        "cast": [
+          "Wanda Nara",
+          "Agustín Bernasconi",
+          "Jean Pierre Noher"
+        ]
+      }
+    },
     {
       "id": "life-5ab3eb6c-d1fa-11f1-a4cc-12b3fcdc08e7",
       "title": "GODZILLA MINUS ZERO",
@@ -306,7 +390,7 @@
     {
       "id": "life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7",
       "title": "WILDWOOD: EL BOSQUE SALVAJE",
-      "genre": "Festival",
+      "genre": "Animada",
       "poster": "posters/life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=aEOgZMeAQhg",
       "source": "life",
@@ -411,7 +495,7 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=01be373e-d6f1-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel (Peyton Elizabeth Lee) inicia una desesperada misión de rescate hacia el Bosque Impasable, un lugar encantado oculto justo más allá de Portland, Oregón. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg (Jacob Tremblay), Prue navega un mundo de animales parlantes, bandidos y poderosas figuras impulsadas por el duelo y la ambición. Mientras la pareja se ve arrastrada a un conflicto que amenaza el equilibrio del bosque mismo, Prue debe descubrir la fuerza y la fe que nunca supo que poseía. Si quiere salvar a su hermano y proteger el frágil futuro de Wildwood, tendrá que arriesgarlo todo.",
+      "summary": "Del estudio Laika, creador de Coraline, llega \"Wildwood: El Bosque Salvaje\", una aventura de animación, fantasía y misterio dirigida por Travis Knight, que se suma a la cartelera de LIFE Cinemas como uno de los grandes estrenos de cine del año. Cuando una bandada de cuervos secuestra a su hermano pequeño, Prue McKeel se aventura en el misterioso Bosque Impasable para rescatarlo. Acompañada por Curtis, descubrirá un mundo mágico habitado por animales parlantes, criaturas extraordinarias y peligrosos enemigos. Una misión que pondrá a prueba su valentía y cambiará su destino. Basada en la novela de Colin Meloy, esta película de animación stop motion es ideal para disfrutar en familia y en pantalla grande. Comprá tus entradas de cine con 2x1 de Brou, Antel, Anda y Pronto o aprovechá el 50% de descuento con BBVA. Consultá las funciones y horarios de cine en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping.",
       "metadata": {
         "duration": 139,
         "classification": "AM 12",
@@ -423,6 +507,76 @@
           "Travis Knight"
         ],
         "cast": []
+      }
+    },
+    {
+      "id": "life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7",
+      "title": "CABALLO SALVAJE NUEVE",
+      "genre": "Acción",
+      "poster": "posters/life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": null,
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/caballo-salvaje-nueve?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-05",
+          "time": "21:30",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd2dc06-d7ae-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "21:30",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd41cf8-d7ae-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "21:30",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd5634a-d7ae-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "21:30",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd67e5c-d7ae-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "21:30",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd79625-d7ae-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:30",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd8b205-d7ae-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"Caballo Salvaje Nueve\" es una comedia negra que combina intriga política, humor ácido y drama, y se suma a la cartelera de cine como uno de los estrenos de cine más destacados del año. Ambientada en Chile en 1973, poco antes del golpe de Estado, la historia sigue a Chris (John Malkovich) y Lee (Sam Rockwell), dos agentes de la CIA enviados a la misteriosa Isla de Pascua. Rodeados de sus emblemáticas estatuas, deberán enfrentar secretos del pasado, conspiraciones y un inesperado encuentro con dos jóvenes rebeldes que cambiará el rumbo de su misión. Presentada en el Festival de Venecia, donde recibió una ovación de más de diez minutos y John Malkovich obtuvo la Copa Volpi al mejor actor, esta película promete una experiencia cinematográfica tan provocadora como emocionante. Comprá tus entradas y disfrutá de esta película con entradas 2x1 de Brou, Antel, Anda y Pronto o 50% de descuento con BBVA. ",
+      "metadata": {
+        "duration": 118,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "WILD HORSE NINE",
+        "releaseDate": "2026-11-05",
+        "language": "Inglés",
+        "directors": [
+          "Martin McDonagh"
+        ],
+        "cast": [
+          "John Malkovich",
+          "Sam Rockwell",
+          "Steve Buscemi"
+        ]
       }
     },
     {
@@ -547,7 +701,7 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a8a338-d703-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "summary": "\"El Gato con Sombrero\" presenta a Gabby y Sebastian, quienes intentan adaptarse a una nueva ciudad cuando un misterioso personaje aparece para transformar sus vidas con magia, travesuras y situaciones completamente disparatadas. El icónico personaje creado por Dr. Seuss regresa en una nueva película de animación que llega a la cartelera de LIFE Cinemas como uno de los estrenos infantiles más divertidos para disfrutar en familia. Con la voz original de Bill Hader, esta comedia animada promete humor, fantasía y mucha imaginación. Pero esta vez, el Gato enfrenta su mayor desafío: cumplir una misión del Instituto de la Imaginación y la Inspiración para demostrar que merece conservar su sombrero mágico. Una aventura llena de sorpresas donde la creatividad y la amistad serán protagonistas. Utilizá nuestras promos de cine 2x1 Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
       "metadata": {
         "duration": 115,
         "classification": "APTA",
@@ -560,6 +714,90 @@
           "Erica Rivinoja"
         ],
         "cast": []
+      }
+    },
+    {
+      "id": "life-5b2a0d1a-ab9f-11f1-9fd4-12b3fcdc08e7",
+      "title": "SENSATEZ Y SENTIMIENTO",
+      "genre": "Drama",
+      "poster": "posters/life-5b2a0d1a-ab9f-11f1-9fd4-12b3fcdc08e7.jpg",
+      "trailer": null,
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/sensatez-y-sentimiento?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-04",
+          "time": "21:30",
+          "format": "2D Subtitulada",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=15da67e0-d234-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "21:30",
+          "format": "2D Subtitulada",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=15da67e0-d234-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "16:20",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d7386557-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "16:20",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d7394f3a-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "16:20",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d739fbea-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "16:20",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d73ad394-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "16:20",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d73b94ea-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "16:20",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d73c6de5-d6f0-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "El amor, las decisiones y los sentimientos se entrelazan en \"Sensatez y Sentimiento\", una nueva adaptación cinematográfica de la célebre novela de Jane Austen, que llega a la cartelera de cine como uno de los estrenos románticos más esperados de la temporada. Tras perder su hogar familiar en Sussex, las hermanas Elinor y Marianne Dashwood deben comenzar una nueva vida en la casa de un pariente lejano. Mientras enfrentan dificultades económicas y desilusiones amorosas, sus personalidades opuestas marcarán el rumbo de sus historias: Elinor se refugia en la prudencia y la razón, mientras Marianne se deja llevar por la pasión y sus emociones. Dos maneras de entender el amor que pondrán a prueba sus sueños y sus vínculos familiares. Dirigida por Georgia Oakley y protagonizada por Daisy Edgar-Jones, esta nueva versión del clásico de la literatura romántica recupera una historia sobre las relaciones humanas, las diferencias sociales y el eterno conflicto entre seguir al corazón o escuchar a la razón. Una propuesta ideal para los amantes del cine de época, el romance y las grandes historias. Podés comprar tus entradas para \"Sensatez y Sentimiento\" con 2x1 Brou, Antel, Anda y Pronto, además del 50% de descuento con BBVA.",
+      "metadata": {
+        "duration": 131,
+        "classification": "AM 12",
+        "classificationDescription": "",
+        "originalTitle": "SENSE AND SENSIBILITY",
+        "releaseDate": "2026-10-29",
+        "language": "Inglés",
+        "directors": [
+          "Georgia Oakley"
+        ],
+        "cast": [
+          "Daisy Edgar-Jones",
+          "Esme Creed-Miles",
+          "Caitriona Balfe"
+        ]
       }
     },
     {
@@ -628,7 +866,7 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e6f2ed2d-d703-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "Adaptación de la historia de Enid Blyton sobre un bosque encantado con un árbol mágico que crece lo suficiente como para llegar a las nubes.",
+      "summary": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes. Conocen a personajes entrañables como Cara de Luna, Seditas, el Señor Comosellame, Doña Lavamucho o el Señor Cazuelas. En la copa del árbol, son transportados a mundos desconocidos y fantásticos y, a través de los desafíos de sus aventuras, la familia aprende a reconectar y a valorarse mutuamente por primera vez en años. Adaptación cinematográfica del clásico de Enid Blyton.",
       "metadata": {
         "duration": 110,
         "classification": "APTA",
@@ -796,7 +1034,7 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=eaab81a4-d6f0-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "Despedido de una multinacional y bajo presión económica, Hugo Vaca vende su casa a un enigmático grupo de inversores, adentrándose en una situación que comienza a tornarse cada vez más incierta y peligrosa.",
+      "summary": "\"La Casa\" se sumó a la cartelera de cine dcomo uno de los estrenos más intensos del cine rioplatense, un thriller premiado en el Festival de Mar del Plata que mezcla drama social, humor negro y suspenso. Hugo Vaca pasó años trabajando en una multinacional hasta que lo despiden de golpe. Con los ahorros que se consumen y la presión económica en aumento, la casa donde vive se convierte en lo único que le queda. Entonces aparece un enigmático grupo de inversores dispuesto a comprarla, con una oferta que parece demasiado buena para rechazar. Hugo acepta, pero lo que empieza como una salida se convierte en el nuevo centro de una situación cada vez más incierta y peligrosa, donde nada es lo que parece. Un film con Diego Peretti, en una de las interpretaciones más elogiadas de su carrera, y el uruguayo César Troncoso. Entradas 2x1 Brou, Antel, Anda y Pronto o 50% OFF con BBVA.",
       "metadata": {
         "duration": 107,
         "classification": "AM 15",
@@ -1263,289 +1501,9 @@
       }
     },
     {
-      "id": "life-d3ae01a7-d7ae-11f1-a4cc-12b3fcdc08e7",
-      "title": "CABALLO SALVAJE NUEVE",
-      "genre": "Acción",
-      "poster": "posters/life-d3ae01a7-d7ae-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": null,
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/caballo-salvaje-nueve?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd2dc06-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd41cf8-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd5634a-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd67e5c-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd79625-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd8b205-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd2dc06-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd41cf8-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd5634a-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd67e5c-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd79625-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd8b205-d7ae-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris (John Malkovich) y Lee (Sam Rockwell) son enviados desde Santiago a la Isla de Pascua por su jefe de oficina, MJ (Steve Buscemi). Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros se enfrentan a sus oscuros pasados y a las conspiraciones del presente, el nuevo vínculo de Chris con dos estudiantes rebeldes (Mariana di Girolamo y Ailín Salas) amenaza con dar un giro inesperado al viaje de todos a este remoto paraíso.",
-      "metadata": {
-        "duration": 118,
-        "classification": "EN ESPERA DE CALIFICACIÓN",
-        "classificationDescription": "",
-        "originalTitle": "WILD HORSE NINE",
-        "releaseDate": "2026-11-05",
-        "language": "Inglés",
-        "directors": [
-          "Martin McDonagh"
-        ],
-        "cast": [
-          "John Malkovich",
-          "Sam Rockwell",
-          "Steve Buscemi"
-        ]
-      }
-    },
-    {
-      "id": "life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7",
-      "title": "¿QUERÉS SER MI HIJO?",
-      "genre": "Comedia",
-      "poster": "posters/life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": null,
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/queres-ser-mi-hijo?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a5655c-d703-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a984df-d703-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2aa9a25-d703-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a5655c-d703-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2a984df-d703-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "19:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f2aa9a25-d703-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo. Vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el trabajo que siempre quiso, miente en una entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera.",
-      "metadata": {
-        "duration": 99,
-        "classification": "AM 15",
-        "classificationDescription": "",
-        "originalTitle": "¿QUERÉS SER MI HIJO?",
-        "releaseDate": "2026-11-05",
-        "language": "Español",
-        "directors": [
-          "Hernán Guerschuny"
-        ],
-        "cast": [
-          "Wanda Nara",
-          "Agustín Bernasconi",
-          "Jean Pierre Noher"
-        ]
-      }
-    },
-    {
-      "id": "life-5b2a0d1a-ab9f-11f1-9fd4-12b3fcdc08e7",
-      "title": "SENSATEZ Y SENTIMIENTO",
-      "genre": "Drama",
-      "poster": "posters/life-5b2a0d1a-ab9f-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": null,
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/sensatez-y-sentimiento?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-04",
-          "time": "21:30",
-          "format": "2D Subtitulada",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=15da67e0-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "21:30",
-          "format": "2D Subtitulada",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=15da67e0-d234-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "16:20",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d7386557-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "16:20",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d7394f3a-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "16:20",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d739fbea-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "16:20",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d73ad394-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "16:20",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d73b94ea-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "16:20",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d73c6de5-d6f0-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Nueva adaptación del clásico literario de Jane Austen \"Sentido y sensibilidad\". Las hermanas Elinor y Marianne Dashwood se ven obligadas a abandonar su finca de Sussex y a mudarse con un pariente lejano, en cuya casa de campo se enfrentarán a problemas amorosos y económicos.",
-      "metadata": {
-        "duration": 131,
-        "classification": "AM 12",
-        "classificationDescription": "",
-        "originalTitle": "SENSE AND SENSIBILITY",
-        "releaseDate": "2026-10-29",
-        "language": "Inglés",
-        "directors": [
-          "Georgia Oakley"
-        ],
-        "cast": [
-          "Daisy Edgar-Jones",
-          "Esme Creed-Miles",
-          "Caitriona Balfe"
-        ]
-      }
-    },
-    {
       "id": "life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7",
       "title": "MADRE SINIESTRA",
-      "genre": "Festival",
+      "genre": "Terror ",
       "poster": "posters/life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=CwIBmSrzqn0",
       "source": "life",
@@ -1650,7 +1608,7 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=22c1df2b-d6f1-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "FESTIVAL DE TERROR Y SANGRE - Bela, una niña de 8 años que vive en un hogar tenso por el matrimonio problemático de sus padres, ve cómo su vida se ve trastornada por una entidad siniestra a la que llama Otra Mamá. Cuando esta presencia malévola emerge de su armario preguntando: \"¿Puedo entrar en tu corazón?\", Bela se niega. Pero pronto las manifestaciones de la Otra Mamá se vuelven cada vez más agresivas, amenazando la seguridad de la familia de Bela.\n\n\n",
+      "summary": "\"Madre Siniestra\" llega a la cartelera de cines de LIFE como uno de los estrenos de terror más perturbadores de la temporada. Dirigida por Rob Savage y protagonizada por Jessica Chastain, este film se centra en Bela, una niña de 8 años que vive en un hogar tenso, atravesado por el matrimonio problemático de sus padres. Todo se trastorna cuando una entidad siniestra a la que llama Otra Mamá emerge de su armario con una pregunta que hiela la sangre: “¿Puedo entrar en tu corazón?”. Bela se niega, pero las manifestaciones de esa presencia son cada vez más agresivas y ponen en peligro a toda la familia. Esa criatura que habita el armario se convierte en el nuevo centro de una pesadilla de la que nadie parece poder escapar. Una película para quienes disfrutan del miedo que se cuela en los espacios más cotidianos de la casa. Comprá tus entradas con 2x1 Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
       "metadata": {
         "duration": 100,
         "classification": "AM 15",
@@ -1699,7 +1657,7 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=559339f9-d232-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "FESTIVAL DE TERROR Y SANGRE - Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita.",
+      "summary": "Comprá tus entradas de cine para \"Resident Evil: Noche Cero\", uno de los estrenos de terror y acción más esperados del año. Bryan es un mensajero médico que no sabe nada de virus, zombies ni conspiraciones, hasta que una noche todo colapsa a su alrededor sin ninguna advertencia. Lo que empieza como un turno de trabajo cualquiera se convierte en el nuevo centro de una carrera por la supervivencia brutal, sin respiro y sin reglas, en una reinvención total de la franquicia que deja atrás todo lo que conocías de Resident Evil. Del director de Barbarian, la película de terror que nadie vio venir y que todos terminaron hablando. Vení a disfrutarla en cines Life con 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Revisá la cartelera de cine y elegí tu función favorita.",
       "metadata": {
         "duration": 94,
         "classification": "AM 15",
