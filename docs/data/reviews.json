@@ -38,6 +38,28 @@
     "externalTitle": "The Magic Faraway Tree",
     "year": "2026"
   },
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+    "scores": [
+      {
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+      }
+    ],
+    "updatedAt": "2026-11-06T02:27:34.325Z",
+    "externalTitle": "Yo, Narciso"
+  },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
     "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
@@ -68,51 +90,6 @@
     ],
     "updatedAt": "2026-11-06T02:27:34.201Z",
     "externalTitle": "Heart of the Beast",
-    "year": "2026"
-  },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
-    "scores": [
-      {
-        "label": "La Nación (Argentina) · Guillermo Courau",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
-      }
-    ],
-    "updatedAt": "2026-11-06T02:27:34.325Z",
-    "externalTitle": "Yo, Narciso"
-  },
-  "pawpatrolladinopelicula": {
-    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
-    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
-    "scores": [
-      {
-        "label": "Sydney Morning Herald · Sandra Hall",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Sandra Hall",
-        "publication": "Sydney Morning Herald",
-        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
-        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
-      }
-    ],
-    "updatedAt": "2026-11-05T06:49:05.219Z",
-    "externalTitle": "PAW Patrol: The Dino Movie",
     "year": "2026"
   },
   "laislaolvidada": {
@@ -154,6 +131,45 @@
     "externalTitle": "Coyote vs. Acme",
     "year": "2026"
   },
+  "pawpatrolladinopelicula": {
+    "url": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
+    "summary": "Una aventura colorida y de rescates pensada especialmente para los seguidores más pequeños de la serie.",
+    "scores": [
+      {
+        "label": "Sydney Morning Herald · Sandra Hall",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sandra Hall",
+        "publication": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/culture/movies/mark-wahlberg-s-and-xxx-plus-other-new-movies-to-watch-this-week-20260902-p60twe.html?post=p5b37y&amp;gb=1",
+        "quote": "Given extra oomph by a new song from the Backstreet Boys, the film has plenty of colour and energy, but…"
+      }
+    ],
+    "updatedAt": "2026-11-06T10:54:39.686Z",
+    "externalTitle": "PAW Patrol: The Dino Movie",
+    "year": "2026"
+  },
+  "clayface": {
+    "url": "https://www.rottentomatoes.com/m/clayface",
+    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
+    "scores": [],
+    "reviews": [
+      {
+        "author": "Sergio Burstein",
+        "publication": "Los Angeles Times",
+        "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-10-23/clayface-le-inyecta-una-saludable-cuota-de-body-horror-al-dcu",
+        "quote": "Watkins does not skimp on the use of gore or those kinds of grotesque and gruesome images that make you…"
+      }
+    ],
+    "updatedAt": "2026-11-06T02:27:35.242Z",
+    "externalTitle": "Clayface",
+    "year": "2026"
+  },
   "madresiniestra": {
     "url": "https://www.rottentomatoes.com/m/other_mommy",
     "summary": "La crítica reconoce algunos sustos y el trabajo de Jessica Chastain, pero cuestiona la consistencia del relato y el desarrollo de sus temas.",
@@ -175,22 +191,6 @@
     ],
     "updatedAt": "2026-11-06T02:27:35.204Z",
     "externalTitle": "Other Mommy",
-    "year": "2026"
-  },
-  "clayface": {
-    "url": "https://www.rottentomatoes.com/m/clayface",
-    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
-    "scores": [],
-    "reviews": [
-      {
-        "author": "Sergio Burstein",
-        "publication": "Los Angeles Times",
-        "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-10-23/clayface-le-inyecta-una-saludable-cuota-de-body-horror-al-dcu",
-        "quote": "Watkins does not skimp on the use of gore or those kinds of grotesque and gruesome images that make you…"
-      }
-    ],
-    "updatedAt": "2026-11-06T02:27:35.242Z",
-    "externalTitle": "Clayface",
     "year": "2026"
   },
   "lacasa": {
