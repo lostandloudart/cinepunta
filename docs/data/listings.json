@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:44:01.180Z",
+  "generatedAt": "2026-11-09T06:32:29.675Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-08T23:44:01.180Z",
+      "updatedAt": "2026-11-09T06:32:29.675Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-08T23:44:01.180Z",
+      "updatedAt": "2026-11-09T06:32:29.675Z",
       "ok": true
     }
   ],
@@ -129,20 +129,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4d85b8e8-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=67cc24b7-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:45",
-          "format": "4D Subtitulada",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=72826500-d6f0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-09",
@@ -286,42 +272,14 @@
       }
     },
     {
-      "id": "life-d3ae01a7-d7ae-11f1-a4cc-12b3fcdc08e7",
+      "id": "life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7",
       "title": "CABALLO SALVAJE NUEVE",
       "genre": "Acción",
-      "poster": "posters/life-d3ae01a7-d7ae-11f1-a4cc-12b3fcdc08e7.jpg",
+      "poster": "posters/life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/caballo-salvaje-nueve?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd67e5c-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd79625-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd8b205-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:30",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=dfd67e5c-d7ae-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-11-09",
           "time": "21:30",
@@ -477,13 +435,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/la-casa?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-08",
-          "time": "21:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=599d6a55-d704-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-09",
           "time": "21:15",
           "format": "2D Español",
@@ -496,13 +447,6 @@
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=599f99db-d704-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=599d6a55-d704-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-09",
@@ -694,13 +638,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-08",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=22bf85b1-d6f1-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-09",
           "time": "21:50",
           "format": "2D Español",
@@ -713,13 +650,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=22c1df2b-d6f1-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=22bf85b1-d6f1-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-09",
@@ -753,226 +683,6 @@
           "Arabella Olivia Clark"
         ]
       }
-    },
-    {
-      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
-      "title": "La Casa",
-      "genre": "Comedia Dramática",
-      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
-      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
-      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-15",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-fb922164-6322-4711-9ad4-fd9455a7279d",
-      "title": "Godzilla Minus Zero",
-      "genre": "Acción",
-      "poster": "posters/este-fb922164-6322-4711-9ad4-fd9455a7279d.jpg",
-      "trailer": "https://www.youtube.com/watch?v=VttEM3hshL8",
-      "summary": "Ambientada en 1949, dos años después de los turbulentos acontecimientos de Godzilla Minus One, la familia Shikishima enfrenta una nueva calamidad que pondrá a prueba su fortaleza y determinación una vez más.",
-      "metadata": {
-        "duration": 135,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-03",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/fb922164-6322-4711-9ad4-fd9455a7279d/godzilla-minus-zero",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
-      "title": "Verity: La Sombra de un Engaño",
-      "genre": "Drama, Suspenso",
-      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
-      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
-      "metadata": {
-        "duration": 120,
-        "classification": "Apta + 18",
-        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-01",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
-      "title": "Clayface",
-      "genre": "Terror, Suspenso",
-      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
-      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
-      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
     },
     {
       "id": "este-c52a9797-a88c-406e-90dc-7c8b3e02d439",
@@ -1067,6 +777,82 @@
         {
           "date": "2026-11-11",
           "time": "16:40",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-fb922164-6322-4711-9ad4-fd9455a7279d",
+      "title": "Godzilla Minus Zero",
+      "genre": "Acción",
+      "poster": "posters/este-fb922164-6322-4711-9ad4-fd9455a7279d.jpg",
+      "trailer": "https://www.youtube.com/watch?v=VttEM3hshL8",
+      "summary": "Ambientada en 1949, dos años después de los turbulentos acontecimientos de Godzilla Minus One, la familia Shikishima enfrenta una nueva calamidad que pondrá a prueba su fortaleza y determinación una vez más.",
+      "metadata": {
+        "duration": 135,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-03",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/fb922164-6322-4711-9ad4-fd9455a7279d/godzilla-minus-zero",
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:40",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "21:40",
           "format": "2D Sub",
           "room": "SALA 3"
         }
@@ -1187,6 +973,126 @@
         {
           "date": "2026-11-11",
           "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
+      "title": "La Casa",
+      "genre": "Comedia Dramática",
+      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
+      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
+      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-15",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
+      "title": "Verity: La Sombra de un Engaño",
+      "genre": "Drama, Suspenso",
+      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
+      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
+      "metadata": {
+        "duration": 120,
+        "classification": "Apta + 18",
+        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-01",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
+      "title": "Clayface",
+      "genre": "Terror, Suspenso",
+      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
+      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
+      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "22:00",
           "format": "4D Esp",
           "room": "SALA 2"
         }
