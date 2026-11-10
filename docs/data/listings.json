@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:52:03.532Z",
+  "generatedAt": "2026-11-10T17:51:31.934Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-10T09:52:03.532Z",
+      "updatedAt": "2026-11-10T17:51:31.934Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-10T09:52:03.532Z",
+      "updatedAt": "2026-11-10T17:51:31.934Z",
       "ok": true
     }
   ],
@@ -478,6 +478,55 @@
           "John Cena",
           "Lana Condor",
           "Will Forte"
+        ]
+      }
+    },
+    {
+      "id": "life-b9535902-dc86-11f1-a4cc-12b3fcdc08e7",
+      "title": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+      "genre": "Acción",
+      "poster": "posters/life-b9535902-dc86-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=AfPkrHV3JfY",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "19:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d87772f-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d87772f-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "20:50",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a6a63034-dc9f-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "Explorá Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "metadata": {
+        "duration": 158,
+        "classification": "EN ESPERA DE CALIFICACIÓN",
+        "classificationDescription": "",
+        "originalTitle": "THE HUNGER GAMES: SUNRISE ON THE REAPING",
+        "releaseDate": "2026-11-19",
+        "language": "Inglés",
+        "directors": [
+          "Francis Lawrence"
+        ],
+        "cast": [
+          "Joseph Zada",
+          "Elle Fanning",
+          "Mckenna Grace"
         ]
       }
     },
