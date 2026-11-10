@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:32:35.463Z",
+  "generatedAt": "2026-11-10T09:52:03.532Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-10T01:32:35.463Z",
+      "updatedAt": "2026-11-10T09:52:03.532Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-10T01:32:35.463Z",
+      "updatedAt": "2026-11-10T09:52:03.532Z",
       "ok": true
     }
   ],
@@ -35,7 +35,7 @@
       "title": "¿QUERÉS SER MI HIJO?",
       "genre": "Comedia",
       "poster": "posters/life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": null,
+      "trailer": "https://www.youtube.com/watch?v=6_UsIbJDoLc",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/queres-ser-mi-hijo?complex=Punta+del+Este",
       "sessions": [
@@ -861,6 +861,40 @@
           "date": "2026-11-11",
           "time": "22:00",
           "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-329b549b-2660-4e0b-82f6-dc91f4b4af48",
+      "title": "Los Juegos del Hambre Amanece Cosecha",
+      "genre": "Acción, Aventura",
+      "poster": "posters/este-329b549b-2660-4e0b-82f6-dc91f4b4af48.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aFN4Vuz7sfo",
+      "summary": "Ambientada en un Panem postapocalíptico, la precuela de Los Juegos Del Hambre nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
+      "metadata": {
+        "duration": 160,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-18",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/329b549b-2660-4e0b-82f6-dc91f4b4af48/los-juegos-del-hambre-amanece-cosecha",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "18:45",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "22:00",
+          "format": "4D Sub",
           "room": "SALA 2"
         }
       ]
