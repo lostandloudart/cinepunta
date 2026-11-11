@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:24:04.513Z",
+  "generatedAt": "2026-11-11T15:14:32.094Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-11T06:24:04.513Z",
+      "updatedAt": "2026-11-11T15:14:32.094Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-11T06:24:04.513Z",
+      "updatedAt": "2026-11-11T15:14:32.094Z",
       "ok": true
     }
   ],
@@ -80,517 +80,307 @@
       }
     },
     {
-      "id": "life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7",
-      "title": "¿QUERÉS SER MI HIJO?",
+      "id": "life-7e1ac062-a620-11f1-9fd4-12b3fcdc08e7",
+      "title": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
       "genre": "Comedia",
-      "poster": "posters/life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=6_UsIbJDoLc",
+      "poster": "posters/life-7e1ac062-a620-11f1-9fd4-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Km5OXlsC93E",
       "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/queres-ser-mi-hijo?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "20:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"¿Querés ser mi hijo?\" llega a la cartelera de cine de LIFE como uno de los estrenos más comentados de la comedia rioplatense, una coproducción con Uruguay filmada en Montevideo que marca el debut de Wanda Nara en la pantalla grande. A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo, así que vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el empleo que siempre quiso, miente en la entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera. Esa mentira se convierte en una comedia de enredos que se complica a cada paso. Con entradas 2x1 con Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
-      "metadata": {
-        "duration": 99,
-        "classification": "AM 15",
-        "classificationDescription": "",
-        "originalTitle": "¿QUERÉS SER MI HIJO?",
-        "releaseDate": "2026-11-05",
-        "language": "Español",
-        "directors": [
-          "Hernán Guerschuny"
-        ],
-        "cast": [
-          "Wanda Nara",
-          "Agustín Bernasconi",
-          "Jean Pierre Noher"
-        ]
-      }
-    },
-    {
-      "id": "life-5ab3eb6c-d1fa-11f1-a4cc-12b3fcdc08e7",
-      "title": "GODZILLA MINUS ZERO",
-      "genre": "Acción",
-      "poster": "posters/life-5ab3eb6c-d1fa-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=qFe2r0LO2dE",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/godzilla-minus-zero?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4d85b8e8-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a7e196-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a8af1d-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a95702-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a9f481-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31aa9cbf-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ab4ee7-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "18:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ad1a0b-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4d85b8e8-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=5b012ec9-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a7e196-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d03595a-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a8af1d-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "18:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d040ede-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a95702-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "18:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d04b640-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a9f481-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "18:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d05a04a-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31aa9cbf-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "18:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d065b1e-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ab4ee7-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "18:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d075196-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "18:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ad1a0b-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "18:00",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d07d9bf-dc9d-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"Godzilla Minus Zero\" llegó a la cartelera de cine de Uruguay. La nueva película japonesa de monstruos continúa la historia de \"Godzilla Minus One\", el fenómeno cinematográfico que conquistó al público y a la crítica internacional. La historia transcurre en 1949, cuando Japón intenta reconstruirse después de la Segunda Guerra Mundial y de los devastadores acontecimientos de la primera película. Mientras Koichi Shikishima y Noriko buscan recuperar la tranquilidad junto a su familia, una nueva amenaza aparece en el horizonte. Un aterrador monstruo alado desata el caos y la destrucción, obligándolos a enfrentar una batalla que pondrá en riesgo sus vidas y el destino de Japón. Dirigida nuevamente por Takashi Yamazaki y filmada en formato IMAX, esta esperada secuela de Godzilla promete una experiencia cinematográfica cargada de acción, suspenso, efectos visuales y espectaculares enfrentamientos, ideal para disfrutar en la pantalla grande. Comprá tus entradas de cine en LIFE y aprovechá las promociones 2x1 con Brou, Antel, Anda y Pronto, además del 50% de descuento con tarjetas BBVA.",
-      "metadata": {
-        "duration": 125,
-        "classification": "AM 12",
-        "classificationDescription": "",
-        "originalTitle": "GODZILLA MINUS ZERO",
-        "releaseDate": "2026-11-03",
-        "language": "Japonés",
-        "directors": [
-          "Takashi Yamazaki"
-        ],
-        "cast": [
-          "Ryunosuke Kamiki",
-          "Minami Hamabe",
-          "Miou Tanaka"
-        ]
-      }
-    },
-    {
-      "id": "life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7",
-      "title": "WILDWOOD: EL BOSQUE SALVAJE",
-      "genre": "Animada",
-      "poster": "posters/life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aEOgZMeAQhg",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/wildwood-el-bosque-salvaje?complex=Punta+del+Este",
+      "url": "https://www.lifecinemas.com.uy/pelicula/ebenezer-los-fantasmas-de-navidad?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-11-12",
-          "time": "16:50",
+          "time": "19:30",
           "format": "2D Español",
           "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e130671-dca0-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d832070-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
-          "time": "16:50",
+          "time": "19:30",
           "format": "2D Español",
           "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e13d44f-dca0-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8414db-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-14",
-          "time": "16:50",
+          "time": "19:30",
           "format": "2D Español",
           "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1472d0-dca0-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d84d250-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-15",
-          "time": "16:50",
+          "time": "19:30",
           "format": "2D Español",
           "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e152143-dca0-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8582fa-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-16",
-          "time": "16:50",
+          "time": "19:30",
           "format": "2D Español",
           "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e15ba98-dca0-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d863021-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-17",
-          "time": "16:50",
+          "time": "19:30",
           "format": "2D Español",
           "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e165d0a-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e16f2c3-dca0-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d86d923-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-12",
-          "time": "16:50",
+          "time": "19:30",
           "format": "2D Español",
           "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e130671-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e13d44f-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1472d0-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e152143-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e15ba98-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e165d0a-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e16f2c3-dca0-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Del estudio Laika, creador de Coraline, llega \"Wildwood: El Bosque Salvaje\", una aventura de animación, fantasía y misterio dirigida por Travis Knight, que se suma a la cartelera de LIFE Cinemas como uno de los grandes estrenos de cine del año. Cuando una bandada de cuervos secuestra a su hermano pequeño, Prue McKeel se aventura en el misterioso Bosque Impasable para rescatarlo. Acompañada por Curtis, descubrirá un mundo mágico habitado por animales parlantes, criaturas extraordinarias y peligrosos enemigos. Una misión que pondrá a prueba su valentía y cambiará su destino. Basada en la novela de Colin Meloy, esta película de animación stop motion es ideal para disfrutar en familia y en pantalla grande. Comprá tus entradas de cine con 2x1 de Brou, Antel, Anda y Pronto o aprovechá el 50% de descuento con BBVA. Consultá las funciones y horarios de cine en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping.",
-      "metadata": {
-        "duration": 139,
-        "classification": "AM 12",
-        "classificationDescription": "",
-        "originalTitle": "WILDWOOD",
-        "releaseDate": "2026-10-29",
-        "language": "Inglés",
-        "directors": [
-          "Travis Knight"
-        ],
-        "cast": []
-      }
-    },
-    {
-      "id": "life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7",
-      "title": "CABALLO SALVAJE NUEVE",
-      "genre": "Acción",
-      "poster": "posters/life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": null,
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/caballo-salvaje-nueve?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e08faf42-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0906402-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0910991-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e091ad88-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0925ba6-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e09379d4-dc9f-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d832070-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-12",
-          "time": "19:05",
+          "time": "21:45",
           "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e08faf42-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0906402-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0910991-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e091ad88-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0925ba6-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e09379d4-dc9f-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"Caballo Salvaje Nueve\" es una comedia negra que combina intriga política, humor ácido y drama, y se suma a la cartelera de cine como uno de los estrenos de cine más destacados del año. Ambientada en Chile en 1973, poco antes del golpe de Estado, la historia sigue a Chris (John Malkovich) y Lee (Sam Rockwell), dos agentes de la CIA enviados a la misteriosa Isla de Pascua. Rodeados de sus emblemáticas estatuas, deberán enfrentar secretos del pasado, conspiraciones y un inesperado encuentro con dos jóvenes rebeldes que cambiará el rumbo de su misión. Presentada en el Festival de Venecia, donde recibió una ovación de más de diez minutos y John Malkovich obtuvo la Copa Volpi al mejor actor, esta película promete una experiencia cinematográfica tan provocadora como emocionante. Comprá tus entradas y disfrutá de esta película con entradas 2x1 de Brou, Antel, Anda y Pronto o 50% de descuento con BBVA. ",
-      "metadata": {
-        "duration": 118,
-        "classification": "AM 15",
-        "classificationDescription": "",
-        "originalTitle": "WILD HORSE NINE",
-        "releaseDate": "2026-11-05",
-        "language": "Inglés",
-        "directors": [
-          "Martin McDonagh"
-        ],
-        "cast": [
-          "John Malkovich",
-          "Sam Rockwell",
-          "Steve Buscemi"
-        ]
-      }
-    },
-    {
-      "id": "life-76cad2b8-95af-11f1-9fd4-12b3fcdc08e7",
-      "title": "CARNE",
-      "genre": "Thriller",
-      "poster": "posters/life-76cad2b8-95af-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=u4FGVI2uy3M",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/carne?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-18",
-          "time": "21:00",
-          "format": "2D Español",
           "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7107a744-dc9d-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=70ff7f20-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
-          "date": "2026-11-18",
-          "time": "21:00",
+          "date": "2026-11-13",
+          "time": "19:30",
           "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8414db-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "21:45",
+          "format": "2D Subtitulada",
           "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7107a744-dc9d-11f1-a4cc-12b3fcdc08e7"
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=71008a77-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:30",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d84d250-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7101a3f0-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:30",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8582fa-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7102f3af-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:30",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d863021-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7104dab8-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:30",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d86d923-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7105dce0-dc9d-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "\"Carne\" llega a la cartelera de cine como uno de los estrenos uruguayos más inquietantes del año: la ópera prima de Tomás Marichal Urbán, rodada íntegramente en Maldonado y pensada para provocar una fuerte sacudida en el espectador. Imaginá un país cuya identidad gira en torno a la carne, y que de pronto el ganado se extingue. La crisis es social, económica y moral, y el gobierno permanece paralizado. Matías, un empresario ambicioso marcado por un perturbador pasado familiar, propone una polémica ley con la que pretende salvar la industria cárnica y devolverle al país su gloria perdida. Cuando el proyecto es rechazado, decide llevar su plan hacia extremos mucho más oscuros, y esa obsesión se convierte en el nuevo centro de un thriller que mezcla suspenso, violencia sexual, horror y humor negro, y que avanza hacia territorios cada vez más perturbadores. No te olvides que podés comprar tus entradas 2x1 con Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
+      "summary": "Una emocionante historia de fantasmas ambientada en el Londres de Dickens, que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro mientras lucha por una segunda oportunidad de redención.\n",
       "metadata": {
         "duration": 115,
-        "classification": "AM 18",
+        "classification": "AM 9",
         "classificationDescription": "",
-        "originalTitle": "CARNE",
-        "releaseDate": "2026-10-29",
-        "language": "Español",
+        "originalTitle": "EBENEZER",
+        "releaseDate": "2026-11-12",
+        "language": "Inglés",
         "directors": [
-          "Tomás Marichal Urban"
+          "Ti West"
         ],
         "cast": [
-          "Luciano Cacéres",
-          "Maite Lanata",
-          "Paula Silva"
+          "Johnny Depp",
+          "Rupert Grint",
+          "Ian McKellen"
         ]
+      }
+    },
+    {
+      "id": "life-28304299-dc4c-11f1-a4cc-12b3fcdc08e7",
+      "title": "ESCUELA DE MONSTRUOS",
+      "genre": "Animada",
+      "poster": "posters/life-28304299-dc4c-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": null,
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/escuela-de-monstruos?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2c9742a-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ca3581-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "15:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b23a6f58-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cac3a6-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b881f189-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cb4c0e-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cbd298-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cc5b48-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ccdf44-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2c9742a-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ca3581-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "15:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b23a6f58-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cac3a6-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b881f189-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cb4c0e-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cbd298-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cc5b48-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "17:15",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ccdf44-dc9f-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"Escuela de Monstruos\" sigue a Mía, una imaginativa y rebelde niña de 12 años que nunca ha logrado encajar en la escuela de Primrose Valley y que, tras ser enviada a la misteriosa Escuela Bosque Muerto, descubre que todos sus nuevos compañeros son monstruos de verdad. Para permanecer allí tendrá que hacerse pasar por uno de ellos, iniciando una aventura llena de humor, amistad y caos. ",
+      "metadata": {
+        "duration": 81,
+        "classification": "EN ESPERA DE CALIFICACIÓN",
+        "classificationDescription": "",
+        "originalTitle": "MONSTER MIA",
+        "releaseDate": "2026-11-12",
+        "language": "Otros",
+        "directors": [
+          "Verena Fels"
+        ],
+        "cast": []
       }
     },
     {
@@ -1098,6 +888,632 @@
       }
     },
     {
+      "id": "life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7",
+      "title": "CABALLO SALVAJE NUEVE",
+      "genre": "Acción",
+      "poster": "posters/life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": null,
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/caballo-salvaje-nueve?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e08faf42-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0906402-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0910991-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e091ad88-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0925ba6-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e09379d4-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e08faf42-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0906402-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0910991-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e091ad88-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0925ba6-dc9f-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:05",
+          "format": "2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e09379d4-dc9f-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"Caballo Salvaje Nueve\" es una comedia negra que combina intriga política, humor ácido y drama, y se suma a la cartelera de cine como uno de los estrenos de cine más destacados del año. Ambientada en Chile en 1973, poco antes del golpe de Estado, la historia sigue a Chris (John Malkovich) y Lee (Sam Rockwell), dos agentes de la CIA enviados a la misteriosa Isla de Pascua. Rodeados de sus emblemáticas estatuas, deberán enfrentar secretos del pasado, conspiraciones y un inesperado encuentro con dos jóvenes rebeldes que cambiará el rumbo de su misión. Presentada en el Festival de Venecia, donde recibió una ovación de más de diez minutos y John Malkovich obtuvo la Copa Volpi al mejor actor, esta película promete una experiencia cinematográfica tan provocadora como emocionante. Comprá tus entradas y disfrutá de esta película con entradas 2x1 de Brou, Antel, Anda y Pronto o 50% de descuento con BBVA. ",
+      "metadata": {
+        "duration": 118,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "WILD HORSE NINE",
+        "releaseDate": "2026-11-05",
+        "language": "Inglés",
+        "directors": [
+          "Martin McDonagh"
+        ],
+        "cast": [
+          "John Malkovich",
+          "Sam Rockwell",
+          "Steve Buscemi"
+        ]
+      }
+    },
+    {
+      "id": "life-5ab3eb6c-d1fa-11f1-a4cc-12b3fcdc08e7",
+      "title": "GODZILLA MINUS ZERO",
+      "genre": "Acción",
+      "poster": "posters/life-5ab3eb6c-d1fa-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=qFe2r0LO2dE",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/godzilla-minus-zero?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "time": "20:00",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4d85b8e8-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a7e196-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a8af1d-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a95702-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a9f481-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31aa9cbf-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ab4ee7-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "18:00",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ad1a0b-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "20:00",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4d85b8e8-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "20:00",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=5b012ec9-d6f0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a7e196-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "18:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d03595a-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a8af1d-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "18:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d040ede-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a95702-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "18:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d04b640-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a9f481-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "18:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d05a04a-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31aa9cbf-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "18:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d065b1e-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "18:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ab4ee7-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "18:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d075196-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "18:00",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ad1a0b-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "18:00",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d07d9bf-dc9d-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"Godzilla Minus Zero\" llegó a la cartelera de cine de Uruguay. La nueva película japonesa de monstruos continúa la historia de \"Godzilla Minus One\", el fenómeno cinematográfico que conquistó al público y a la crítica internacional. La historia transcurre en 1949, cuando Japón intenta reconstruirse después de la Segunda Guerra Mundial y de los devastadores acontecimientos de la primera película. Mientras Koichi Shikishima y Noriko buscan recuperar la tranquilidad junto a su familia, una nueva amenaza aparece en el horizonte. Un aterrador monstruo alado desata el caos y la destrucción, obligándolos a enfrentar una batalla que pondrá en riesgo sus vidas y el destino de Japón. Dirigida nuevamente por Takashi Yamazaki y filmada en formato IMAX, esta esperada secuela de Godzilla promete una experiencia cinematográfica cargada de acción, suspenso, efectos visuales y espectaculares enfrentamientos, ideal para disfrutar en la pantalla grande. Comprá tus entradas de cine en LIFE y aprovechá las promociones 2x1 con Brou, Antel, Anda y Pronto, además del 50% de descuento con tarjetas BBVA.",
+      "metadata": {
+        "duration": 125,
+        "classification": "AM 12",
+        "classificationDescription": "",
+        "originalTitle": "GODZILLA MINUS ZERO",
+        "releaseDate": "2026-11-03",
+        "language": "Japonés",
+        "directors": [
+          "Takashi Yamazaki"
+        ],
+        "cast": [
+          "Ryunosuke Kamiki",
+          "Minami Hamabe",
+          "Miou Tanaka"
+        ]
+      }
+    },
+    {
+      "id": "life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7",
+      "title": "WILDWOOD: EL BOSQUE SALVAJE",
+      "genre": "Animada",
+      "poster": "posters/life-608e07cc-d181-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aEOgZMeAQhg",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/wildwood-el-bosque-salvaje?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e130671-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e13d44f-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1472d0-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e152143-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e15ba98-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e165d0a-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e16f2c3-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e130671-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e13d44f-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e1472d0-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e152143-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e15ba98-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e165d0a-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:50",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e16f2c3-dca0-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "Del estudio Laika, creador de Coraline, llega \"Wildwood: El Bosque Salvaje\", una aventura de animación, fantasía y misterio dirigida por Travis Knight, que se suma a la cartelera de LIFE Cinemas como uno de los grandes estrenos de cine del año. Cuando una bandada de cuervos secuestra a su hermano pequeño, Prue McKeel se aventura en el misterioso Bosque Impasable para rescatarlo. Acompañada por Curtis, descubrirá un mundo mágico habitado por animales parlantes, criaturas extraordinarias y peligrosos enemigos. Una misión que pondrá a prueba su valentía y cambiará su destino. Basada en la novela de Colin Meloy, esta película de animación stop motion es ideal para disfrutar en familia y en pantalla grande. Comprá tus entradas de cine con 2x1 de Brou, Antel, Anda y Pronto o aprovechá el 50% de descuento con BBVA. Consultá las funciones y horarios de cine en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping.",
+      "metadata": {
+        "duration": 139,
+        "classification": "AM 12",
+        "classificationDescription": "",
+        "originalTitle": "WILDWOOD",
+        "releaseDate": "2026-10-29",
+        "language": "Inglés",
+        "directors": [
+          "Travis Knight"
+        ],
+        "cast": []
+      }
+    },
+    {
+      "id": "life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7",
+      "title": "¿QUERÉS SER MI HIJO?",
+      "genre": "Comedia",
+      "poster": "posters/life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=6_UsIbJDoLc",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/queres-ser-mi-hijo?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "time": "20:15",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "20:15",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"¿Querés ser mi hijo?\" llega a la cartelera de cine de LIFE como uno de los estrenos más comentados de la comedia rioplatense, una coproducción con Uruguay filmada en Montevideo que marca el debut de Wanda Nara en la pantalla grande. A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo, así que vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el empleo que siempre quiso, miente en la entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera. Esa mentira se convierte en una comedia de enredos que se complica a cada paso. Con entradas 2x1 con Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
+      "metadata": {
+        "duration": 99,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "¿QUERÉS SER MI HIJO?",
+        "releaseDate": "2026-11-05",
+        "language": "Español",
+        "directors": [
+          "Hernán Guerschuny"
+        ],
+        "cast": [
+          "Wanda Nara",
+          "Agustín Bernasconi",
+          "Jean Pierre Noher"
+        ]
+      }
+    },
+    {
+      "id": "life-76cad2b8-95af-11f1-9fd4-12b3fcdc08e7",
+      "title": "CARNE",
+      "genre": "Thriller",
+      "poster": "posters/life-76cad2b8-95af-11f1-9fd4-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=u4FGVI2uy3M",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/carne?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "21:00",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7107a744-dc9d-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "21:00",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7107a744-dc9d-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"Carne\" llega a la cartelera de cine como uno de los estrenos uruguayos más inquietantes del año: la ópera prima de Tomás Marichal Urbán, rodada íntegramente en Maldonado y pensada para provocar una fuerte sacudida en el espectador. Imaginá un país cuya identidad gira en torno a la carne, y que de pronto el ganado se extingue. La crisis es social, económica y moral, y el gobierno permanece paralizado. Matías, un empresario ambicioso marcado por un perturbador pasado familiar, propone una polémica ley con la que pretende salvar la industria cárnica y devolverle al país su gloria perdida. Cuando el proyecto es rechazado, decide llevar su plan hacia extremos mucho más oscuros, y esa obsesión se convierte en el nuevo centro de un thriller que mezcla suspenso, violencia sexual, horror y humor negro, y que avanza hacia territorios cada vez más perturbadores. No te olvides que podés comprar tus entradas 2x1 con Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
+      "metadata": {
+        "duration": 115,
+        "classification": "AM 18",
+        "classificationDescription": "",
+        "originalTitle": "CARNE",
+        "releaseDate": "2026-10-29",
+        "language": "Español",
+        "directors": [
+          "Tomás Marichal Urban"
+        ],
+        "cast": [
+          "Luciano Cacéres",
+          "Maite Lanata",
+          "Paula Silva"
+        ]
+      }
+    },
+    {
+      "id": "life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7",
+      "title": "MADRE SINIESTRA",
+      "genre": "Terror ",
+      "poster": "posters/life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=CwIBmSrzqn0",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3676d489-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3677cdde-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36788904-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36793ecf-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3679fe69-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=367ac8bf-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3676d489-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3677cdde-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36788904-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36793ecf-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3679fe69-dca0-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "22:00",
+          "format": "2D Español",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=367ac8bf-dca0-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"Madre Siniestra\" llega a la cartelera de cines de LIFE como uno de los estrenos de terror más perturbadores de la temporada. Dirigida por Rob Savage y protagonizada por Jessica Chastain, este film se centra en Bela, una niña de 8 años que vive en un hogar tenso, atravesado por el matrimonio problemático de sus padres. Todo se trastorna cuando una entidad siniestra a la que llama Otra Mamá emerge de su armario con una pregunta que hiela la sangre: “¿Puedo entrar en tu corazón?”. Bela se niega, pero las manifestaciones de esa presencia son cada vez más agresivas y ponen en peligro a toda la familia. Esa criatura que habita el armario se convierte en el nuevo centro de una pesadilla de la que nadie parece poder escapar. Una película para quienes disfrutan del miedo que se cuela en los espacios más cotidianos de la casa. Comprá tus entradas con 2x1 Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
+      "metadata": {
+        "duration": 100,
+        "classification": "AM 15",
+        "classificationDescription": "",
+        "originalTitle": "OTHER MOMMY",
+        "releaseDate": "2026-10-08",
+        "language": "Inglés",
+        "directors": [
+          "Rob Savage"
+        ],
+        "cast": [
+          "Jessica Chastain",
+          "Jay Duplass",
+          "Arabella Olivia Clark"
+        ]
+      }
+    },
+    {
       "id": "life-8f7627fd-904a-11f1-9fd4-12b3fcdc08e7",
       "title": "LA ISLA OLVIDADA",
       "genre": "Animada",
@@ -1273,422 +1689,6 @@
           "John Cena",
           "Lana Condor",
           "Will Forte"
-        ]
-      }
-    },
-    {
-      "id": "life-7e1ac062-a620-11f1-9fd4-12b3fcdc08e7",
-      "title": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
-      "genre": "Comedia",
-      "poster": "posters/life-7e1ac062-a620-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=Km5OXlsC93E",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/ebenezer-los-fantasmas-de-navidad?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d832070-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8414db-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d84d250-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8582fa-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d863021-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d86d923-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d832070-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=70ff7f20-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8414db-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=71008a77-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d84d250-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7101a3f0-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8582fa-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7102f3af-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d863021-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7104dab8-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d86d923-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7105dce0-dc9d-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Una emocionante historia de fantasmas ambientada en el Londres de Dickens, que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro mientras lucha por una segunda oportunidad de redención.\n",
-      "metadata": {
-        "duration": 115,
-        "classification": "AM 9",
-        "classificationDescription": "",
-        "originalTitle": "EBENEZER",
-        "releaseDate": "2026-11-12",
-        "language": "Inglés",
-        "directors": [
-          "Ti West"
-        ],
-        "cast": [
-          "Johnny Depp",
-          "Rupert Grint",
-          "Ian McKellen"
-        ]
-      }
-    },
-    {
-      "id": "life-28304299-dc4c-11f1-a4cc-12b3fcdc08e7",
-      "title": "ESCUELA DE MONSTRUOS",
-      "genre": "Animada",
-      "poster": "posters/life-28304299-dc4c-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": null,
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/escuela-de-monstruos?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2c9742a-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ca3581-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "15:00",
-          "format": "",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b23a6f58-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cac3a6-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "15:00",
-          "format": "",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b881f189-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cb4c0e-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cbd298-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cc5b48-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ccdf44-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2c9742a-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ca3581-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "15:00",
-          "format": "",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b23a6f58-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cac3a6-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "15:00",
-          "format": "",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b881f189-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cb4c0e-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cbd298-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2cc5b48-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "17:15",
-          "format": "",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ccdf44-dc9f-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"Escuela de Monstruos\" sigue a Mía, una imaginativa y rebelde niña de 12 años que nunca ha logrado encajar en la escuela de Primrose Valley y que, tras ser enviada a la misteriosa Escuela Bosque Muerto, descubre que todos sus nuevos compañeros son monstruos de verdad. Para permanecer allí tendrá que hacerse pasar por uno de ellos, iniciando una aventura llena de humor, amistad y caos. ",
-      "metadata": {
-        "duration": 81,
-        "classification": "EN ESPERA DE CALIFICACIÓN",
-        "classificationDescription": "",
-        "originalTitle": "MONSTER MIA",
-        "releaseDate": "2026-11-12",
-        "language": "Otros",
-        "directors": [
-          "Verena Fels"
-        ],
-        "cast": []
-      }
-    },
-    {
-      "id": "life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7",
-      "title": "MADRE SINIESTRA",
-      "genre": "Terror ",
-      "poster": "posters/life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=CwIBmSrzqn0",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3676d489-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3677cdde-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36788904-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36793ecf-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3679fe69-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=367ac8bf-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3676d489-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3677cdde-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36788904-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=36793ecf-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3679fe69-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=367ac8bf-dca0-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"Madre Siniestra\" llega a la cartelera de cines de LIFE como uno de los estrenos de terror más perturbadores de la temporada. Dirigida por Rob Savage y protagonizada por Jessica Chastain, este film se centra en Bela, una niña de 8 años que vive en un hogar tenso, atravesado por el matrimonio problemático de sus padres. Todo se trastorna cuando una entidad siniestra a la que llama Otra Mamá emerge de su armario con una pregunta que hiela la sangre: “¿Puedo entrar en tu corazón?”. Bela se niega, pero las manifestaciones de esa presencia son cada vez más agresivas y ponen en peligro a toda la familia. Esa criatura que habita el armario se convierte en el nuevo centro de una pesadilla de la que nadie parece poder escapar. Una película para quienes disfrutan del miedo que se cuela en los espacios más cotidianos de la casa. Comprá tus entradas con 2x1 Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
-      "metadata": {
-        "duration": 100,
-        "classification": "AM 15",
-        "classificationDescription": "",
-        "originalTitle": "OTHER MOMMY",
-        "releaseDate": "2026-10-08",
-        "language": "Inglés",
-        "directors": [
-          "Rob Savage"
-        ],
-        "cast": [
-          "Jessica Chastain",
-          "Jay Duplass",
-          "Arabella Olivia Clark"
         ]
       }
     },
