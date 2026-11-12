@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:59:31.546Z",
+  "generatedAt": "2026-11-12T03:00:24.221Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-11T21:59:31.546Z",
+      "updatedAt": "2026-11-12T03:00:24.221Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-11T21:59:31.546Z",
+      "updatedAt": "2026-11-12T03:00:24.221Z",
       "ok": true
     }
   ],
@@ -59,6 +59,20 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6c463f14-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "18:30",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=5d36015f-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9b25bd8c-dde4-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-18",
@@ -108,6 +122,41 @@
           "format": "4D Español",
           "room": "SALA 1 / 4D ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a93574f7-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "18:30",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=5d36015f-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "18:30",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9df2047a-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:30",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e60a518-dde5-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9b25bd8c-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a9370c17-dde4-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Explorá Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
@@ -691,13 +740,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/la-casa?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "format": "VIP 2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=eaab81a4-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-12",
           "time": "21:30",
           "format": "VIP 2D Español",
@@ -820,13 +862,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/el-corazon-de-la-bestia?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-11",
-          "time": "19:40",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=13a1711d-d6f1-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-12",
           "time": "21:15",
           "format": "2D Español",
@@ -867,13 +902,6 @@
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a6a57865-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "19:40",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=13a1711d-d6f1-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-12",
@@ -1058,13 +1086,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/godzilla-minus-zero?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4d85b8e8-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-12",
           "time": "18:50",
           "format": "2D Español",
@@ -1112,20 +1133,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ad1a0b-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4d85b8e8-d6f0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=5b012ec9-d6f0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-12",
@@ -1364,48 +1371,6 @@
           "Travis Knight"
         ],
         "cast": []
-      }
-    },
-    {
-      "id": "life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7",
-      "title": "¿QUERÉS SER MI HIJO?",
-      "genre": "Comedia",
-      "poster": "posters/life-fd902ad9-d6e7-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=6_UsIbJDoLc",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/queres-ser-mi-hijo?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "20:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8abb65-d704-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"¿Querés ser mi hijo?\" llega a la cartelera de cine de LIFE como uno de los estrenos más comentados de la comedia rioplatense, una coproducción con Uruguay filmada en Montevideo que marca el debut de Wanda Nara en la pantalla grande. A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo, así que vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el empleo que siempre quiso, miente en la entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera. Esa mentira se convierte en una comedia de enredos que se complica a cada paso. Con entradas 2x1 con Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
-      "metadata": {
-        "duration": 99,
-        "classification": "AM 15",
-        "classificationDescription": "",
-        "originalTitle": "¿QUERÉS SER MI HIJO?",
-        "releaseDate": "2026-11-05",
-        "language": "Español",
-        "directors": [
-          "Hernán Guerschuny"
-        ],
-        "cast": [
-          "Wanda Nara",
-          "Agustín Bernasconi",
-          "Jean Pierre Noher"
-        ]
       }
     },
     {
@@ -1742,484 +1707,6 @@
       }
     },
     {
-      "id": "este-c52a9797-a88c-406e-90dc-7c8b3e02d439",
-      "title": "¿Querés Ser Mi Hijo?",
-      "genre": "Comedia, Romance",
-      "poster": "posters/este-c52a9797-a88c-406e-90dc-7c8b3e02d439.jpg",
-      "trailer": "https://www.youtube.com/watch?v=3CqnPGRLaF0",
-      "summary": "A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo. Vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el trabajo que siempre quiso, miente en una entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera.",
-      "metadata": {
-        "duration": 100,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-05",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c52a9797-a88c-406e-90dc-7c8b3e02d439/queres-ser-mi-hijo",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
-      "title": "Yo, Narciso",
-      "genre": "Comedia",
-      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
-      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
-      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-08-20",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-08",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
-      "title": "La Casa",
-      "genre": "Comedia Dramática",
-      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
-      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
-      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-15",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-fb922164-6322-4711-9ad4-fd9455a7279d",
-      "title": "Godzilla Minus Zero",
-      "genre": "Acción",
-      "poster": "posters/este-fb922164-6322-4711-9ad4-fd9455a7279d.jpg",
-      "trailer": "https://www.youtube.com/watch?v=VttEM3hshL8",
-      "summary": "Ambientada en 1949, dos años después de los turbulentos acontecimientos de Godzilla Minus One, la familia Shikishima enfrenta una nueva calamidad que pondrá a prueba su fortaleza y determinación una vez más.",
-      "metadata": {
-        "duration": 135,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-03",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/fb922164-6322-4711-9ad4-fd9455a7279d/godzilla-minus-zero",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "21:40",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
-      "title": "Verity: La Sombra de un Engaño",
-      "genre": "Drama, Suspenso",
-      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
-      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
-      "metadata": {
-        "duration": 120,
-        "classification": "Apta + 18",
-        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-01",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
-      "title": "Clayface",
-      "genre": "Terror, Suspenso",
-      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
-      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
-      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
       "id": "este-4d8b4b38-ad7b-453c-9aff-b1e704792d9c",
       "title": "El Gato Con Sombrero",
       "genre": "Animación",
@@ -2322,6 +1809,70 @@
           "time": "19:00",
           "format": "3D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-fb922164-6322-4711-9ad4-fd9455a7279d",
+      "title": "Godzilla Minus Zero",
+      "genre": "Acción",
+      "poster": "posters/este-fb922164-6322-4711-9ad4-fd9455a7279d.jpg",
+      "trailer": "https://www.youtube.com/watch?v=VttEM3hshL8",
+      "summary": "Ambientada en 1949, dos años después de los turbulentos acontecimientos de Godzilla Minus One, la familia Shikishima enfrenta una nueva calamidad que pondrá a prueba su fortaleza y determinación una vez más.",
+      "metadata": {
+        "duration": 135,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-03",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/fb922164-6322-4711-9ad4-fd9455a7279d/godzilla-minus-zero",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
         }
       ]
     },
@@ -2478,6 +2029,192 @@
       ]
     },
     {
+      "id": "este-c52a9797-a88c-406e-90dc-7c8b3e02d439",
+      "title": "¿Querés Ser Mi Hijo?",
+      "genre": "Comedia, Romance",
+      "poster": "posters/este-c52a9797-a88c-406e-90dc-7c8b3e02d439.jpg",
+      "trailer": "https://www.youtube.com/watch?v=3CqnPGRLaF0",
+      "summary": "A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo. Vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el trabajo que siempre quiso, miente en una entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera.",
+      "metadata": {
+        "duration": 100,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-05",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c52a9797-a88c-406e-90dc-7c8b3e02d439/queres-ser-mi-hijo",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
+      "title": "Yo, Narciso",
+      "genre": "Comedia",
+      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
+      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
+      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-08-20",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
       "id": "este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109",
       "title": "Ebenezer: Los Fantasmas de Navidad",
       "genre": "Comedia, Drama, Fantasía",
@@ -2538,6 +2275,192 @@
           "time": "21:30",
           "format": "2D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
+      "title": "La Casa",
+      "genre": "Comedia Dramática",
+      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
+      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
+      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-15",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
+      "title": "Verity: La Sombra de un Engaño",
+      "genre": "Drama, Suspenso",
+      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
+      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
+      "metadata": {
+        "duration": 120,
+        "classification": "Apta + 18",
+        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-01",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
+      "title": "Clayface",
+      "genre": "Terror, Suspenso",
+      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
+      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
+      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
         }
       ]
     },
@@ -2649,6 +2572,18 @@
         },
         {
           "date": "2026-11-19",
+          "time": "22:00",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "18:45",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-20",
           "time": "22:00",
           "format": "4D Sub",
           "room": "SALA 2"
