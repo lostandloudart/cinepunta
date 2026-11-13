@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T18:58:02.105Z",
+  "generatedAt": "2026-11-13T00:26:26.807Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-12T18:58:02.105Z",
+      "updatedAt": "2026-11-13T00:26:26.807Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-12T18:58:02.105Z",
+      "updatedAt": "2026-11-13T00:26:26.807Z",
       "ok": true
     }
   ],
@@ -178,62 +178,55 @@
       }
     },
     {
-      "id": "life-7e1ac062-a620-11f1-9fd4-12b3fcdc08e7",
+      "id": "life-df1c0483-dc9c-11f1-a4cc-12b3fcdc08e7",
       "title": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
       "genre": "Comedia",
-      "poster": "posters/life-7e1ac062-a620-11f1-9fd4-12b3fcdc08e7.jpg",
+      "poster": "posters/life-df1c0483-dc9c-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=Km5OXlsC93E",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/ebenezer-los-fantasmas-de-navidad?complex=Punta+del+Este",
       "sessions": [
         {
           "date": "2026-11-12",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d832070-dca0-11f1-a4cc-12b3fcdc08e7"
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=70ff7f20-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8414db-dca0-11f1-a4cc-12b3fcdc08e7"
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=71008a77-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-14",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d84d250-dca0-11f1-a4cc-12b3fcdc08e7"
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7101a3f0-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-15",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d8582fa-dca0-11f1-a4cc-12b3fcdc08e7"
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7102f3af-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-16",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d863021-dca0-11f1-a4cc-12b3fcdc08e7"
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7104dab8-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-17",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d86d923-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=2d832070-dca0-11f1-a4cc-12b3fcdc08e7"
+          "time": "21:45",
+          "format": "2D Subtitulada",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7105dce0-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-12",
@@ -341,13 +334,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/escuela-de-monstruos?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-12",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2c9742a-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-13",
           "time": "17:15",
           "format": "2D Español",
@@ -402,13 +388,6 @@
           "format": "2D Español",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2ccdf44-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d2c9742a-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
@@ -490,20 +469,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/el-gato-con-sombrero?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "16:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=8ef262d9-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:40",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97a7b960-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-11-13",
           "time": "16:15",
@@ -601,20 +566,6 @@
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97abb67c-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "16:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=8ef262d9-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:40",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97a7b960-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
@@ -974,13 +925,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/caballo-salvaje-nueve?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-12",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e08faf42-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-13",
           "time": "19:05",
           "format": "2D Subtitulada",
@@ -1014,13 +958,6 @@
           "format": "2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e09379d4-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "19:05",
-          "format": "2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e08faf42-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
@@ -1086,13 +1023,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/godzilla-minus-zero?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-12",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a7e196-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-13",
           "time": "18:50",
           "format": "2D Español",
@@ -1133,20 +1063,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31ad1a0b-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:50",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=31a7e196-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3d03595a-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
@@ -1261,13 +1177,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/wildwood-el-bosque-salvaje?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-12",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e130671-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-13",
           "time": "16:50",
           "format": "2D Español",
@@ -1308,13 +1217,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e16f2c3-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1e130671-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
@@ -1604,13 +1506,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/coyote-vs-acme?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-12",
-          "time": "16:30",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1ec2dcc6-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-13",
           "time": "16:30",
           "format": "2D Español",
@@ -1644,13 +1539,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1ec5bf3b-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "16:30",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1ec2dcc6-dc9d-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-13",
@@ -1705,514 +1593,6 @@
           "Will Forte"
         ]
       }
-    },
-    {
-      "id": "este-4d8b4b38-ad7b-453c-9aff-b1e704792d9c",
-      "title": "El Gato Con Sombrero",
-      "genre": "Animación",
-      "poster": "posters/este-4d8b4b38-ad7b-453c-9aff-b1e704792d9c.jpg",
-      "trailer": "https://www.youtube.com/watch?v=uyP8q3BQ0C4",
-      "summary": "El Gato enfrenta su tarea más difícil hasta ahora para el I.I.I.I. (Instituto para la Institución de Imaginación e Inspiración, LLC): animar a Gabby y Sebastian, una pareja de hermanos que están luchando con su mudanza a un nuevo pueblo. Conocido por llevar las cosas demasiado lejos, esta podría ser la última oportunidad de este agente del caos para demostrar su valía... ¡o perder su sombrero mágico!",
-      "metadata": {
-        "duration": 115,
-        "classification": "APTA",
-        "classificationDescription": "Apta para todo público.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-31",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/4d8b4b38-ad7b-453c-9aff-b1e704792d9c/el-gato-con-sombrero",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "19:00",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:00",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:00",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:00",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:00",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:00",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:00",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-fb922164-6322-4711-9ad4-fd9455a7279d",
-      "title": "Godzilla Minus Zero",
-      "genre": "Acción",
-      "poster": "posters/este-fb922164-6322-4711-9ad4-fd9455a7279d.jpg",
-      "trailer": "https://www.youtube.com/watch?v=VttEM3hshL8",
-      "summary": "Ambientada en 1949, dos años después de los turbulentos acontecimientos de Godzilla Minus One, la familia Shikishima enfrenta una nueva calamidad que pondrá a prueba su fortaleza y determinación una vez más.",
-      "metadata": {
-        "duration": 135,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-03",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/fb922164-6322-4711-9ad4-fd9455a7279d/godzilla-minus-zero",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-329f38bb-2c6e-40de-9729-f2781653f886",
-      "title": "Escuela de Monstruos",
-      "genre": "Animación",
-      "poster": "posters/este-329f38bb-2c6e-40de-9729-f2781653f886.jpg",
-      "trailer": "https://www.youtube.com/watch?v=2iaKr78081o",
-      "summary": "Tras ser expulsada del colegio, Mía y su mascota Quentin llegan a la Escuela Bosque Muerto, donde ella es la única humana entre sus compañeros monstruosos. Debido al odio del director Van Vlad hacia los humanos, Mia deberá aliarse con los monstruos para desbaratar sus planes.",
-      "metadata": {
-        "duration": 85,
-        "classification": "Apta + 6",
-        "classificationDescription": "Apta para mayores de 6 años. Presentar cedula de identidad. Menores de 6 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-12",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/329f38bb-2c6e-40de-9729-f2781653f886/escuela-de-monstruos",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "14:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
-      "title": "La Isla Olvidada",
-      "genre": "Animación",
-      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
-      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
-      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-09-19",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "15:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "15:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:20",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-c52a9797-a88c-406e-90dc-7c8b3e02d439",
-      "title": "¿Querés Ser Mi Hijo?",
-      "genre": "Comedia, Romance",
-      "poster": "posters/este-c52a9797-a88c-406e-90dc-7c8b3e02d439.jpg",
-      "trailer": "https://www.youtube.com/watch?v=3CqnPGRLaF0",
-      "summary": "A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo. Vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el trabajo que siempre quiso, miente en una entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera.",
-      "metadata": {
-        "duration": 100,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-05",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c52a9797-a88c-406e-90dc-7c8b3e02d439/queres-ser-mi-hijo",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:25",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
-      "title": "Yo, Narciso",
-      "genre": "Comedia",
-      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
-      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
-      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-08-20",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-08",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:50",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
     },
     {
       "id": "este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109",
@@ -2459,6 +1839,466 @@
         {
           "date": "2026-11-17",
           "time": "22:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-4d8b4b38-ad7b-453c-9aff-b1e704792d9c",
+      "title": "El Gato Con Sombrero",
+      "genre": "Animación",
+      "poster": "posters/este-4d8b4b38-ad7b-453c-9aff-b1e704792d9c.jpg",
+      "trailer": "https://www.youtube.com/watch?v=uyP8q3BQ0C4",
+      "summary": "El Gato enfrenta su tarea más difícil hasta ahora para el I.I.I.I. (Instituto para la Institución de Imaginación e Inspiración, LLC): animar a Gabby y Sebastian, una pareja de hermanos que están luchando con su mudanza a un nuevo pueblo. Conocido por llevar las cosas demasiado lejos, esta podría ser la última oportunidad de este agente del caos para demostrar su valía... ¡o perder su sombrero mágico!",
+      "metadata": {
+        "duration": 115,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-31",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/4d8b4b38-ad7b-453c-9aff-b1e704792d9c/el-gato-con-sombrero",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "16:30",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "19:00",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "16:30",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:00",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:30",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:00",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "16:30",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:00",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "16:30",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:00",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:30",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:00",
+          "format": "3D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-fb922164-6322-4711-9ad4-fd9455a7279d",
+      "title": "Godzilla Minus Zero",
+      "genre": "Acción",
+      "poster": "posters/este-fb922164-6322-4711-9ad4-fd9455a7279d.jpg",
+      "trailer": "https://www.youtube.com/watch?v=VttEM3hshL8",
+      "summary": "Ambientada en 1949, dos años después de los turbulentos acontecimientos de Godzilla Minus One, la familia Shikishima enfrenta una nueva calamidad que pondrá a prueba su fortaleza y determinación una vez más.",
+      "metadata": {
+        "duration": 135,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-03",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/fb922164-6322-4711-9ad4-fd9455a7279d/godzilla-minus-zero",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-329f38bb-2c6e-40de-9729-f2781653f886",
+      "title": "Escuela de Monstruos",
+      "genre": "Animación",
+      "poster": "posters/este-329f38bb-2c6e-40de-9729-f2781653f886.jpg",
+      "trailer": "https://www.youtube.com/watch?v=2iaKr78081o",
+      "summary": "Tras ser expulsada del colegio, Mía y su mascota Quentin llegan a la Escuela Bosque Muerto, donde ella es la única humana entre sus compañeros monstruosos. Debido al odio del director Van Vlad hacia los humanos, Mia deberá aliarse con los monstruos para desbaratar sus planes.",
+      "metadata": {
+        "duration": 85,
+        "classification": "Apta + 6",
+        "classificationDescription": "Apta para mayores de 6 años. Presentar cedula de identidad. Menores de 6 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-12",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/329f38bb-2c6e-40de-9729-f2781653f886/escuela-de-monstruos",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "14:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "14:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
+      "title": "La Isla Olvidada",
+      "genre": "Animación",
+      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
+      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-09-19",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "15:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:20",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-c52a9797-a88c-406e-90dc-7c8b3e02d439",
+      "title": "¿Querés Ser Mi Hijo?",
+      "genre": "Comedia, Romance",
+      "poster": "posters/este-c52a9797-a88c-406e-90dc-7c8b3e02d439.jpg",
+      "trailer": "https://www.youtube.com/watch?v=3CqnPGRLaF0",
+      "summary": "A los 42 años, Lucía descubre que su novio de toda la vida la engaña y se queda sin trabajo. Vuelve a su viejo departamento de soltera, donde las fiestas de Javier, un vecino mujeriego de 22 años, no la dejan dormir. Para conseguir el trabajo que siempre quiso, miente en una entrevista y asegura tener un hijo de esa edad. Cuando la empresa organiza un encuentro con las familias, le propone un trato a Javier: que se haga pasar por su hijo a cambio de dejarlo hacer todas las fiestas que quiera.",
+      "metadata": {
+        "duration": 100,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-05",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c52a9797-a88c-406e-90dc-7c8b3e02d439/queres-ser-mi-hijo",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:25",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-2982515b-7817-4aba-b5e4-841f0e988e58",
+      "title": "Yo, Narciso",
+      "genre": "Comedia",
+      "poster": "posters/este-2982515b-7817-4aba-b5e4-841f0e988e58.jpg",
+      "trailer": "https://www.youtube.com/watch?v=tv03AgZUBPY",
+      "summary": "Rocío Flores, una profesora universitaria de sociología, está enfocada en la escritura de un libro sobre el narcisismo moderno. Para entender mejor a su “sujeto”, decide estudiarlo desde adentro y elige como caso a Máximo Rey, un carismático cirujano estético. Bajo una falsa identidad, Rocío se hará pasar por una paciente interesada en un retoque estético, y de esta manera busca observar y analizar a Máximo sin ser descubierta. Pero las consultas pronto se convierten en citas donde él despliega todo su encanto. Rocío, decidida a mantener el vínculo sin caer en su juego, inventa excusas cada vez más absurdas para mantenerlo a raya. Cuando Máximo descubre que se ha enamorado de ella, “el experimento” se descontrola, poniendo en riesgo la intención de Rocío de completar su investigación sin convertirse en víctima de su propio plan.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-08-20",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/2982515b-7817-4aba-b5e4-841f0e988e58/yo-narciso",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
+      "title": "Madre Siniestra",
+      "genre": "Terror",
+      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
+      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "metadata": {
+        "duration": 95,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-08",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:50",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:50",
           "format": "4D Esp",
           "room": "SALA 2"
         }
