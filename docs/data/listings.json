@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:28:59.435Z",
+  "generatedAt": "2026-11-14T18:03:27.720Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-14T11:28:59.435Z",
+      "updatedAt": "2026-11-14T18:03:27.720Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-14T11:28:59.435Z",
+      "updatedAt": "2026-11-14T18:03:27.720Z",
       "ok": true
     }
   ],
@@ -810,25 +810,11 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/guardianes-del-museo-2-los-tesoros-de-egipto?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-14",
-          "time": "14:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=8ed4bc0a-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-15",
           "time": "14:00",
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=94e855fc-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "14:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=8ed4bc0a-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-15",
@@ -937,10 +923,10 @@
       }
     },
     {
-      "id": "life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7",
+      "id": "life-d3ae01a7-d7ae-11f1-a4cc-12b3fcdc08e7",
       "title": "CABALLO SALVAJE NUEVE",
       "genre": "Acción",
-      "poster": "posters/life-a35cbe17-d788-11f1-a4cc-12b3fcdc08e7.jpg",
+      "poster": "posters/life-d3ae01a7-d7ae-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": null,
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/caballo-salvaje-nueve?complex=Punta+del+Este",
@@ -948,56 +934,56 @@
         {
           "date": "2026-11-14",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0910991-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-15",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e091ad88-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-16",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0925ba6-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-17",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e09379d4-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-14",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0910991-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-15",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e091ad88-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-16",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e0925ba6-dc9f-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-17",
           "time": "19:05",
-          "format": "2D Subtitulada",
+          "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e09379d4-dc9f-11f1-a4cc-12b3fcdc08e7"
         }
@@ -1383,32 +1369,11 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/la-isla-olvidada?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-14",
-          "time": "14:05",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=64e09d09-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-15",
           "time": "14:05",
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6b2dd077-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "14:05",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=64e09d09-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "14:05",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7fd36920-dca0-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-15",
@@ -1523,202 +1488,6 @@
           "Will Forte"
         ]
       }
-    },
-    {
-      "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
-      "title": "Shrek 25 Aniversario",
-      "genre": "Animación",
-      "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
-      "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
-      "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
-      "metadata": {
-        "duration": 90,
-        "classification": "APTA",
-        "classificationDescription": "Apta para todo público.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-16efa5ca-3913-43ee-9aac-05b7d05285ea",
-      "title": "Wildwood: El Bosque Salvaje",
-      "genre": "Animación",
-      "poster": "posters/este-16efa5ca-3913-43ee-9aac-05b7d05285ea.jpg",
-      "trailer": "https://www.youtube.com/watch?v=ypgdjOuODH4",
-      "summary": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregón. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg, Prue navega un mundo de animales parlantes, bandidos y poderosas figuras impulsadas por el duelo y la ambición. Mientras la pareja se ve arrastrada a un conflicto que amenaza el equilibrio del bosque mismo, Prue debe descubrir la fuerza y la fe que nunca supo que poseía. Si quiere salvar a su hermano y proteger el frágil futuro de Wildwood, tendrá que arriesgarlo todo.",
-      "metadata": {
-        "duration": 130,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-29",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/16efa5ca-3913-43ee-9aac-05b7d05285ea/wildwood-el-bosque-salvaje",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "14:35",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:35",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-329f38bb-2c6e-40de-9729-f2781653f886",
-      "title": "Escuela de Monstruos",
-      "genre": "Animación",
-      "poster": "posters/este-329f38bb-2c6e-40de-9729-f2781653f886.jpg",
-      "trailer": "https://www.youtube.com/watch?v=2iaKr78081o",
-      "summary": "Tras ser expulsada del colegio, Mía y su mascota Quentin llegan a la Escuela Bosque Muerto, donde ella es la única humana entre sus compañeros monstruosos. Debido al odio del director Van Vlad hacia los humanos, Mia deberá aliarse con los monstruos para desbaratar sus planes.",
-      "metadata": {
-        "duration": 85,
-        "classification": "Apta + 6",
-        "classificationDescription": "Apta para mayores de 6 años. Presentar cedula de identidad. Menores de 6 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-12",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/329f38bb-2c6e-40de-9729-f2781653f886/escuela-de-monstruos",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "14:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:50",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "17:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
-      "title": "La Isla Olvidada",
-      "genre": "Animación",
-      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
-      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
-      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-09-19",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "15:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "15:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "17:25",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:20",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
     },
     {
       "id": "este-4d8b4b38-ad7b-453c-9aff-b1e704792d9c",
@@ -1851,6 +1620,122 @@
           "time": "16:50",
           "format": "2D Esp",
           "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-329f38bb-2c6e-40de-9729-f2781653f886",
+      "title": "Escuela de Monstruos",
+      "genre": "Animación",
+      "poster": "posters/este-329f38bb-2c6e-40de-9729-f2781653f886.jpg",
+      "trailer": "https://www.youtube.com/watch?v=2iaKr78081o",
+      "summary": "Tras ser expulsada del colegio, Mía y su mascota Quentin llegan a la Escuela Bosque Muerto, donde ella es la única humana entre sus compañeros monstruosos. Debido al odio del director Van Vlad hacia los humanos, Mia deberá aliarse con los monstruos para desbaratar sus planes.",
+      "metadata": {
+        "duration": 85,
+        "classification": "Apta + 6",
+        "classificationDescription": "Apta para mayores de 6 años. Presentar cedula de identidad. Menores de 6 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-12",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/329f38bb-2c6e-40de-9729-f2781653f886/escuela-de-monstruos",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "14:50",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "17:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
+      "title": "La Isla Olvidada",
+      "genre": "Animación",
+      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
+      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-09-19",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:00",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:25",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:20",
+          "format": "4D Esp",
+          "room": "SALA 2"
         }
       ]
     },
@@ -2203,6 +2088,62 @@
           "time": "22:00",
           "format": "4D Esp",
           "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
+      "title": "Shrek 25 Aniversario",
+      "genre": "Animación",
+      "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
+      "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
+      "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
+      "metadata": {
+        "duration": 90,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-22",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "14:25",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-16efa5ca-3913-43ee-9aac-05b7d05285ea",
+      "title": "Wildwood: El Bosque Salvaje",
+      "genre": "Animación",
+      "poster": "posters/este-16efa5ca-3913-43ee-9aac-05b7d05285ea.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ypgdjOuODH4",
+      "summary": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregón. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg, Prue navega un mundo de animales parlantes, bandidos y poderosas figuras impulsadas por el duelo y la ambición. Mientras la pareja se ve arrastrada a un conflicto que amenaza el equilibrio del bosque mismo, Prue debe descubrir la fuerza y la fe que nunca supo que poseía. Si quiere salvar a su hermano y proteger el frágil futuro de Wildwood, tendrá que arriesgarlo todo.",
+      "metadata": {
+        "duration": 130,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-29",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/16efa5ca-3913-43ee-9aac-05b7d05285ea/wildwood-el-bosque-salvaje",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "14:35",
+          "format": "2D Sub",
+          "room": "SALA 3"
         }
       ]
     },
