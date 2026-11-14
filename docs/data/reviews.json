@@ -22,6 +22,52 @@
     "externalTitle": "Shrek",
     "year": "2001"
   },
+  "veritylasombradeunengano": {
+    "url": "https://www.rottentomatoes.com/m/verity",
+    "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
+    "scores": [
+      {
+        "label": "NBC 5 Chicago · Richard Roeper",
+        "kind": "Crítica individual",
+        "value": "1.5/4",
+        "url": "https://www.nbcchicago.com/news/local/is-digger-a-disaster-richard-roeper-reviews-tom-cruises-latest/3996701/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Richard Roeper",
+        "publication": "NBC 5 Chicago",
+        "url": "https://www.nbcchicago.com/news/local/is-digger-a-disaster-richard-roeper-reviews-tom-cruises-latest/3996701/",
+        "quote": "When it’s all over, if you ask even one of the half-dozen questions that will pop into your mind about…"
+      }
+    ],
+    "updatedAt": "2026-11-14T03:17:36.815Z",
+    "externalTitle": "Verity",
+    "year": "2026"
+  },
+  "elcorazondelabestia": {
+    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
+    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
+    "scores": [
+      {
+        "label": "NBC 5 Chicago · Richard Roeper",
+        "kind": "Crítica individual",
+        "value": "3.5/4",
+        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Richard Roeper",
+        "publication": "NBC 5 Chicago",
+        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/",
+        "quote": "The cinematography is breathtaking and the action sequences are visceral—but what we’ll most remember about “Heart of the Beast” is…"
+      }
+    ],
+    "updatedAt": "2026-11-14T03:17:36.821Z",
+    "externalTitle": "Heart of the Beast",
+    "year": "2026"
+  },
   "yonarciso": {
     "url": "https://www.rottentomatoes.com/m/yo_narciso",
     "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
@@ -41,40 +87,8 @@
         "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
       }
     ],
-    "updatedAt": "2026-11-13T00:26:30.434Z",
+    "updatedAt": "2026-11-14T03:17:37.326Z",
     "externalTitle": "Yo, Narciso"
-  },
-  "veritylasombradeunengano": {
-    "url": "https://www.rottentomatoes.com/m/verity",
-    "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
-    "scores": [],
-    "reviews": [
-      {
-        "author": "Joey Shapiro",
-        "publication": "Chicago Reader",
-        "url": "https://chicagoreader.com/film-tv/movie-review/review-verity/",
-        "quote": "One wishes Showalter and his cast would have leaned harder toward the twisty hysteria of something like A Simple Favor…"
-      }
-    ],
-    "updatedAt": "2026-11-13T00:26:30.001Z",
-    "externalTitle": "Verity",
-    "year": "2026"
-  },
-  "elcorazondelabestia": {
-    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
-    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
-    "scores": [],
-    "reviews": [
-      {
-        "author": "Wendy Ide",
-        "publication": "Observer (UK)",
-        "url": "https://observer.co.uk/culture/film/article/heart-of-the-beast-brad-pitt-and-his-combat-dog-battle-the-elements",
-        "quote": "This is a stirring story of canine courage and sacrifice that packs an unexpectedly powerful emotional punch."
-      }
-    ],
-    "updatedAt": "2026-11-13T00:26:29.971Z",
-    "externalTitle": "Heart of the Beast",
-    "year": "2026"
   },
   "laislaolvidada": {
     "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -88,7 +102,7 @@
         "quote": "It's kind of incoherent in places... but I enjoyed it."
       }
     ],
-    "updatedAt": "2026-11-13T00:26:30.495Z",
+    "updatedAt": "2026-11-14T03:17:37.382Z",
     "externalTitle": "Forgotten Island",
     "year": "2026"
   },
@@ -97,21 +111,21 @@
     "summary": "La crítica destaca su mezcla de comedia física, sátira y emoción, con guiños para quienes crecieron con los Looney Tunes.",
     "scores": [
       {
-        "label": "The Nightly (AU) · Wenlei Ma",
+        "label": "NBC 5 Chicago · Richard Roeper",
         "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://thenightly.com.au/culture/film/movie-review-coyote-vs-acme-won-its-own-david-vs-goliath-battle-against-its-corporate-overlords-c-22883955"
+        "value": "3/4",
+        "url": "https://www.nbcchicago.com/news/local/one-of-the-most-delightful-surprises-richard-roeper-on-what-to-watch-this-week/3981460/"
       }
     ],
     "reviews": [
       {
-        "author": "Wenlei Ma",
-        "publication": "The Nightly (AU)",
-        "url": "https://thenightly.com.au/culture/film/movie-review-coyote-vs-acme-won-its-own-david-vs-goliath-battle-against-its-corporate-overlords-c-22883955",
-        "quote": "It draws on the brand’s legacy of silly antics, chaotic set-pieces and a wicked sense of humour."
+        "author": "Richard Roeper",
+        "publication": "NBC 5 Chicago",
+        "url": "https://www.nbcchicago.com/news/local/one-of-the-most-delightful-surprises-richard-roeper-on-what-to-watch-this-week/3981460/",
+        "quote": "Coyote vs. Acme is consistently smart and funny, with endless callbacks to the Warner Bros. Looney Tunes canon and a…"
       }
     ],
-    "updatedAt": "2026-11-13T00:26:30.464Z",
+    "updatedAt": "2026-11-14T03:17:37.408Z",
     "externalTitle": "Coyote vs. Acme",
     "year": "2026"
   },
@@ -121,13 +135,13 @@
     "scores": [],
     "reviews": [
       {
-        "author": "Glen Weldon",
-        "publication": "NPR",
-        "url": "https://www.npr.org/2026/10/23/nx-s1-6010511/clayface-review",
-        "quote": "The film gets stuck, planting one of its feet of clay in horror and the other in superhero, and completely…"
+        "author": "Jesse Hassenger",
+        "publication": "AV Club",
+        "url": "https://www.avclub.com/clayface-movie-review-2026",
+        "quote": "We’re not talking about a James Whale-level monsterpiece. But The Invisible Man Returns or The Mummy’s Hand? Sure, Clayface can…"
       }
     ],
-    "updatedAt": "2026-11-13T00:26:30.524Z",
+    "updatedAt": "2026-11-14T03:17:37.464Z",
     "externalTitle": "Clayface",
     "year": "2026"
   },
@@ -150,7 +164,7 @@
         "quote": "Other Mommy pinballs at breakneck speed between austere supernatural thriller, Raimi-esque OTT horror-comedy and earnest family drama, never quite sticking…"
       }
     ],
-    "updatedAt": "2026-11-13T00:26:30.527Z",
+    "updatedAt": "2026-11-14T03:17:37.466Z",
     "externalTitle": "Other Mommy",
     "year": "2026"
   },
