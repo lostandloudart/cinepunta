@@ -1,27 +1,4 @@
 {
-  "shrek25aniversario": {
-    "url": "https://www.rottentomatoes.com/m/shrek",
-    "summary": "Una parodia de cuentos de hadas con humor irreverente, ritmo ágil y una historia que también conecta con los adultos.",
-    "scores": [
-      {
-        "label": "The Times (UK) · Larushka Ivan-Zadeh",
-        "kind": "Crítica individual",
-        "value": "4/5",
-        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Larushka Ivan-Zadeh",
-        "publication": "The Times (UK)",
-        "url": "https://www.thetimes.com/culture/film/article/shrek-film-review-feud-history-jc0rvs0lk",
-        "quote": "For all its brashness, Shrek’s heart is in the right place."
-      }
-    ],
-    "updatedAt": "2026-11-14T11:29:02.626Z",
-    "externalTitle": "Shrek",
-    "year": "2001"
-  },
   "yonarciso": {
     "url": "https://www.rottentomatoes.com/m/yo_narciso",
     "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
@@ -44,29 +21,6 @@
     "updatedAt": "2026-11-15T10:55:27.009Z",
     "externalTitle": "Yo, Narciso"
   },
-  "elcorazondelabestia": {
-    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
-    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
-    "scores": [
-      {
-        "label": "NBC 5 Chicago · Richard Roeper",
-        "kind": "Crítica individual",
-        "value": "3.5/4",
-        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Richard Roeper",
-        "publication": "NBC 5 Chicago",
-        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/",
-        "quote": "The cinematography is breathtaking and the action sequences are visceral—but what we’ll most remember about “Heart of the Beast” is…"
-      }
-    ],
-    "updatedAt": "2026-11-15T10:55:27.018Z",
-    "externalTitle": "Heart of the Beast",
-    "year": "2026"
-  },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
     "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
@@ -88,6 +42,29 @@
     ],
     "updatedAt": "2026-11-15T10:55:27.527Z",
     "externalTitle": "Verity",
+    "year": "2026"
+  },
+  "elcorazondelabestia": {
+    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
+    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
+    "scores": [
+      {
+        "label": "NBC 5 Chicago · Richard Roeper",
+        "kind": "Crítica individual",
+        "value": "3.5/4",
+        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Richard Roeper",
+        "publication": "NBC 5 Chicago",
+        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/",
+        "quote": "The cinematography is breathtaking and the action sequences are visceral—but what we’ll most remember about “Heart of the Beast” is…"
+      }
+    ],
+    "updatedAt": "2026-11-15T10:55:27.018Z",
+    "externalTitle": "Heart of the Beast",
     "year": "2026"
   },
   "laislaolvidada": {
@@ -191,27 +168,6 @@
         "publication": "Micropsia",
         "url": "https://www.micropsiacine.com/2026/10/estrenos-critica-de-la-casa-de-gustavo-trivino/",
         "summary": "Valora la construcción de una amenaza gradual y la transición hacia el policial negro."
-      }
-    ],
-    "updatedAt": "2026-10-22"
-  },
-  "guardianesdelmuseo2lostesorosdeegipto": {
-    "url": "https://www.filmaffinity.com/ve/film632777.html",
-    "summary": "La crítica consultada rescata el mensaje sobre la amistad, pero cuestiona la animación y la profundidad de los personajes.",
-    "scores": [
-      {
-        "label": "Selene Soto · EscribiendoCine, recogido por FilmAffinity",
-        "value": "4/10",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "kind": "Crítica individual"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Selene Soto",
-        "publication": "EscribiendoCine · vía FilmAffinity",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "summary": "Considera que el mensaje de amistad puede interesar a los chicos, aunque encuentra débil el desarrollo de los personajes."
       }
     ],
     "updatedAt": "2026-10-22"

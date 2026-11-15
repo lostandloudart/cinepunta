@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:55:23.664Z",
+  "generatedAt": "2026-11-15T17:43:00.666Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-15T10:55:23.664Z",
+      "updatedAt": "2026-11-15T17:43:00.666Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-15T10:55:23.664Z",
+      "updatedAt": "2026-11-15T17:43:00.666Z",
       "ok": true
     }
   ],
@@ -752,44 +752,6 @@
       }
     },
     {
-      "id": "life-e898d1e1-0e64-11f1-9146-12ef3739f737",
-      "title": "GUARDIANES DEL MUSEO 2: LOS TESOROS DE EGIPTO",
-      "genre": "Animada",
-      "poster": "posters/life-e898d1e1-0e64-11f1-9146-12ef3739f737.jpg",
-      "trailer": "https://www.youtube.com/watch?v=6wYJNaCOTYQ",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/guardianes-del-museo-2-los-tesoros-de-egipto?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "14:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=94e855fc-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:00",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=94e855fc-dca0-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Esta semana disfrutá de \"Guardianes del Museo 2: Los Tesoros de Egipto\" con entradas 2x1 con BROU, Antel, Anda y Pronto y 50% de descuento con BBVA. Dos años después de salvar el Hermitage, Maurice el ratón está listo para una nueva gran aventura. Vincent y Cleopatra ahora tienen dos pequeños y traviesos gatitos que heredaron su espíritu aventurero, pero cuando los misterios del antiguo Egipto se cruzan en su camino, todos deberán embarcarse en una increíble misión llena de acción, humor y tesoros legendarios. Este estreno animado para toda la familia tiene funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Revisá la cartelera de cine y comprá tus entradas.",
-      "metadata": {
-        "duration": 90,
-        "classification": "APTA",
-        "classificationDescription": "",
-        "originalTitle": "KOTY ERMITAZHA 2: TAYNA EGIPETSKOGO ZALA",
-        "releaseDate": "2026-10-01",
-        "language": "Otros",
-        "directors": [
-          "Vasiliy Rovenskiy"
-        ],
-        "cast": []
-      }
-    },
-    {
       "id": "life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7",
       "title": "EL CORAZÓN DE LA BESTIA",
       "genre": "Acción",
@@ -1234,52 +1196,6 @@
       }
     },
     {
-      "id": "life-8f7627fd-904a-11f1-9fd4-12b3fcdc08e7",
-      "title": "LA ISLA OLVIDADA",
-      "genre": "Animada",
-      "poster": "posters/life-8f7627fd-904a-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=mK-BEKnPAN0",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/la-isla-olvidada?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "14:05",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6b2dd077-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:05",
-          "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6b2dd077-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:05",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=79d62eeb-dca0-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Este estreno llega a la cartelera de cine con la historia de Jo y Raissa, dos mejores amigas que atraviesan un misterioso portal hacia Nakali, una isla habitada por criaturas mágicas y mitológicas. Para volver a casa deberán enfrentarse a la temible Manananggal y pagar un precio inesperado: los recuerdos de toda su amistad. Elegí tus funciones y horarios de cine en Montevideo, Canelones y Maldonado. Aprovechá el 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto. Comprá ya tus entradas y viví \"La Isla Olvidada\" en el cine.",
-      "metadata": {
-        "duration": 109,
-        "classification": "AM 9 ",
-        "classificationDescription": "",
-        "originalTitle": "FORGOTTEN ISLAND",
-        "releaseDate": "2026-09-19",
-        "language": "Inglés",
-        "directors": [
-          "Joel Crawford",
-          "Januel Mercado"
-        ],
-        "cast": []
-      }
-    },
-    {
       "id": "life-79e93ca4-43db-11f1-9146-12ef3739f737",
       "title": "COYOTE VS. ACME",
       "genre": "Comedia",
@@ -1348,62 +1264,6 @@
           "Will Forte"
         ]
       }
-    },
-    {
-      "id": "este-27608321-2711-485a-9cdc-845b1056da7a",
-      "title": "Shrek 25 Aniversario",
-      "genre": "Animación",
-      "poster": "posters/este-27608321-2711-485a-9cdc-845b1056da7a.jpg",
-      "trailer": "https://www.youtube.com/watch?v=RJZf6UJJMik",
-      "summary": "Estrenada en 2001. Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
-      "metadata": {
-        "duration": 90,
-        "classification": "APTA",
-        "classificationDescription": "Apta para todo público.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/27608321-2711-485a-9cdc-845b1056da7a/shrek-25-aniversario",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "14:25",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-16efa5ca-3913-43ee-9aac-05b7d05285ea",
-      "title": "Wildwood: El Bosque Salvaje",
-      "genre": "Animación",
-      "poster": "posters/este-16efa5ca-3913-43ee-9aac-05b7d05285ea.jpg",
-      "trailer": "https://www.youtube.com/watch?v=ypgdjOuODH4",
-      "summary": "Después de que su hermano bebé, Mac, es secuestrado por una parvada de cuervos, la decidida adolescente Prue McKeel inicia una desesperada misión de rescate hacia el Bosque Impasable, un bosque encantado oculto justo más allá de Portland, Oregón. Acompañada por su torpe pero leal compañero de clase, Curtis Mehlberg, Prue navega un mundo de animales parlantes, bandidos y poderosas figuras impulsadas por el duelo y la ambición. Mientras la pareja se ve arrastrada a un conflicto que amenaza el equilibrio del bosque mismo, Prue debe descubrir la fuerza y la fe que nunca supo que poseía. Si quiere salvar a su hermano y proteger el frágil futuro de Wildwood, tendrá que arriesgarlo todo.",
-      "metadata": {
-        "duration": 130,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-29",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/16efa5ca-3913-43ee-9aac-05b7d05285ea/wildwood-el-bosque-salvaje",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "14:35",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
     },
     {
       "id": "este-329f38bb-2c6e-40de-9729-f2781653f886",
