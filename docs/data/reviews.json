@@ -1,27 +1,4 @@
 {
-  "elcorazondelabestia": {
-    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
-    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
-    "scores": [
-      {
-        "label": "NBC 5 Chicago · Richard Roeper",
-        "kind": "Crítica individual",
-        "value": "3.5/4",
-        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Richard Roeper",
-        "publication": "NBC 5 Chicago",
-        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/",
-        "quote": "The cinematography is breathtaking and the action sequences are visceral—but what we’ll most remember about “Heart of the Beast” is…"
-      }
-    ],
-    "updatedAt": "2026-11-16T11:21:30.527Z",
-    "externalTitle": "Heart of the Beast",
-    "year": "2026"
-  },
   "yonarciso": {
     "url": "https://www.rottentomatoes.com/m/yo_narciso",
     "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
@@ -67,6 +44,45 @@
     "externalTitle": "Verity",
     "year": "2026"
   },
+  "elcorazondelabestia": {
+    "url": "https://www.rottentomatoes.com/m/heart_of_the_beast",
+    "summary": "Una aventura de supervivencia cuyo vínculo entre hombre y perro es el punto más valorado, aunque algunas reseñas consideran previsible su trama.",
+    "scores": [
+      {
+        "label": "NBC 5 Chicago · Richard Roeper",
+        "kind": "Crítica individual",
+        "value": "3.5/4",
+        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Richard Roeper",
+        "publication": "NBC 5 Chicago",
+        "url": "https://www.nbcchicago.com/news/local/rancid-what-shows-to-watch-and-not-this-week-according-to-richard-roeper/3993653/",
+        "quote": "The cinematography is breathtaking and the action sequences are visceral—but what we’ll most remember about “Heart of the Beast” is…"
+      }
+    ],
+    "updatedAt": "2026-11-16T11:21:30.527Z",
+    "externalTitle": "Heart of the Beast",
+    "year": "2026"
+  },
+  "laislaolvidada": {
+    "url": "https://www.rottentomatoes.com/m/forgotten_island",
+    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
+    "scores": [],
+    "reviews": [
+      {
+        "author": "Mark Kermode",
+        "publication": "Kermode and Mayo's Take (YouTube)",
+        "url": "https://www.youtube.com/watch?v=3hMls4SBgEY",
+        "quote": "It's kind of incoherent in places... but I enjoyed it."
+      }
+    ],
+    "updatedAt": "2026-11-16T11:21:30.913Z",
+    "externalTitle": "Forgotten Island",
+    "year": "2026"
+  },
   "coyotevsacme": {
     "url": "https://www.rottentomatoes.com/m/coyote_vs_acme",
     "summary": "La crítica destaca su mezcla de comedia física, sátira y emoción, con guiños para quienes crecieron con los Looney Tunes.",
@@ -90,20 +106,20 @@
     "externalTitle": "Coyote vs. Acme",
     "year": "2026"
   },
-  "laislaolvidada": {
-    "url": "https://www.rottentomatoes.com/m/forgotten_island",
-    "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
+  "clayface": {
+    "url": "https://www.rottentomatoes.com/m/clayface",
+    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
     "scores": [],
     "reviews": [
       {
-        "author": "Mark Kermode",
-        "publication": "Kermode and Mayo's Take (YouTube)",
-        "url": "https://www.youtube.com/watch?v=3hMls4SBgEY",
-        "quote": "It's kind of incoherent in places... but I enjoyed it."
+        "author": "Jesse Hassenger",
+        "publication": "AV Club",
+        "url": "https://www.avclub.com/clayface-movie-review-2026",
+        "quote": "We’re not talking about a James Whale-level monsterpiece. But The Invisible Man Returns or The Mummy’s Hand? Sure, Clayface can…"
       }
     ],
-    "updatedAt": "2026-11-16T11:21:30.913Z",
-    "externalTitle": "Forgotten Island",
+    "updatedAt": "2026-11-16T11:21:31.684Z",
+    "externalTitle": "Clayface",
     "year": "2026"
   },
   "madresiniestra": {
@@ -127,22 +143,6 @@
     ],
     "updatedAt": "2026-11-16T11:21:31.080Z",
     "externalTitle": "Other Mommy",
-    "year": "2026"
-  },
-  "clayface": {
-    "url": "https://www.rottentomatoes.com/m/clayface",
-    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
-    "scores": [],
-    "reviews": [
-      {
-        "author": "Jesse Hassenger",
-        "publication": "AV Club",
-        "url": "https://www.avclub.com/clayface-movie-review-2026",
-        "quote": "We’re not talking about a James Whale-level monsterpiece. But The Invisible Man Returns or The Mummy’s Hand? Sure, Clayface can…"
-      }
-    ],
-    "updatedAt": "2026-11-16T11:21:31.684Z",
-    "externalTitle": "Clayface",
     "year": "2026"
   },
   "lacasa": {
