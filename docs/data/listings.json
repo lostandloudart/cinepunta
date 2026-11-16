@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:44:29.554Z",
+  "generatedAt": "2026-11-16T11:21:26.563Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-16T02:44:29.554Z",
+      "updatedAt": "2026-11-16T11:21:26.563Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-16T02:44:29.554Z",
+      "updatedAt": "2026-11-16T11:21:26.563Z",
       "ok": true
     }
   ],
@@ -129,6 +129,20 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9b2a5375-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "18:30",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=5d39bb0f-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9b2ca17e-dde4-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-18",
@@ -346,6 +360,41 @@
           "format": "4D Español",
           "room": "SALA 1 / 4D ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a93b6855-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "18:30",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=5d39bb0f-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "18:30",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9df746f3-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:30",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e6428d9-dde5-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:50",
+          "format": "2D Español",
+          "room": "SALA 1",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9b2ca17e-dde4-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:50",
+          "format": "4D Español",
+          "room": "SALA 1 / 4D ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a93d7dce-dde4-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Explorá Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
