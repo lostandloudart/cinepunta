@@ -1,4 +1,26 @@
 {
+  "yonarciso": {
+    "url": "https://www.rottentomatoes.com/m/yo_narciso",
+    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
+    "scores": [
+      {
+        "label": "La Nación (Argentina) · Guillermo Courau",
+        "kind": "Crítica individual",
+        "value": "3/5",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Guillermo Courau",
+        "publication": "La Nación (Argentina)",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
+        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
+      }
+    ],
+    "updatedAt": "2026-11-17T14:26:21.436Z",
+    "externalTitle": "Yo, Narciso"
+  },
   "veritylasombradeunengano": {
     "url": "https://www.rottentomatoes.com/m/verity",
     "summary": "La crítica cuestiona sus giros y el manejo de la tensión; el público se muestra más receptivo a su intriga y a Anne Hathaway.",
@@ -45,51 +67,6 @@
     "externalTitle": "Heart of the Beast",
     "year": "2026"
   },
-  "yonarciso": {
-    "url": "https://www.rottentomatoes.com/m/yo_narciso",
-    "summary": "Las reseñas la presentan como una comedia ligera apoyada en Adrián Suar, con momentos efectivos de humor y un desarrollo sentimental.",
-    "scores": [
-      {
-        "label": "La Nación (Argentina) · Guillermo Courau",
-        "kind": "Crítica individual",
-        "value": "3/5",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Guillermo Courau",
-        "publication": "La Nación (Argentina)",
-        "url": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
-        "quote": "It [has] raw material that could have transcended, even just a little, its lightweight style. Even so, it works, earns…"
-      }
-    ],
-    "updatedAt": "2026-11-17T14:26:21.436Z",
-    "externalTitle": "Yo, Narciso"
-  },
-  "coyotevsacme": {
-    "url": "https://www.rottentomatoes.com/m/coyote_vs_acme",
-    "summary": "La crítica destaca su mezcla de comedia física, sátira y emoción, con guiños para quienes crecieron con los Looney Tunes.",
-    "scores": [
-      {
-        "label": "NBC 5 Chicago · Richard Roeper",
-        "kind": "Crítica individual",
-        "value": "3/4",
-        "url": "https://www.nbcchicago.com/news/local/one-of-the-most-delightful-surprises-richard-roeper-on-what-to-watch-this-week/3981460/"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Richard Roeper",
-        "publication": "NBC 5 Chicago",
-        "url": "https://www.nbcchicago.com/news/local/one-of-the-most-delightful-surprises-richard-roeper-on-what-to-watch-this-week/3981460/",
-        "quote": "Coyote vs. Acme is consistently smart and funny, with endless callbacks to the Warner Bros. Looney Tunes canon and a…"
-      }
-    ],
-    "updatedAt": "2026-11-17T14:26:21.612Z",
-    "externalTitle": "Coyote vs. Acme",
-    "year": "2026"
-  },
   "laislaolvidada": {
     "url": "https://www.rottentomatoes.com/m/forgotten_island",
     "summary": "La recepción destaca su imaginación visual, el folclore filipino y la amistad central; su ritmo intenso puede resultar agotador para algunos espectadores.",
@@ -104,6 +81,22 @@
     ],
     "updatedAt": "2026-11-17T14:26:21.621Z",
     "externalTitle": "Forgotten Island",
+    "year": "2026"
+  },
+  "clayface": {
+    "url": "https://www.rottentomatoes.com/m/clayface",
+    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
+    "scores": [],
+    "reviews": [
+      {
+        "author": "Jesse Hassenger",
+        "publication": "AV Club",
+        "url": "https://www.avclub.com/clayface-movie-review-2026",
+        "quote": "We’re not talking about a James Whale-level monsterpiece. But The Invisible Man Returns or The Mummy’s Hand? Sure, Clayface can…"
+      }
+    ],
+    "updatedAt": "2026-11-17T14:26:21.758Z",
+    "externalTitle": "Clayface",
     "year": "2026"
   },
   "madresiniestra": {
@@ -129,22 +122,6 @@
     "externalTitle": "Other Mommy",
     "year": "2026"
   },
-  "clayface": {
-    "url": "https://www.rottentomatoes.com/m/clayface",
-    "summary": "Las primeras críticas destacan el terror corporal y la actuación principal, pero discrepan sobre el guion, los efectos y la personalidad del conjunto.",
-    "scores": [],
-    "reviews": [
-      {
-        "author": "Jesse Hassenger",
-        "publication": "AV Club",
-        "url": "https://www.avclub.com/clayface-movie-review-2026",
-        "quote": "We’re not talking about a James Whale-level monsterpiece. But The Invisible Man Returns or The Mummy’s Hand? Sure, Clayface can…"
-      }
-    ],
-    "updatedAt": "2026-11-17T14:26:21.758Z",
-    "externalTitle": "Clayface",
-    "year": "2026"
-  },
   "lacasa": {
     "url": "https://www.otroscines.com/post/critica-de-la-casa-pelicula-de-gustavo-trivino-con-diego-peretti-y-cesar-troncoso",
     "summary": "Un drama laboral que se transforma en comedia negra y thriller. Las reseñas consultadas destacan el duelo de Peretti y Troncoso y el cambio gradual de tono.",
@@ -168,6 +145,27 @@
         "publication": "Micropsia",
         "url": "https://www.micropsiacine.com/2026/10/estrenos-critica-de-la-casa-de-gustavo-trivino/",
         "summary": "Valora la construcción de una amenaza gradual y la transición hacia el policial negro."
+      }
+    ],
+    "updatedAt": "2026-10-22"
+  },
+  "guardianesdelmuseo2lostesorosdeegipto": {
+    "url": "https://www.filmaffinity.com/ve/film632777.html",
+    "summary": "La crítica consultada rescata el mensaje sobre la amistad, pero cuestiona la animación y la profundidad de los personajes.",
+    "scores": [
+      {
+        "label": "Selene Soto · EscribiendoCine, recogido por FilmAffinity",
+        "value": "4/10",
+        "url": "https://www.filmaffinity.com/ve/film632777.html",
+        "kind": "Crítica individual"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Selene Soto",
+        "publication": "EscribiendoCine · vía FilmAffinity",
+        "url": "https://www.filmaffinity.com/ve/film632777.html",
+        "summary": "Considera que el mensaje de amistad puede interesar a los chicos, aunque encuentra débil el desarrollo de los personajes."
       }
     ],
     "updatedAt": "2026-10-22"
