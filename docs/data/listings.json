@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T04:23:27.246Z",
+  "generatedAt": "2026-11-18T13:59:57.153Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-18T04:23:27.246Z",
+      "updatedAt": "2026-11-18T13:59:57.153Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-18T04:23:27.246Z",
+      "updatedAt": "2026-11-18T13:59:57.153Z",
       "ok": true
     }
   ],
@@ -544,7 +544,7 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a93f5793-dde4-11f1-a4cc-12b3fcdc08e7"
         }
       ],
-      "summary": "Explorá Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "summary": "Es día de cosecha en el Distrito 12 y el nombre que se escucha es el de Haymitch Abernathy. Con apenas 16 años, es arrancado de su familia y de Lenore Dove, la chica que ama, para competir en los 50º Juegos del Hambre, la edición más cruel de todas. Veinticuatro años antes de Katniss, esta es la historia de cómo un chico del Distrito 12 se transformó en el mentor que ya conocemos. Un estreno que llega a LIFE Cinemas para que lo vivas en pantalla grande. Mirá los horarios de cine en la cartelera de cines LIFE y disfrutá las funciones en Montevideo (Tres Cruces y Cultural Alfabeta), Canelones (Costa Urbana Shopping) y Maldonado (Punta Shopping). Tenés entradas 2x1 con Antel, BROU, Anda y Pronto y 50% de descuento con BBVA.",
       "metadata": {
         "duration": 159,
         "classification": "AM 12",
@@ -559,6 +559,125 @@
           "Joseph Zada",
           "Elle Fanning",
           "Mckenna Grace"
+        ]
+      }
+    },
+    {
+      "id": "life-23551cfd-e2c8-11f1-a4cc-12b3fcdc08e7",
+      "title": "YO SOY ROCKY",
+      "genre": "Drama",
+      "poster": "posters/life-23551cfd-e2c8-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=KVDVxnGFoSY",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/yo-soy-rocky?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "time": "21:15",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e89af19-e21a-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:15",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8a8ea7-e21a-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "21:15",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8b7882-e21a-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "21:15",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8c55e6-e21a-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "21:15",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8d2cc7-e21a-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:15",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8e4b1e-e21a-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "21:15",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8ee1ed-e21a-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "Sylvester Stallone era un actor sin dinero y sin gran experiencia. Su forma de hablar y la parálisis parcial de su rostro le cerraban las puertas, así que decidió crear su propia oportunidad y escribió la historia de un boxeador desconocido que se enfrenta al campeón del mundo. Cuando los estudios se interesaron, él rechazó vender el guión y se aferró a ser el protagonista. Este estreno llega a cines LIFE para contarte la verdadera lucha detrás del nacimiento de Rocky, a 50 años de aquel clásico.  Dirigida por Peter Farrelly, el director de Green Book, la película tuvo su estreno mundial en el Festival de Toronto, y lo más elogiado de las primeras reseñas es el trabajo de Anthony Ippolito como el joven Stallone. Mirá los horarios en la cartelera de cine. 2x1 en entradas con Antel, BROU, Anda y Pronto o 50% de descuento con BBVA.",
+      "metadata": {
+        "duration": 127,
+        "classification": "AM 9",
+        "classificationDescription": "",
+        "originalTitle": "I PLAY ROCKY",
+        "releaseDate": "2026-11-19",
+        "language": "Inglés",
+        "directors": [
+          "Peter Farrelly"
+        ],
+        "cast": [
+          "Anthony Ippolito",
+          "AnnaSophia Robb",
+          "Matt Dillon"
+        ]
+      }
+    },
+    {
+      "id": "life-a7e06250-e299-11f1-a4cc-12b3fcdc08e7",
+      "title": "LA NUEVA FOCKER",
+      "genre": "Comedia",
+      "poster": "posters/life-a7e06250-e299-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=8W5FZbNpt20",
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/la-nueva-focker?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-11-24",
+          "time": "19:30",
+          "format": "2D Subtitulada",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a2030bca-e21a-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "19:30",
+          "format": "2D Subtitulada",
+          "room": "SALA 4",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a2063527-e21a-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "Diez años después de los últimos eventos, los papeles se invierten y Greg Focker se enfrenta a su mayor reto: ser el suegro. Cuando su hijo Henry anuncia su compromiso, Greg intenta ser el patriarca comprensivo que nunca tuvo, pero la presión hace que afloren en él inseguridades y termina recurriendo a las tácticas de espionaje y paranoia que aprendió del mismísimo Jack Byrnes.",
+      "metadata": {
+        "duration": 105,
+        "classification": "APTA ",
+        "classificationDescription": "",
+        "originalTitle": "FOCKER-IN-LAW",
+        "releaseDate": "2026-11-24",
+        "language": "Inglés",
+        "directors": [
+          "John Hamburg"
+        ],
+        "cast": [
+          "Ben Stiller",
+          "Robert De Niro",
+          "Ariana Grande"
         ]
       }
     },
@@ -1441,125 +1560,6 @@
           "Travis Knight"
         ],
         "cast": []
-      }
-    },
-    {
-      "id": "life-a7e06250-e299-11f1-a4cc-12b3fcdc08e7",
-      "title": "LA NUEVA FOCKER",
-      "genre": "Comedia",
-      "poster": "posters/life-a7e06250-e299-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=8W5FZbNpt20",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/la-nueva-focker?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-24",
-          "time": "19:30",
-          "format": "2D Subtitulada",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a2030bca-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "19:30",
-          "format": "2D Subtitulada",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a2063527-e21a-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "Diez años después de los últimos eventos, los papeles se invierten y Greg Focker se enfrenta a su mayor reto: ser el suegro. Cuando su hijo Henry anuncia su compromiso, Greg intenta ser el patriarca comprensivo que nunca tuvo, pero la presión hace que afloren en él inseguridades y termina recurriendo a las tácticas de espionaje y paranoia que aprendió del mismísimo Jack Byrnes.",
-      "metadata": {
-        "duration": 105,
-        "classification": "APTA ",
-        "classificationDescription": "",
-        "originalTitle": "FOCKER-IN-LAW",
-        "releaseDate": "2026-11-24",
-        "language": "Inglés",
-        "directors": [
-          "John Hamburg"
-        ],
-        "cast": [
-          "Ben Stiller",
-          "Robert De Niro",
-          "Ariana Grande"
-        ]
-      }
-    },
-    {
-      "id": "life-23551cfd-e2c8-11f1-a4cc-12b3fcdc08e7",
-      "title": "YO SOY ROCKY",
-      "genre": "Drama",
-      "poster": "posters/life-23551cfd-e2c8-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=KVDVxnGFoSY",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/yo-soy-rocky?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e89af19-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8a8ea7-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8b7882-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8c55e6-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8d2cc7-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8e4b1e-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8ee1ed-e21a-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"Yo Soy Rocky\" narra la historia de un joven Sylvester Stallone mucho antes de convertirse en una estrella de Hollywood. Con dificultades para conseguir papeles debido a su particular forma de hablar y a la parálisis parcial de su rostro, el actor decide crear su propia oportunidad y escribe la historia de un boxeador desconocido que recibe la posibilidad de enfrentarse al campeón mundial. Sin embargo, cuando los estudios muestran interés en esta historia, Stallone impone una condición que parece imposible: él mismo debe interpretar a Rocky Balboa. La película reconstruye la verdadera lucha detrás del nacimiento de la cinta Rocky.",
-      "metadata": {
-        "duration": 127,
-        "classification": "AM 9",
-        "classificationDescription": "",
-        "originalTitle": "I PLAY ROCKY",
-        "releaseDate": "2026-11-19",
-        "language": "Inglés",
-        "directors": [
-          "Peter Farrelly"
-        ],
-        "cast": [
-          "Anthony Ippolito",
-          "AnnaSophia Robb",
-          "Matt Dillon"
-        ]
       }
     },
     {
@@ -2447,7 +2447,7 @@
         "classificationDescription": "Apta para todo público.",
         "directors": [],
         "cast": [],
-        "releaseDate": "2026-11-26",
+        "releaseDate": "2026-11-24",
         "originalTitle": "",
         "language": ""
       },
