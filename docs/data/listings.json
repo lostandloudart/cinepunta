@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:53:10.079Z",
+  "generatedAt": "2026-11-18T04:23:27.246Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-17T22:53:10.079Z",
+      "updatedAt": "2026-11-18T04:23:27.246Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-17T22:53:10.079Z",
+      "updatedAt": "2026-11-18T04:23:27.246Z",
       "ok": true
     }
   ],
@@ -607,13 +607,6 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a200e61c-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
-          "date": "2026-11-17",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7105dce0-dc9d-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-19",
           "time": "19:20",
           "format": "2D Español",
@@ -971,13 +964,6 @@
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=240f39f1-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
-          "date": "2026-11-17",
-          "time": "21:30",
-          "format": "VIP 2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=f00be0e2-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-19",
           "time": "19:15",
           "format": "2D Español",
@@ -1098,76 +1084,62 @@
       }
     },
     {
-      "id": "life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7",
+      "id": "life-88ca3c9c-b08e-11f1-9fd4-12b3fcdc08e7",
       "title": "EL CORAZÓN DE LA BESTIA",
       "genre": "Acción",
-      "poster": "posters/life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7.jpg",
+      "poster": "posters/life-88ca3c9c-b08e-11f1-9fd4-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=02saBQpriUU",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/el-corazon-de-la-bestia?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-17",
-          "time": "21:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a6a57865-dc9f-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-19",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97a64864-e21a-11f1-a4cc-12b3fcdc08e7"
+          "time": "19:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b0daaae-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-20",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97a6f13f-e21a-11f1-a4cc-12b3fcdc08e7"
+          "time": "19:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b0e7744-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-21",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97a77f27-e21a-11f1-a4cc-12b3fcdc08e7"
+          "time": "19:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b0f2a90-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-22",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97a80242-e21a-11f1-a4cc-12b3fcdc08e7"
+          "time": "19:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b0fe4f9-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-23",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97aa0a4d-e21a-11f1-a4cc-12b3fcdc08e7"
+          "time": "19:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b1093de-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-24",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97aaa40f-e21a-11f1-a4cc-12b3fcdc08e7"
+          "time": "19:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b1139da-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-25",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97ab31e4-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "21:15",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a6a57865-dc9f-11f1-a4cc-12b3fcdc08e7"
+          "time": "19:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=7b11de99-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-19",
@@ -1514,10 +1486,10 @@
       }
     },
     {
-      "id": "life-5225c392-ab9e-11f1-9fd4-12b3fcdc08e7",
+      "id": "life-23551cfd-e2c8-11f1-a4cc-12b3fcdc08e7",
       "title": "YO SOY ROCKY",
       "genre": "Drama",
-      "poster": "posters/life-5225c392-ab9e-11f1-9fd4-12b3fcdc08e7.jpg",
+      "poster": "posters/life-23551cfd-e2c8-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=KVDVxnGFoSY",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/yo-soy-rocky?complex=Punta+del+Este",
@@ -1631,262 +1603,6 @@
           "Paula Silva"
         ]
       }
-    },
-    {
-      "id": "life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7",
-      "title": "MADRE SINIESTRA",
-      "genre": "Terror ",
-      "poster": "posters/life-00629a81-c0f5-11f1-a4cc-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=CwIBmSrzqn0",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/madre-siniestra?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-17",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=367ac8bf-dca0-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "22:00",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=367ac8bf-dca0-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "\"Madre Siniestra\" llega a la cartelera de cines de LIFE como uno de los estrenos de terror más perturbadores de la temporada. Dirigida por Rob Savage y protagonizada por Jessica Chastain, este film se centra en Bela, una niña de 8 años que vive en un hogar tenso, atravesado por el matrimonio problemático de sus padres. Todo se trastorna cuando una entidad siniestra a la que llama Otra Mamá emerge de su armario con una pregunta que hiela la sangre: “¿Puedo entrar en tu corazón?”. Bela se niega, pero las manifestaciones de esa presencia son cada vez más agresivas y ponen en peligro a toda la familia. Esa criatura que habita el armario se convierte en el nuevo centro de una pesadilla de la que nadie parece poder escapar. Una película para quienes disfrutan del miedo que se cuela en los espacios más cotidianos de la casa. Comprá tus entradas con 2x1 Brou, Antel, Anda y Pronto o 50% de descuento con BBVA.",
-      "metadata": {
-        "duration": 100,
-        "classification": "AM 15",
-        "classificationDescription": "",
-        "originalTitle": "OTHER MOMMY",
-        "releaseDate": "2026-10-08",
-        "language": "Inglés",
-        "directors": [
-          "Rob Savage"
-        ],
-        "cast": [
-          "Jessica Chastain",
-          "Jay Duplass",
-          "Arabella Olivia Clark"
-        ]
-      }
-    },
-    {
-      "id": "este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109",
-      "title": "Ebenezer: Los Fantasmas de Navidad",
-      "genre": "Comedia, Drama, Fantasía",
-      "poster": "posters/este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109.jpg",
-      "trailer": "https://www.youtube.com/watch?v=yisgjIzfk0M",
-      "summary": "Una emocionante historia de fantasmas ambientada en el Londres de Dickens, que sigue el viaje sobrenatural de un hombre para enfrentar su pasado, presente y futuro mientras lucha por una segunda oportunidad de redención.",
-      "metadata": {
-        "duration": 115,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-12",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c48a0ff3-9619-4b1e-a13b-a6d3d272a109/ebenezer-los-fantasmas-de-navidad",
-      "sessions": [
-        {
-          "date": "2026-11-17",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
-      "title": "La Casa",
-      "genre": "Comedia Dramática",
-      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
-      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
-      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-15",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
-      "sessions": [
-        {
-          "date": "2026-11-17",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "21:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
-      "title": "Verity: La Sombra de un Engaño",
-      "genre": "Drama, Suspenso",
-      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
-      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
-      "metadata": {
-        "duration": 120,
-        "classification": "Apta + 18",
-        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-01",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
-      "sessions": [
-        {
-          "date": "2026-11-17",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-550702dc-ee4e-42af-ac5d-42474f821e42",
-      "title": "Clayface",
-      "genre": "Terror, Suspenso",
-      "poster": "posters/este-550702dc-ee4e-42af-ac5d-42474f821e42.jpg",
-      "trailer": "https://www.youtube.com/watch?v=XTl8ubjkBoQ",
-      "summary": "Relata el horroroso descenso de un hombre: de ser una estrella de Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-22",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/550702dc-ee4e-42af-ac5d-42474f821e42/clayface",
-      "sessions": [
-        {
-          "date": "2026-11-17",
-          "time": "22:00",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
     },
     {
       "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
@@ -2488,6 +2204,174 @@
           "date": "2026-11-18",
           "time": "19:40",
           "format": "2D Esp",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109",
+      "title": "Ebenezer: Los Fantasmas de Navidad",
+      "genre": "Comedia, Drama, Fantasía",
+      "poster": "posters/este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109.jpg",
+      "trailer": "https://www.youtube.com/watch?v=yisgjIzfk0M",
+      "summary": "Una emocionante historia de fantasmas ambientada en el Londres de Dickens, que sigue el viaje sobrenatural de un hombre para enfrentar su pasado, presente y futuro mientras lucha por una segunda oportunidad de redención.",
+      "metadata": {
+        "duration": 115,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-12",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c48a0ff3-9619-4b1e-a13b-a6d3d272a109/ebenezer-los-fantasmas-de-navidad",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
+      "title": "La Casa",
+      "genre": "Comedia Dramática",
+      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
+      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
+      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-15",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "21:40",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:50",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "21:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-d3bc7a93-096f-40d0-9a23-b4e95868b549",
+      "title": "Verity: La Sombra de un Engaño",
+      "genre": "Drama, Suspenso",
+      "poster": "posters/este-d3bc7a93-096f-40d0-9a23-b4e95868b549.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pp887CO_QSU",
+      "summary": "Lowen Ashleigh, una escritora al borde de la bancarrota, recibe la oferta de terminar una saga inconclusa de la famosa autora Verity Crawford, incapacitada tras un accidente. Al instalarse en la mansión de los Crawford, Lowen descubre un manuscrito oculto con confesiones perturbadoras que ponen en duda la verdadera condición de Verity y las intenciones de Jeremy. La trama juega con la ambigüedad entre ficción y realidad, manteniendo al espectador en tensión constante.",
+      "metadata": {
+        "duration": 120,
+        "classification": "Apta + 18",
+        "classificationDescription": "Apta para mayores de 18 años. Presentar cedula de identidad. Menores de 18 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-01",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/d3bc7a93-096f-40d0-9a23-b4e95868b549/verity-la-sombra-de-un-engano",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "21:50",
+          "format": "2D Sub",
           "room": "SALA 4"
         }
       ]
