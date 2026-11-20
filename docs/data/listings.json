@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:55:04.949Z",
+  "generatedAt": "2026-11-20T21:06:02.457Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-20T12:55:04.949Z",
+      "updatedAt": "2026-11-20T21:06:02.457Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-20T12:55:04.949Z",
+      "updatedAt": "2026-11-20T21:06:02.457Z",
       "ok": true
     }
   ],
@@ -85,13 +85,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-11-20",
-          "time": "16:10",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=afcc5450-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-11-20",
           "time": "18:30",
@@ -224,13 +217,6 @@
           "format": "2D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9b2dcc8f-dde4-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "16:10",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=afcc5450-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-20",
@@ -782,13 +768,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/el-gato-con-sombrero?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-20",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=352c07d2-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-21",
           "time": "14:25",
           "format": "2D Español",
@@ -836,13 +815,6 @@
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3530d88f-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "16:50",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=352c07d2-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-21",
@@ -1237,13 +1209,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/godzilla-minus-zero?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-20",
-          "time": "16:20",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=89f52738-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-21",
           "time": "16:20",
           "format": "2D Español",
@@ -1277,13 +1242,6 @@
           "format": "2D Español",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=89fc2e14-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "16:20",
-          "format": "2D Español",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=89f52738-e21a-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-21",
@@ -1340,100 +1298,6 @@
       }
     },
     {
-      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
-      "title": "La Isla Olvidada",
-      "genre": "Animación",
-      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
-      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
-      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-09-19",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "time": "16:00",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "16:20",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "14:35",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "17:00",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "14:35",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "17:00",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "16:00",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "16:20",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "16:00",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "16:20",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "16:00",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "16:20",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
       "id": "este-329b549b-2660-4e0b-82f6-dc91f4b4af48",
       "title": "Los Juegos del Hambre Amanece Cosecha",
       "genre": "Acción, Aventura",
@@ -1453,12 +1317,6 @@
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/movie/329b549b-2660-4e0b-82f6-dc91f4b4af48/los-juegos-del-hambre-amanece-cosecha",
       "sessions": [
-        {
-          "date": "2026-11-20",
-          "time": "16:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
         {
           "date": "2026-11-20",
           "time": "18:25",
@@ -1619,12 +1477,6 @@
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/movie/4d8b4b38-ad7b-453c-9aff-b1e704792d9c/el-gato-con-sombrero",
       "sessions": [
-        {
-          "date": "2026-11-20",
-          "time": "16:30",
-          "format": "3D Esp",
-          "room": "SALA 1"
-        },
         {
           "date": "2026-11-20",
           "time": "19:00",
@@ -1944,6 +1796,88 @@
           "time": "14:30",
           "format": "2D Esp",
           "room": "SALA 1"
+        }
+      ]
+    },
+    {
+      "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
+      "title": "La Isla Olvidada",
+      "genre": "Animación",
+      "poster": "posters/este-439b56a4-a63f-4675-b79b-629962e01908.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YULOZUah1b0",
+      "summary": "Jo y Raissa son dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados. Mientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas. Algunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 9",
+        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-09-19",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/439b56a4-a63f-4675-b79b-629962e01908/la-isla-olvidada",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "14:35",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "17:00",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "14:35",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "17:00",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "16:00",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "16:20",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "16:00",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "16:20",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "16:00",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "16:20",
+          "format": "4D Esp",
+          "room": "SALA 2"
         }
       ]
     },
