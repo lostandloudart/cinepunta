@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:17:08.842Z",
+  "generatedAt": "2026-11-21T09:57:20.615Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-21T02:17:08.842Z",
+      "updatedAt": "2026-11-21T09:57:20.615Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-21T02:17:08.842Z",
+      "updatedAt": "2026-11-21T09:57:20.615Z",
       "ok": true
     }
   ],
@@ -59,6 +59,13 @@
           "format": "VIP 2D Subtitulada",
           "room": "SALA 3 VIP ",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d73185b0-e387-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "21:00",
+          "format": "VIP 2D Subtitulada",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=d7322173-e387-11f1-a4cc-12b3fcdc08e7"
         }
       ],
       "summary": "Treinta y cuatro días antes de ingresar a prisión, Elizabeth Holmes, la célebre fundadora de Theranos, invita a un escéptico equipo de filmación a su casa con una sola condición: podrían verlo todo. Lo que empieza como el retrato íntimo de una enigmática criminal se convierte en un alucinante viaje de tres años hacia el abismo, donde la pregunta ya no es qué se muestra, sino qué se esconde detrás de lo que vemos. Un estreno distinto a todo que llega a LIFE Cinemas para que lo vivas en pantalla grande. Nathan Fielder y Lance Oppenheim dirigen esta película que es una de las más comentadas de la temporada. Consultá la cartelera de cine y comprá tus entradas con 2x1 Antel, BROU, Anda y Pronto o 50% de descuento con BBVA.",
