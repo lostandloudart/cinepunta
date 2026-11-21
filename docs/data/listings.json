@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:57:20.615Z",
+  "generatedAt": "2026-11-21T17:34:09.894Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-21T09:57:20.615Z",
+      "updatedAt": "2026-11-21T17:34:09.894Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-21T09:57:20.615Z",
+      "updatedAt": "2026-11-21T17:34:09.894Z",
       "ok": true
     }
   ],
@@ -1200,40 +1200,6 @@
       }
     },
     {
-      "id": "este-329f38bb-2c6e-40de-9729-f2781653f886",
-      "title": "Escuela de Monstruos",
-      "genre": "Animación",
-      "poster": "posters/este-329f38bb-2c6e-40de-9729-f2781653f886.jpg",
-      "trailer": "https://www.youtube.com/watch?v=2iaKr78081o",
-      "summary": "Tras ser expulsada del colegio, Mía y su mascota Quentin llegan a la Escuela Bosque Muerto, donde ella es la única humana entre sus compañeros monstruosos. Debido al odio del director Van Vlad hacia los humanos, Mia deberá aliarse con los monstruos para desbaratar sus planes.",
-      "metadata": {
-        "duration": 85,
-        "classification": "Apta + 6",
-        "classificationDescription": "Apta para mayores de 6 años. Presentar cedula de identidad. Menores de 6 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-12",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/329f38bb-2c6e-40de-9729-f2781653f886/escuela-de-monstruos",
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "time": "14:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "14:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
       "id": "este-439b56a4-a63f-4675-b79b-629962e01908",
       "title": "La Isla Olvidada",
       "genre": "Animación",
@@ -1766,6 +1732,34 @@
           "time": "21:50",
           "format": "2D Esp",
           "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-329f38bb-2c6e-40de-9729-f2781653f886",
+      "title": "Escuela de Monstruos",
+      "genre": "Animación",
+      "poster": "posters/este-329f38bb-2c6e-40de-9729-f2781653f886.jpg",
+      "trailer": "https://www.youtube.com/watch?v=2iaKr78081o",
+      "summary": "Tras ser expulsada del colegio, Mía y su mascota Quentin llegan a la Escuela Bosque Muerto, donde ella es la única humana entre sus compañeros monstruosos. Debido al odio del director Van Vlad hacia los humanos, Mia deberá aliarse con los monstruos para desbaratar sus planes.",
+      "metadata": {
+        "duration": 85,
+        "classification": "Apta + 6",
+        "classificationDescription": "Apta para mayores de 6 años. Presentar cedula de identidad. Menores de 6 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-12",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/329f38bb-2c6e-40de-9729-f2781653f886/escuela-de-monstruos",
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "time": "14:30",
+          "format": "2D Esp",
+          "room": "SALA 1"
         }
       ]
     },
