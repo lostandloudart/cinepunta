@@ -87,26 +87,5 @@
       }
     ],
     "updatedAt": "2026-10-22"
-  },
-  "guardianesdelmuseo2lostesorosdeegipto": {
-    "url": "https://www.filmaffinity.com/ve/film632777.html",
-    "summary": "La crítica consultada rescata el mensaje sobre la amistad, pero cuestiona la animación y la profundidad de los personajes.",
-    "scores": [
-      {
-        "label": "Selene Soto · EscribiendoCine, recogido por FilmAffinity",
-        "value": "4/10",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "kind": "Crítica individual"
-      }
-    ],
-    "reviews": [
-      {
-        "author": "Selene Soto",
-        "publication": "EscribiendoCine · vía FilmAffinity",
-        "url": "https://www.filmaffinity.com/ve/film632777.html",
-        "summary": "Considera que el mensaje de amistad puede interesar a los chicos, aunque encuentra débil el desarrollo de los personajes."
-      }
-    ],
-    "updatedAt": "2026-10-22"
   }
 }
