@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:20:16.089Z",
+  "generatedAt": "2026-11-26T19:01:29.727Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-26T08:20:16.089Z",
+      "updatedAt": "2026-11-26T19:01:29.727Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-26T08:20:16.089Z",
+      "updatedAt": "2026-11-26T19:01:29.727Z",
       "ok": true
     }
   ],
@@ -1185,154 +1185,6 @@
       }
     },
     {
-      "id": "este-329b549b-2660-4e0b-82f6-dc91f4b4af48",
-      "title": "Los Juegos del Hambre Amanece Cosecha",
-      "genre": "Acción, Aventura",
-      "poster": "posters/este-329b549b-2660-4e0b-82f6-dc91f4b4af48.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aFN4Vuz7sfo",
-      "summary": "Ambientada en un Panem postapocalíptico, la precuela de Los Juegos Del Hambre nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
-      "metadata": {
-        "duration": 160,
-        "classification": "Apta + 12",
-        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-18",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/329b549b-2660-4e0b-82f6-dc91f4b4af48/los-juegos-del-hambre-amanece-cosecha",
-      "sessions": [
-        {
-          "date": "2026-11-26",
-          "time": "15:55",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-26",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-26",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "15:55",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "15:25",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "15:25",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "15:55",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "15:55",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "15:55",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        }
-      ]
-    },
-    {
       "id": "este-4d8b4b38-ad7b-453c-9aff-b1e704792d9c",
       "title": "El Gato Con Sombrero",
       "genre": "Animación",
@@ -1375,12 +1227,6 @@
           "time": "16:40",
           "format": "2D Esp",
           "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "16:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
         },
         {
           "date": "2026-12-01",
@@ -1498,12 +1344,6 @@
           "date": "2026-11-29",
           "time": "21:50",
           "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "16:15",
-          "format": "2D Esp",
           "room": "SALA 1"
         },
         {
@@ -1638,38 +1478,168 @@
         },
         {
           "date": "2026-11-30",
+          "time": "19:35",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-12-01",
           "time": "17:10",
           "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "19:35",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "17:10",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "19:35",
+          "format": "4D Esp",
+          "room": "SALA 2"
+        }
+      ]
+    },
+    {
+      "id": "este-329b549b-2660-4e0b-82f6-dc91f4b4af48",
+      "title": "Los Juegos del Hambre Amanece Cosecha",
+      "genre": "Acción, Aventura",
+      "poster": "posters/este-329b549b-2660-4e0b-82f6-dc91f4b4af48.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aFN4Vuz7sfo",
+      "summary": "Ambientada en un Panem postapocalíptico, la precuela de Los Juegos Del Hambre nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
+      "metadata": {
+        "duration": 160,
+        "classification": "Apta + 12",
+        "classificationDescription": "Apta para mayores de 12 años. Presentar cedula de identidad. Menores de 12 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-18",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/329b549b-2660-4e0b-82f6-dc91f4b4af48/los-juegos-del-hambre-amanece-cosecha",
+      "sessions": [
+        {
+          "date": "2026-11-26",
+          "time": "18:35",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "22:00",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "15:55",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "18:35",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "22:00",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "15:25",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "18:35",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "22:00",
+          "format": "4D Sub",
+          "room": "SALA 2"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "15:25",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "18:35",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "22:00",
+          "format": "4D Sub",
           "room": "SALA 2"
         },
         {
           "date": "2026-11-30",
-          "time": "19:35",
-          "format": "4D Esp",
+          "time": "18:35",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "22:00",
+          "format": "4D Sub",
           "room": "SALA 2"
         },
         {
           "date": "2026-12-01",
-          "time": "17:10",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "15:55",
+          "format": "2D Esp",
+          "room": "SALA 3"
         },
         {
           "date": "2026-12-01",
-          "time": "19:35",
-          "format": "4D Esp",
+          "time": "18:35",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "22:00",
+          "format": "4D Sub",
           "room": "SALA 2"
         },
         {
           "date": "2026-12-02",
-          "time": "17:10",
-          "format": "4D Esp",
-          "room": "SALA 2"
+          "time": "15:55",
+          "format": "2D Esp",
+          "room": "SALA 3"
         },
         {
           "date": "2026-12-02",
-          "time": "19:35",
-          "format": "4D Esp",
+          "time": "18:35",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "22:00",
+          "format": "4D Sub",
           "room": "SALA 2"
         }
       ]
