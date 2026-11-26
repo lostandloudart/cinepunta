@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:37:55.905Z",
+  "generatedAt": "2026-11-26T08:20:16.089Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-25T23:37:55.905Z",
+      "updatedAt": "2026-11-26T08:20:16.089Z",
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-25T23:37:55.905Z",
+      "updatedAt": "2026-11-26T08:20:16.089Z",
       "ok": true
     }
   ],
@@ -425,90 +425,104 @@
       }
     },
     {
-      "id": "life-54777b16-cbc4-11f0-98bc-12ef3739f737",
+      "id": "life-b9535902-dc86-11f1-a4cc-12b3fcdc08e7",
       "title": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
       "genre": "Acción",
-      "poster": "posters/life-54777b16-cbc4-11f0-98bc-12ef3739f737.jpg",
+      "poster": "posters/life-b9535902-dc86-11f1-a4cc-12b3fcdc08e7.jpg",
       "trailer": "https://www.youtube.com/watch?v=AfPkrHV3JfY",
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-25",
-          "time": "21:30",
-          "format": "2D Subtitulada",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e660e69-dde5-11f1-a4cc-12b3fcdc08e7"
+          "date": "2026-11-26",
+          "time": "15:50",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e47be8d2-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-26",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f7d19c7-e785-11f1-a4cc-12b3fcdc08e7"
+          "time": "18:20",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1caecbb5-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-27",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f7e1508-e785-11f1-a4cc-12b3fcdc08e7"
+          "time": "15:50",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e47d93e3-e786-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "18:20",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1caf9973-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-28",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f7ef1d6-e785-11f1-a4cc-12b3fcdc08e7"
+          "time": "15:50",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e47e7139-e786-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "18:20",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1cb046ff-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-29",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f80a5e2-e785-11f1-a4cc-12b3fcdc08e7"
+          "time": "15:50",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e47facf5-e786-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "18:20",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1cb0f9cd-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-30",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f824cbc-e785-11f1-a4cc-12b3fcdc08e7"
+          "time": "15:50",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e4805dc6-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-12-01",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f836c0e-e785-11f1-a4cc-12b3fcdc08e7"
+          "time": "15:50",
+          "format": "2D Español",
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e4816021-e786-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "18:20",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1cb24e1a-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-12-02",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f8483b1-e785-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:30",
-          "format": "2D Subtitulada",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e660e69-dde5-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:50",
+          "time": "15:50",
           "format": "2D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9b2dcc8f-dde4-11f1-a4cc-12b3fcdc08e7"
+          "room": "SALA 3 VIP ",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=e482390b-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
-          "date": "2026-11-25",
-          "time": "21:50",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a93f5793-dde4-11f1-a4cc-12b3fcdc08e7"
+          "date": "2026-12-02",
+          "time": "18:20",
+          "format": "2D Español",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1cb2d0a5-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-26",
@@ -727,13 +741,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/yo-soy-rocky?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=6e8ee1ed-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-11-26",
           "time": "21:30",
@@ -1178,174 +1185,6 @@
       }
     },
     {
-      "id": "life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7",
-      "title": "EL CORAZÓN DE LA BESTIA",
-      "genre": "Acción",
-      "poster": "posters/life-fbf97181-9107-11f1-9fd4-12b3fcdc08e7.jpg",
-      "trailer": "https://www.youtube.com/watch?v=02saBQpriUU",
-      "source": "life",
-      "url": "https://www.lifecinemas.com.uy/pelicula/el-corazon-de-la-bestia?complex=Punta+del+Este",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97ab31e4-e21a-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:50",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=97ab31e4-e21a-11f1-a4cc-12b3fcdc08e7"
-        }
-      ],
-      "summary": "En medio de la inmensidad de Alaska, sobrevivir será solo el comienzo. \"El Corazón de la Bestia\" se suma a la cartelera de cine como uno de los estrenos de aventura y supervivencia más emocionantes del año. Herido y perdido en uno de los territorios más hostiles del planeta, un ex soldado de Fuerzas Especiales tendrá como único compañero a su perro militar. Rodeados por el frío extremo y los peligros de la naturaleza, el vínculo entre ambos se convierte en el nuevo centro de una lucha por regresar a casa y, al mismo tiempo, enfrentarse a las heridas del pasado. Una historia de supervivencia, lealtad y redención para vivir en pantalla grande. Consultá los horarios de cine y disfrutala con funciones en Tres Cruces Shopping, Costa Urbana Shopping y Punta Shopping. Aprovechá, además, 50% de descuento con BBVA o entradas 2x1 con Brou, Antel, Anda y Pronto.",
-      "metadata": {
-        "duration": 101,
-        "classification": "AM 12",
-        "classificationDescription": "",
-        "originalTitle": "HEART OF THE BEAST",
-        "releaseDate": "2026-09-24",
-        "language": "Inglés",
-        "directors": [
-          "David Ayer"
-        ],
-        "cast": [
-          "Brad Pitt",
-          "J.K. Simmons",
-          "Anna Lambe"
-        ]
-      }
-    },
-    {
-      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
-      "title": "La Casa",
-      "genre": "Comedia Dramática",
-      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
-      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
-      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-15",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:30",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-26",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109",
-      "title": "Ebenezer: Los Fantasmas de Navidad",
-      "genre": "Comedia, Drama, Fantasía",
-      "poster": "posters/este-c48a0ff3-9619-4b1e-a13b-a6d3d272a109.jpg",
-      "trailer": "https://www.youtube.com/watch?v=yisgjIzfk0M",
-      "summary": "Una emocionante historia de fantasmas ambientada en el Londres de Dickens, que sigue el viaje sobrenatural de un hombre para enfrentar su pasado, presente y futuro mientras lucha por una segunda oportunidad de redención.",
-      "metadata": {
-        "duration": 115,
-        "classification": "Apta + 9",
-        "classificationDescription": "Apta para mayores de 9 años. Presentar cedula de identidad. Menores de 9 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-12",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c48a0ff3-9619-4b1e-a13b-a6d3d272a109/ebenezer-los-fantasmas-de-navidad",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:40",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        }
-      ]
-    },
-    {
-      "id": "este-b1297716-0b22-43a1-a16b-5c5f161b05a4",
-      "title": "Madre Siniestra",
-      "genre": "Terror",
-      "poster": "posters/este-b1297716-0b22-43a1-a16b-5c5f161b05a4.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aO7oytQi2c8",
-      "summary": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama \"Otra Mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "metadata": {
-        "duration": 95,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-08",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/b1297716-0b22-43a1-a16b-5c5f161b05a4/madre-siniestra",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:50",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
       "id": "este-329b549b-2660-4e0b-82f6-dc91f4b4af48",
       "title": "Los Juegos del Hambre Amanece Cosecha",
       "genre": "Acción, Aventura",
@@ -1365,12 +1204,6 @@
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/movie/329b549b-2660-4e0b-82f6-dc91f4b4af48/los-juegos-del-hambre-amanece-cosecha",
       "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
         {
           "date": "2026-11-26",
           "time": "15:55",
@@ -1944,6 +1777,70 @@
           "time": "21:30",
           "format": "2D Sub",
           "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
+      "title": "La Casa",
+      "genre": "Comedia Dramática",
+      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
+      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
+      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-15",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
+      "sessions": [
+        {
+          "date": "2026-11-26",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
         }
       ]
     }
