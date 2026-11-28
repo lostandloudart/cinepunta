@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:57:53.547Z",
+  "generatedAt": "2026-11-28T02:41:37.396Z",
   "sources": [
     {
       "id": "life",
@@ -12,7 +12,7 @@
       "lng": -54.9343,
       "locationSource": "https://www.lifecinemas.com.uy/complexs",
       "url": "https://www.lifecinemas.com.uy/?complex=Punta+del+Este",
-      "updatedAt": "2026-11-27T19:57:53.547Z",
+      "updatedAt": "2026-11-28T02:41:37.396Z",
       "ok": true
     },
     {
@@ -25,11 +25,53 @@
       "lng": -54.96308127424616,
       "locationSource": "https://atlanticoshopping.com.uy/contacto/",
       "url": "https://www.cinesdeleste.com.uy/",
-      "updatedAt": "2026-11-27T19:57:53.547Z",
+      "updatedAt": "2026-11-28T02:41:37.396Z",
       "ok": true
     }
   ],
   "movies": [
+    {
+      "id": "life-1bab2a5f-e828-11f1-a4cc-12b3fcdc08e7",
+      "title": "SPIDER-MAN: UN NUEVO (NUEVO) DÍA",
+      "genre": "Acción",
+      "poster": "posters/life-1bab2a5f-e828-11f1-a4cc-12b3fcdc08e7.jpg",
+      "trailer": null,
+      "source": "life",
+      "url": "https://www.lifecinemas.com.uy/pelicula/spiderman-un-nuevo-nuevo-dia?complex=Punta+del+Este",
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "time": "19:00",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=02cd4717-eaa9-11f1-a4cc-12b3fcdc08e7"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "19:00",
+          "format": "2D Subtitulada",
+          "room": "SALA 2",
+          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=02cd4717-eaa9-11f1-a4cc-12b3fcdc08e7"
+        }
+      ],
+      "summary": "\"Spider-Man: Un Nuevo Día\" llega el 29 de julio a la cartelera de cine como el estreno más esperado del año y uno de los eventos más importantes del Universo Marvel. Han pasado cuatro años desde que Peter Parker borró su existencia de la mente de todos los que amaba, y desde entonces vive solo, sin nombre, sin historia, siendo Spider-Man a tiempo completo en una Nueva York que ya no lo recuerda. Pero cuando un extraño patrón de crímenes comienza a sacudir la ciudad y una amenaza sin precedentes aparece en escena, el nuevo centro de su vida deja de ser el aislamiento para convertirse en la prueba más dura que ha enfrentado jamás, incluso para su propio cuerpo. Utilizá nuestras promos de cine habituales (2x1 Brou, Antel, Anda y Pronto o 50% de descuento con BBVA) y vivilo en la pantalla grande. Versión extendida.",
+      "metadata": {
+        "duration": 150,
+        "classification": "AM 9",
+        "classificationDescription": "",
+        "originalTitle": "SPIDER-MAN: BRAND NEW DAY - EXTENDED",
+        "releaseDate": "2026-12-03",
+        "language": "Inglés",
+        "directors": [
+          "Destin Cretton"
+        ],
+        "cast": [
+          "Tom Holland",
+          "Zendaya",
+          "Sadie Sink"
+        ]
+      }
+    },
     {
       "id": "life-82af20bc-e785-11f1-a4cc-12b3fcdc08e7",
       "title": "HECHIZO: BIENVENIDOS A HEXE",
@@ -39,20 +81,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/hechizo-bienvenidos-a-hexe?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "16:45",
-          "format": "3D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a7d8d19d-e785-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "19:15",
-          "format": "3D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=958f157f-e785-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-11-28",
           "time": "14:15",
@@ -136,34 +164,6 @@
           "format": "3D Español",
           "room": "SALA 1",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=95930231-e785-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "16:45",
-          "format": "3D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=a7d8d19d-e785-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "16:45",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b10bff32-e785-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "19:15",
-          "format": "3D Español",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=958f157f-e785-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "19:15",
-          "format": "4D Español",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=9e10bc2c-e785-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-28",
@@ -388,13 +388,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/puedes-verlo-todo?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "21:15",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=b92113e6-e784-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-28",
           "time": "21:15",
           "format": "VIP 2D Subtitulada",
@@ -454,13 +447,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "18:20",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1caf9973-e786-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-11-28",
           "time": "15:50",
@@ -523,27 +509,6 @@
           "format": "2D Español",
           "room": "SALA 2",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1cb2d0a5-e786-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "18:20",
-          "format": "2D Español",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=1caf9973-e786-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:50",
-          "format": "2D Subtitulada",
-          "room": "SALA 1",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=3f7e1508-e785-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:50",
-          "format": "4D Subtitulada",
-          "room": "SALA 1 / 4D ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=4e812059-e785-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-28",
@@ -707,13 +672,6 @@
       "url": "https://www.lifecinemas.com.uy/pelicula/yo-soy-rocky?complex=Punta+del+Este",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "21:30",
-          "format": "2D Subtitulada",
-          "room": "SALA 2",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=12e12ac2-e786-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
           "date": "2026-11-28",
           "time": "21:30",
           "format": "2D Subtitulada",
@@ -776,20 +734,6 @@
       "source": "life",
       "url": "https://www.lifecinemas.com.uy/pelicula/la-nueva-focker?complex=Punta+del+Este",
       "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78acc847-e787-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=06afd561-e787-11f1-a4cc-12b3fcdc08e7"
-        },
         {
           "date": "2026-11-28",
           "time": "17:15",
@@ -859,34 +803,6 @@
           "format": "2D Español",
           "room": "SALA 4",
           "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=06b463b5-e787-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "17:15",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=78acc847-e787-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "19:00",
-          "format": "VIP 2D Subtitulada",
-          "room": "SALA 3 VIP ",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=8e13b304-e786-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "19:30",
-          "format": "2D Español",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=06afd561-e787-11f1-a4cc-12b3fcdc08e7"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:45",
-          "format": "2D Subtitulada",
-          "room": "SALA 4",
-          "ticketUrl": "https://www.lifecinemas.com.uy/seats?scheduleId=fcada046-e786-11f1-a4cc-12b3fcdc08e7"
         },
         {
           "date": "2026-11-28",
@@ -1101,6 +1017,124 @@
       }
     },
     {
+      "id": "este-19ade4db-cacb-4f2d-b3ab-028756a4d468",
+      "title": "La Nueva Focker",
+      "genre": "Comedia",
+      "poster": "posters/este-19ade4db-cacb-4f2d-b3ab-028756a4d468.jpg",
+      "trailer": "https://www.youtube.com/watch?v=uFanjCval3A",
+      "summary": "Diez años después de los últimos eventos, los papeles se invierten y Greg Focker se enfrenta a su mayor reto: ser el suegro. Cuando su hijo Henry anuncia su compromiso, Greg intenta ser el patriarca comprensivo que nunca tuvo, pero la presión hace que afloren en él inseguridades y termina recurriendo a las tácticas de espionaje y paranoia que aprendió del mismísimo Jack Byrnes",
+      "metadata": {
+        "duration": 105,
+        "classification": "APTA",
+        "classificationDescription": "Apta para todo público.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-24",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/19ade4db-cacb-4f2d-b3ab-028756a4d468/la-nueva-focker",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "14:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "16:15",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "19:10",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "14:20",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "16:15",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "19:10",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "19:10",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "16:15",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "19:10",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "16:15",
+          "format": "2D Esp",
+          "room": "SALA 1"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "19:10",
+          "format": "2D Esp",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "21:50",
+          "format": "2D Sub",
+          "room": "SALA 1"
+        }
+      ]
+    },
+    {
       "id": "este-60da3949-cb28-4038-8d93-3e6ac9e419a8",
       "title": "Hechizo: Bienvenidos a Hexe",
       "genre": "Animación",
@@ -1120,18 +1154,6 @@
       "source": "este",
       "url": "https://www.cinesdeleste.com.uy/movie/60da3949-cb28-4038-8d93-3e6ac9e419a8/hechizo-bienvenidos-a-hexe",
       "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "17:10",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "19:35",
-          "format": "4D Esp",
-          "room": "SALA 2"
-        },
         {
           "date": "2026-11-28",
           "time": "14:45",
@@ -1221,18 +1243,6 @@
       "url": "https://www.cinesdeleste.com.uy/movie/329b549b-2660-4e0b-82f6-dc91f4b4af48/los-juegos-del-hambre-amanece-cosecha",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "18:35",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "22:00",
-          "format": "4D Sub",
-          "room": "SALA 2"
-        },
-        {
           "date": "2026-11-28",
           "time": "15:25",
           "format": "2D Esp",
@@ -1315,288 +1325,6 @@
           "time": "22:00",
           "format": "4D Sub",
           "room": "SALA 2"
-        }
-      ]
-    },
-    {
-      "id": "este-52052b24-a30a-49e9-8a97-884387d0feea",
-      "title": "Puedes Verlo Todo",
-      "genre": "Documental",
-      "poster": "posters/este-52052b24-a30a-49e9-8a97-884387d0feea.jpg",
-      "trailer": "https://www.youtube.com/watch?v=Nr1pg0RjVLI",
-      "summary": "Treinta y cuatro días antes de que la envíen a prisión, la notoria fundadora de Silicon Valley, Elizabeth Holmes, invita a un escéptico equipo de filmación a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo de un delincuente enigmático se convierte en un alucinante viaje de tres años hacia el abismo.",
-      "metadata": {
-        "duration": 175,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-26",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/52052b24-a30a-49e9-8a97-884387d0feea/puedes-verlo-todo",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:30",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "21:30",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "21:30",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "21:30",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "21:30",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "18:40",
-          "format": "2D Sub",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "21:30",
-          "format": "2D Sub",
-          "room": "SALA 3"
-        }
-      ]
-    },
-    {
-      "id": "este-19ade4db-cacb-4f2d-b3ab-028756a4d468",
-      "title": "La Nueva Focker",
-      "genre": "Comedia",
-      "poster": "posters/este-19ade4db-cacb-4f2d-b3ab-028756a4d468.jpg",
-      "trailer": "https://www.youtube.com/watch?v=uFanjCval3A",
-      "summary": "Diez años después de los últimos eventos, los papeles se invierten y Greg Focker se enfrenta a su mayor reto: ser el suegro. Cuando su hijo Henry anuncia su compromiso, Greg intenta ser el patriarca comprensivo que nunca tuvo, pero la presión hace que afloren en él inseguridades y termina recurriendo a las tácticas de espionaje y paranoia que aprendió del mismísimo Jack Byrnes",
-      "metadata": {
-        "duration": 105,
-        "classification": "APTA",
-        "classificationDescription": "Apta para todo público.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-11-24",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/19ade4db-cacb-4f2d-b3ab-028756a4d468/la-nueva-focker",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "19:10",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "14:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "16:15",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "19:10",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "14:20",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "16:15",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "19:10",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "19:10",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "16:15",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "19:10",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "16:15",
-          "format": "2D Esp",
-          "room": "SALA 1"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "19:10",
-          "format": "2D Esp",
-          "room": "SALA 3"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "21:50",
-          "format": "2D Sub",
-          "room": "SALA 1"
-        }
-      ]
-    },
-    {
-      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
-      "title": "La Casa",
-      "genre": "Comedia Dramática",
-      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
-      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
-      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
-      "metadata": {
-        "duration": 110,
-        "classification": "Apta + 15",
-        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
-        "directors": [],
-        "cast": [],
-        "releaseDate": "2026-10-15",
-        "originalTitle": "",
-        "language": ""
-      },
-      "source": "este",
-      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "22:10",
-          "format": "2D Esp",
-          "room": "SALA 4"
         }
       ]
     },
@@ -1641,6 +1369,140 @@
         {
           "date": "2026-12-02",
           "time": "16:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        }
+      ]
+    },
+    {
+      "id": "este-52052b24-a30a-49e9-8a97-884387d0feea",
+      "title": "Puedes Verlo Todo",
+      "genre": "Documental",
+      "poster": "posters/este-52052b24-a30a-49e9-8a97-884387d0feea.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Nr1pg0RjVLI",
+      "summary": "Treinta y cuatro días antes de que la envíen a prisión, la notoria fundadora de Silicon Valley, Elizabeth Holmes, invita a un escéptico equipo de filmación a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo de un delincuente enigmático se convierte en un alucinante viaje de tres años hacia el abismo.",
+      "metadata": {
+        "duration": 175,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-11-26",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/52052b24-a30a-49e9-8a97-884387d0feea/puedes-verlo-todo",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "21:30",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "21:30",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "21:30",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "21:30",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "18:40",
+          "format": "2D Sub",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "21:30",
+          "format": "2D Sub",
+          "room": "SALA 3"
+        }
+      ]
+    },
+    {
+      "id": "este-c4ca7e12-7b35-43c2-90fb-135679f7e27f",
+      "title": "La Casa",
+      "genre": "Comedia Dramática",
+      "poster": "posters/este-c4ca7e12-7b35-43c2-90fb-135679f7e27f.jpg",
+      "trailer": "https://www.youtube.com/watch?v=20B0K5FX4kE",
+      "summary": "Después de muchos años trabajando para una empresa multinacional, Hugo Vaca es despedido y debe enfrentar la dura realidad del mercado laboral. Al borde de la desesperación, conecta a través de un amigo con un grupo de inversionistas que ofrecen comprar su casa, valorada en un millón de dólares, por 50 por ciento de su valor pero con derecho a usarla hasta que muera. Acorralado por la realidad, acepta el trato, pero las cosas terminan por complicarse mucho más de lo que esperaba.",
+      "metadata": {
+        "duration": 110,
+        "classification": "Apta + 15",
+        "classificationDescription": "Apta para mayores de 15 años. Presentar cedula de identidad. Menores de 15 años deben de ser acompañados por su padre, madre o tutor.",
+        "directors": [],
+        "cast": [],
+        "releaseDate": "2026-10-15",
+        "originalTitle": "",
+        "language": ""
+      },
+      "source": "este",
+      "url": "https://www.cinesdeleste.com.uy/movie/c4ca7e12-7b35-43c2-90fb-135679f7e27f/la-casa",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "22:10",
+          "format": "2D Esp",
+          "room": "SALA 4"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "22:10",
           "format": "2D Esp",
           "room": "SALA 4"
         }
